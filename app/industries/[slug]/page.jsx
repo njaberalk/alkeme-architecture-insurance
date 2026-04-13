@@ -38,10 +38,15 @@ export default async function IndustryPage({ params }) {
     url: `https://alkemeins.com/trucking/industries/${industry.slug}/`,
     serviceType: 'Commercial Trucking Insurance',
     areaServed: { '@type': 'Country', name: 'United States' },
+    citation: { '@type': 'CreativeWork', name: 'Insurance Information Institute', url: 'https://www.iii.org' },
+    about: { '@type': 'Thing', name: industry.title },
   };
 
   return (
     <>
+      <meta name="author" content="ALKEME Insurance Services" />
+      <meta property="article:published_time" content="2025-06-01T00:00:00Z" />
+      <meta property="article:modified_time" content="2026-04-01T00:00:00Z" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {industry.faqs?.length > 0 && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
