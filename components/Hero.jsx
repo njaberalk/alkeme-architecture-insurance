@@ -67,7 +67,22 @@ export default function Hero() {
               transition: 'opacity 0.6s ease 0.3s, transform 0.6s ease 0.3s',
             }}
           >
-            Specialized trucking insurance for owner-operators, fleets, and transportation businesses — from the operation you&apos;ve built to the growth ahead.
+            Trucking insurance for owner-operators, fleets, and carriers. We cover auto liability, cargo, physical damage, and more — in all 50 states.
+          </p>
+
+          <p
+            style={{
+              fontSize: '0.95rem',
+              lineHeight: '1.6',
+              maxWidth: '550px',
+              color: 'rgba(255, 253, 245, 0.8)',
+              opacity: loaded ? 1 : 0,
+              transform: loaded ? 'translateY(0)' : 'translateY(20px)',
+              transition: 'opacity 0.6s ease 0.35s, transform 0.6s ease 0.35s',
+            }}
+            className="mb-8"
+          >
+            ALKEME Insurance Services provides commercial trucking insurance including auto liability, physical damage, motor truck cargo, general liability, and workers&apos; compensation for owner-operators and fleets across all 50 states.
           </p>
 
           <div

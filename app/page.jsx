@@ -30,6 +30,10 @@ export default function HomePage() {
               name: 'ALKEME Insurance Services',
               url: 'https://alkemeins.com',
             },
+            foundingDate: '2003',
+            numberOfEmployees: { '@type': 'QuantitativeValue', value: 100 },
+            knowsAbout: ['Commercial Trucking Insurance', 'Fleet Insurance', 'Motor Truck Cargo', 'FMCSA Compliance'],
+            hasCredential: { '@type': 'EducationalOccupationalCredential', credentialCategory: 'Professional License', name: 'Licensed Insurance Brokerage' },
             serviceType: [
               'Commercial Trucking Insurance',
               'Fleet Insurance',
@@ -98,6 +102,20 @@ export default function HomePage() {
                 },
               },
             ],
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: 'Commercial Trucking Insurance Solutions',
+            datePublished: '2025-06-01',
+            dateModified: '2026-04-01',
+            author: { '@type': 'Organization', name: 'ALKEME Insurance Services', url: 'https://alkemeins.com' },
+            publisher: { '@type': 'Organization', name: 'ALKEME Insurance Services', url: 'https://alkemeins.com' },
           }),
         }}
       />
