@@ -10,24 +10,24 @@ const alkemeLinks = [
 ];
 
 const coverageLinks = [
-  { label: 'Auto Liability', href: '/coverage/auto-liability/' },
-  { label: 'Physical Damage', href: '/coverage/physical-damage/' },
-  { label: 'Motor Truck Cargo', href: '/coverage/motor-truck-cargo/' },
+  { label: 'Professional Liability', href: '/coverage/professional-liability/' },
   { label: 'General Liability', href: '/coverage/general-liability/' },
   { label: 'Workers\' Comp', href: '/coverage/workers-compensation/' },
-  { label: 'Umbrella / Excess', href: '/coverage/umbrella-excess-liability/' },
+  { label: 'Cyber Liability', href: '/coverage/cyber-liability/' },
+  { label: 'Umbrella / Excess', href: '/coverage/umbrella-excess/' },
+  { label: 'Project-Specific', href: '/coverage/project-specific/' },
 ];
 
 const industryLinks = [
-  { label: 'Owner-Operators', href: '/industries/owner-operators/' },
-  { label: 'Small Fleets', href: '/industries/small-fleets/' },
-  { label: 'Large Fleets', href: '/industries/large-fleets/' },
-  { label: 'Flatbed', href: '/industries/flatbed/' },
-  { label: 'Refrigerated', href: '/industries/refrigerated/' },
-  { label: 'Hazmat', href: '/industries/hazmat/' },
+  { label: 'Residential Architecture', href: '/industries/residential-architecture/' },
+  { label: 'Commercial Architecture', href: '/industries/commercial-architecture/' },
+  { label: 'Healthcare Design', href: '/industries/healthcare-design/' },
+  { label: 'Structural Engineering', href: '/industries/structural-engineering/' },
+  { label: 'Sustainable Design', href: '/industries/sustainable-design/' },
+  { label: 'Interior Design', href: '/industries/interior-design/' },
 ];
 
-const truckingLinks = [
+const architectureLinks = [
   { label: 'Why Choose Us', href: '/#why-us' },
   { label: 'Our Process', href: '/#process' },
   { label: 'FAQ', href: '/#faq' },
@@ -50,7 +50,7 @@ export default function Footer() {
               />
             </a>
             <p className="text-brand/60 mb-6" style={{ fontSize: '0.9rem', lineHeight: '1.5' }}>
-              ALKEME Insurance Services is a nationally recognized insurance brokerage providing specialized transportation and trucking insurance solutions across all 50 states.
+              ALKEME Insurance Services is a nationally recognized insurance brokerage providing specialized architecture and design professional insurance solutions across all 50 states.
             </p>
             <div className="space-y-2">
               <a href="tel:+18559255363" className="block text-brand hover:text-blue-dark no-underline" style={{ fontSize: '0.95rem', lineHeight: '1.5', transition: 'all 0.2s' }}>
@@ -62,7 +62,7 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* ALKEME Links - cross-link to main site */}
+          {/* ALKEME Links */}
           <div>
             <h4 className="text-brand font-bold mb-5 text-right max-lg:text-left" style={{ fontSize: '1rem' }}>ALKEME</h4>
             <ul className="space-y-3 list-none p-0 m-0">
@@ -74,7 +74,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Trucking Coverage */}
+          {/* Coverage */}
           <div>
             <h4 className="text-brand font-bold mb-5 text-right max-lg:text-left" style={{ fontSize: '1rem' }}>Coverage</h4>
             <ul className="space-y-3 list-none p-0 m-0">
@@ -98,11 +98,11 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Trucking Hub */}
+          {/* Architecture Hub */}
           <div>
-            <h4 className="text-brand font-bold mb-5 text-right max-lg:text-left" style={{ fontSize: '1rem' }}>Trucking</h4>
+            <h4 className="text-brand font-bold mb-5 text-right max-lg:text-left" style={{ fontSize: '1rem' }}>Architecture</h4>
             <ul className="space-y-3 list-none p-0 m-0">
-              {truckingLinks.map((link) => (
+              {architectureLinks.map((link) => (
                 <li key={link.label} className="text-right max-lg:text-left">
                   <Link href={link.href} className="text-brand hover:text-blue-dark no-underline" style={{ fontSize: '0.9rem', lineHeight: '1.5', transition: 'all 0.2s' }}>{link.label}</Link>
                 </li>

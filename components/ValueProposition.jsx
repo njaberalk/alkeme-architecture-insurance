@@ -3,19 +3,19 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 const cards = [
   {
-    title: 'Transportation Industry Expertise',
-    description: 'Deep understanding of the risks facing trucking operations. Our specialists know the regulatory landscape, market conditions, and coverage requirements unique to commercial transportation.',
-    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80',
+    title: 'Design Profession Expertise',
+    description: 'Deep understanding of the risks facing architecture firms. Our specialists know professional liability, construction defect dynamics, and the coverage requirements unique to design practices.',
+    image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80',
   },
   {
-    title: 'Tailored Coverage Strategies',
-    description: 'No two operations are the same. We design coverage programs that align with your fleet size, cargo type, operating radius, and risk profile — not a one-size-fits-all policy.',
-    image: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=600&q=80',
+    title: 'Tailored Coverage Programs',
+    description: 'No two practices are the same. We design coverage programs that align with your firm size, project types, practice areas, and risk profile — not a one-size-fits-all package.',
+    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80',
   },
   {
-    title: 'Responsive Service & Claims Support',
-    description: 'When an incident occurs, every hour matters. Our team provides direct access to experienced claims advocates who understand trucking-specific challenges and move quickly on your behalf.',
-    image: 'https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=600&q=80',
+    title: 'Responsive Claims Support',
+    description: 'When a claim arises, every hour matters. Our team provides direct access to experienced claims advocates who understand design professional liability and move quickly on your behalf.',
+    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=600&q=80',
   },
 ];
 
@@ -32,10 +32,10 @@ export default function ValueProposition() {
             Why We&apos;re Different
           </p>
           <h2 className="text-brand font-bold leading-[1.3] tracking-tight mb-5" style={{ fontSize: 'clamp(2.2rem, 4vw, 2.6rem)' }}>
-            Specialized Protection for the Road Ahead
+            Specialized Protection for Design Professionals
           </h2>
           <p className="text-brand" style={{ fontSize: '1rem', lineHeight: '1.6' }}>
-            We combine deep industry knowledge with a consultative approach to deliver insurance programs that truly protect your operation.
+            We combine deep industry knowledge with a consultative approach to deliver insurance programs that truly protect your practice.
           </p>
         </div>
 
@@ -53,7 +53,6 @@ export default function ValueProposition() {
               />
               <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.6) 100%)' }} />
               <div className="absolute inset-0 pointer-events-none" style={{ opacity: 0.08, backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E")`, backgroundRepeat: 'repeat', backgroundSize: '128px 128px' }} />
-              {/* Hover overlay - matches alkeme insurance_tab-box-overlay */}
               <div
                 className="absolute inset-0 bg-brand opacity-0 group-hover:opacity-70"
                 style={{ transition: 'opacity 0.5s ease' }}

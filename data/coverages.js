@@ -1,547 +1,484 @@
 export const coverages = [
   {
-    slug: 'auto-liability',
-    title: 'Primary Auto Liability',
-    metaTitle: 'Trucking Auto Liability Insurance',
-    metaDescription: 'Primary auto liability insurance for trucking companies and owner-operators. Federally required coverage for bodily injury and property damage claims on the ...',
-    heroHeading: 'Primary Auto Liability Insurance',
+    slug: 'professional-liability',
+    title: 'Professional Liability (E&O)',
+    metaTitle: 'Professional Liability Insurance for Architects',
+    metaDescription: 'Professional liability (errors and omissions) insurance for architecture firms. Protects against claims of design errors, omissions, and professional negligence.',
+    heroHeading: 'Professional Liability Insurance for Architects',
     heroSubheading:
-      'Federally mandated protection that covers bodily injury and property damage caused by your commercial vehicles.',
+      'Essential protection against claims arising from design errors, omissions, and professional negligence in architecture practice.',
     overview:
-      'Primary auto liability is the foundational coverage every trucking operation must carry. It responds when your driver is at fault in an accident, paying for injuries to other parties and damage to their property up to your policy limit. Federal regulations under FMCSA require minimum limits ranging from $750,000 to $5,000,000 depending on the commodities you haul, making this the single most important policy in any fleet insurance program.',
+      'Professional liability insurance, also known as errors and omissions (E&O) coverage, is the most critical policy for any architecture firm. It responds when a client alleges that your design work, specifications, or professional advice caused financial harm. Given that a single construction defect claim can generate damages exceeding the value of your entire project fee, professional liability coverage is not optional — it is foundational to practice.',
     sections: [
       {
         heading: 'What It Covers',
         content:
-          'Primary auto liability pays for bodily injury and property damage that your covered vehicles cause to third parties. This includes medical expenses, lost wages, pain and suffering, legal defense costs, and repair or replacement of damaged property. The policy responds regardless of which driver is behind the wheel, provided they are operating under your authority.\n\nCoverage extends to accidents on public roads, at shipper and receiver facilities, and in any location where your vehicle is legally permitted to operate. Defense costs are typically covered in addition to your liability limit, meaning your full policy amount remains available for settlements and judgments.\n\nIt is important to understand that primary auto liability does not cover damage to your own vehicle or cargo. Those exposures require separate physical damage and motor truck cargo policies. Auto liability strictly addresses your financial obligation to others when your operations cause harm.',
+          'Professional liability insurance covers claims alleging negligent acts, errors, or omissions in your professional services. This includes design defects in plans and specifications, failure to meet building codes or accessibility standards, errors in structural calculations or material specifications, missed deadlines that cause financial harm, and inadequate construction administration. The policy pays for legal defense costs, settlements, and judgments arising from covered claims.\n\nCoverage typically extends to all professional services your firm provides, including schematic design, design development, construction documents, bidding and negotiation support, and construction administration. Many policies also cover claims related to project management, feasibility studies, and sustainability consulting when performed as part of your architecture practice.\n\nIt is important to understand that professional liability is a claims-made policy, meaning it responds to claims made during the policy period regardless of when the alleged error occurred, provided the policy was in force at the time of the wrongful act. This makes continuous, uninterrupted coverage essential for architecture firms.',
       },
       {
         heading: 'Who Needs It',
         content:
-          'Every motor carrier operating under its own USDOT number and MC authority is required by federal law to maintain primary auto liability coverage. This applies to for-hire carriers, private carriers hauling their own goods, and owner-operators leased onto a carrier who need coverage under their own authority during periods of non-dispatch.\n\nThe FMCSA sets minimum financial responsibility requirements based on what you transport. General freight carriers must carry at least $750,000 in coverage, while haulers of hazardous materials face minimums of $1,000,000 or $5,000,000. Many shippers and brokers contractually require limits well above the federal floor, with $1,000,000 being standard for general commodities.',
+          'Every architecture firm, from a sole practitioner to a large multi-office practice, needs professional liability coverage. Most state licensing boards do not mandate E&O insurance, but it is a practical necessity given the financial exposure inherent in design work. Clients, developers, and public agencies almost universally require proof of professional liability coverage before awarding contracts.\n\nThe American Institute of Architects recommends that all member firms maintain professional liability insurance, and many project contracts include minimum coverage requirements. Firms providing services on publicly funded projects, healthcare facilities, educational buildings, or large commercial developments face particularly stringent insurance requirements that often specify minimum limits of $1,000,000 to $5,000,000 or more.',
       },
       {
         heading: 'Why It Matters',
         content:
-          'A single serious trucking accident can generate claims that dwarf the federal minimum limits. Jury verdicts exceeding $10,000,000 in trucking cases have become increasingly common, a trend the industry calls nuclear verdicts. Without adequate auto liability limits, a catastrophic claim can bankrupt a motor carrier overnight.\n\nBeyond financial protection, maintaining proper auto liability coverage is a condition of your operating authority. A lapse in coverage triggers an automatic revocation process with the FMCSA, shutting down your ability to legally operate. Brokers and shippers verify your coverage status in real time through FMCSA databases, so even a brief gap can cost you freight contracts.',
+          'Architecture involves complex decisions that affect public safety, project budgets, and construction timelines. Even experienced firms with strong quality control processes face claims. Industry data indicates that roughly one in four architecture firms will face a professional liability claim in any given year, with average defense costs alone exceeding $50,000 per claim.\n\nConstruction defect litigation is particularly challenging because claims often surface years after project completion, when latent defects become apparent. Without professional liability coverage, a firm must fund its own legal defense and any resulting settlements from operating revenue or personal assets. A single significant claim can force a firm into bankruptcy.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Bodily injury liability for third-party medical costs, rehabilitation, and lost income',
-          'Property damage liability for vehicles, structures, and infrastructure you damage',
-          'Legal defense costs typically paid in addition to your coverage limit',
-          'MCS-90 endorsement filed with the FMCSA to satisfy financial responsibility requirements',
-          'Hired auto coverage available for vehicles you rent or borrow for business use',
-          'Coverage for all scheduled power units and drivers listed on your policy',
-          'Automatic coverage for newly acquired vehicles within a specified reporting window',
+          'Defense costs for claims alleging design errors, omissions, or negligent professional services',
+          'Settlements and judgments arising from covered wrongful acts',
+          'Coverage for all licensed professionals and employees acting within the scope of firm services',
+          'Prior acts coverage for work performed before the current policy inception, subject to retroactive date',
+          'Supplemental extended reporting period (tail coverage) options for retiring principals or dissolving firms',
+          'Coverage for claims related to code compliance, accessibility, and specification errors',
+          'Disciplinary proceedings defense coverage for licensing board complaints',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What is the minimum auto liability limit required for trucking companies?',
-        a: 'The FMCSA requires a minimum of $750,000 for general freight carriers. Carriers transporting hazardous materials must carry $1,000,000 or $5,000,000 depending on the specific commodity. Many shippers and brokers require $1,000,000 as a contractual minimum regardless of what you haul.',
+        q: 'What is the typical cost of professional liability insurance for architects?',
+        a: 'Premiums vary based on firm revenue, project types, claims history, and coverage limits. A small firm with annual revenue under $500,000 might pay between $3,000 and $8,000 per year for $1,000,000 in coverage. Larger firms with higher revenue and more complex projects pay proportionally more. Specialty areas like healthcare design or high-rise construction typically carry higher premiums due to elevated risk.',
       },
       {
-        q: 'Does primary auto liability cover my truck if it is damaged in an accident?',
-        a: 'No. Primary auto liability only covers damage and injuries you cause to other parties. To protect your own vehicles, you need a separate physical damage policy that includes collision and comprehensive coverage.',
+        q: 'What is the difference between claims-made and occurrence-based policies?',
+        a: 'Professional liability policies are written on a claims-made basis, meaning the policy in force when a claim is made responds to that claim — not the policy in force when the error occurred. This differs from occurrence-based policies like general liability, where the policy in force at the time of the incident responds. The claims-made structure means you must maintain continuous coverage, and if you retire or close the firm, you need tail coverage to protect against future claims from past work.',
       },
       {
-        q: 'What happens if my auto liability coverage lapses?',
-        a: 'The FMCSA is notified of any coverage lapse and will begin revocation proceedings against your operating authority. Your carrier status changes to "not authorized" in the FMCSA database, which brokers and shippers check before tendering loads. Even a single day without coverage can result in lost contracts and regulatory penalties.',
+        q: 'Does professional liability cover construction defect claims?',
+        a: 'Yes, professional liability covers claims alleging that your design or specifications contributed to a construction defect. However, it only covers the professional services aspect — your design errors or omissions. It does not cover faulty workmanship by contractors, which falls under the contractor\'s own insurance. If a building envelope fails because of a specification error in your documents, your professional liability responds to the claim against your firm.',
       },
       {
-        q: 'What is the MCS-90 endorsement?',
-        a: 'The MCS-90 is a federal endorsement attached to your auto liability policy that guarantees minimum financial responsibility to the public. It ensures that your insurer will pay valid claims even if a technical policy exclusion might otherwise apply. The MCS-90 is required for all for-hire interstate motor carriers.',
+        q: 'What happens if I let my professional liability coverage lapse?',
+        a: 'Allowing coverage to lapse is extremely risky because professional liability is claims-made. If a claim arises from past work after your coverage has lapsed, you have no policy to respond. Additionally, reinstating coverage after a lapse typically requires a new retroactive date, meaning prior work is no longer covered. Continuous, uninterrupted coverage is essential for architecture firms.',
       },
     ],
-    relatedCoverages: ['physical-damage', 'umbrella-excess-liability', 'general-liability'],
-  },
-
-  {
-    slug: 'physical-damage',
-    title: 'Physical Damage',
-    metaTitle: 'Truck Physical Damage Insurance',
-    metaDescription: 'Physical damage insurance for commercial trucks and trailers. Collision and comprehensive coverage to protect your fleet investment against accidents, theft,...',
-    heroHeading: 'Physical Damage Insurance',
-    heroSubheading:
-      'Collision and comprehensive protection that safeguards the trucks, tractors, and trailers your business depends on.',
-    overview:
-      'Physical damage insurance covers the cost of repairing or replacing your own commercial vehicles when they are damaged in an accident, stolen, vandalized, or affected by weather events. Unlike auto liability, which protects other parties, physical damage protects your fleet investment. For owner-operators with financed equipment, lenders will require this coverage as a condition of the loan or lease.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Physical damage policies include two core components: collision and comprehensive. Collision coverage pays to repair or replace your vehicle after it strikes another object or overturns, regardless of fault. Comprehensive coverage handles non-collision events including theft, fire, vandalism, windstorm, hail, flood, and animal strikes.\n\nMost policies also offer coverage for permanently attached equipment such as refrigeration units, lift gates, and specialized bodies. You can typically add coverage for spare parts, portable electronics, and personal property kept in the cab. Towing and emergency roadside labor costs are frequently included or available as endorsements.\n\nCoverage is typically written on an actual cash value basis, meaning the insurer pays the market value of the vehicle at the time of loss minus your deductible. Stated amount and agreed value options are available for trucks with custom builds or equipment that might be undervalued by standard depreciation calculations.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Any fleet owner or owner-operator with a significant financial stake in their equipment should carry physical damage coverage. If you are financing or leasing your truck, your lender will mandate collision and comprehensive coverage with specified deductibles and limits. Even if you own your equipment outright, replacing a $150,000 tractor out of pocket after a total loss would be devastating to most operations.\n\nPhysical damage is especially critical for newer equipment, specialized vehicles with custom upfits, and any truck that would be difficult to replace quickly. The decision to self-insure older, fully depreciated units is a calculated risk that depends on your cash reserves and the cost of downtime.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'Commercial trucks represent one of the largest capital investments in any trucking operation. A total loss without insurance coverage can put a single-truck owner-operator permanently out of business and strain even a large fleet\'s balance sheet. Beyond the replacement cost of the truck itself, extended downtime while sourcing a replacement means lost revenue, missed contract obligations, and driver retention challenges.\n\nPhysical damage coverage converts an unpredictable catastrophic expense into a manageable, budgeted cost. By selecting appropriate deductibles, you can balance your premium expense against your ability to absorb smaller losses, keeping your operation financially resilient against the unexpected.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Collision coverage for accidents involving other vehicles, objects, or rollovers',
-          'Comprehensive coverage for theft, fire, vandalism, weather, and animal strikes',
-          'Actual cash value, stated amount, or agreed value settlement options',
-          'Coverage for permanently installed equipment like reefer units and lift gates',
-          'Downtime or rental reimbursement while your truck is being repaired',
-          'Towing and roadside labor coverage for emergency recovery',
-          'Flexible deductible options to manage your premium costs',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the difference between collision and comprehensive coverage?',
-        a: 'Collision covers damage to your vehicle when it hits another object or rolls over, regardless of fault. Comprehensive covers non-collision events like theft, fire, hail, vandalism, flooding, and animal strikes. Together they provide complete physical damage protection for your equipment.',
-      },
-      {
-        q: 'How are physical damage claims valued?',
-        a: 'Most claims are settled on an actual cash value basis, which is the market value of your vehicle at the time of loss minus your deductible. If you have a custom or specialty vehicle that may be undervalued by standard depreciation, you can choose a stated amount or agreed value policy to lock in a predetermined payout.',
-      },
-      {
-        q: 'Should I carry physical damage on older trucks?',
-        a: 'It depends on your financial situation. If you can afford to replace the truck out of pocket without disrupting your business, dropping physical damage on a low-value unit can reduce premiums. If a total loss would cause serious financial hardship or extended downtime, maintaining coverage is the safer choice.',
-      },
-      {
-        q: 'Does physical damage insurance cover my trailer?',
-        a: 'Yes, trailers you own can be scheduled on your physical damage policy. Trailers you pull under a trailer interchange agreement with another party require a separate trailer interchange policy, as your physical damage coverage typically excludes non-owned trailers.',
-      },
-    ],
-    relatedCoverages: ['auto-liability', 'motor-truck-cargo', 'trailer-interchange'],
-  },
-
-  {
-    slug: 'motor-truck-cargo',
-    title: 'Motor Truck Cargo',
-    metaTitle: 'Motor Truck Cargo Insurance for Carriers',
-    metaDescription:
-      'Motor truck cargo insurance protects freight in transit against damage, theft, and loss. Essential coverage for for-hire trucking companies and owner-operators.',
-    heroHeading: 'Motor Truck Cargo Insurance',
-    heroSubheading:
-      'Protects the freight you haul against loss or damage from the moment it loads until final delivery.',
-    overview:
-      'Motor truck cargo insurance covers the value of goods you are transporting on behalf of shippers. As a for-hire carrier, you are legally liable for the freight in your custody under the Carmack Amendment, which establishes strict liability for loss and damage during transit. Cargo insurance transfers that financial risk to your insurer, covering claims for stolen, damaged, or destroyed shipments up to your policy limit.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Motor truck cargo insurance covers the shipper\'s goods while they are in your care, custody, and control during transit. Covered perils typically include collision, overturning, fire, theft, loading and unloading accidents, and weather-related damage. Most policies are written on a broad form or all-risk basis, meaning they cover all causes of loss except those specifically excluded.\n\nCoverage begins when freight is loaded onto your vehicle and continues until it is delivered to the designated consignee. Some policies extend coverage to temporary storage at terminals or warehouses during the normal course of transit. Refrigeration breakdown coverage, also called reefer breakdown, is available as an endorsement for temperature-sensitive loads.\n\nStandard exclusions typically include losses due to improper packaging by the shipper, inherent vice of the cargo, shipper fraud, acts of war, and nuclear hazards. Understanding your policy exclusions is essential because a denied cargo claim comes directly out of your pocket and can severely damage your relationship with shippers and brokers.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'All for-hire motor carriers need cargo insurance. While the FMCSA does not mandate specific cargo insurance limits for most carriers, the legal liability you assume under the Carmack Amendment means going without coverage is an enormous financial gamble. A single truckload of consumer electronics, pharmaceuticals, or industrial equipment can easily exceed $200,000 in value.\n\nBrokers and shippers universally require cargo coverage as a condition of doing business, with $100,000 being a common minimum requirement and many requiring $250,000 or more. Owner-operators leased to a motor carrier are typically covered under the carrier\'s cargo policy while under dispatch, but should verify this coverage and understand any gaps.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'Under the Carmack Amendment, you are liable for the full value of freight that is lost or damaged while in your possession, with very limited exceptions. Without cargo insurance, a single stolen load or a reefer failure on a high-value perishable shipment can wipe out months of operating profit.\n\nCargo claims also have a reputational dimension. Shippers and brokers track carrier claim histories, and repeated uninsured losses signal an unreliable operation. A strong cargo insurance program demonstrates professionalism, protects your balance sheet, and keeps you competitive when bidding for premium freight.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Broad form or all-risk coverage for most causes of freight loss and damage',
-          'Coverage from loading through final delivery at destination',
-          'Refrigeration breakdown endorsement for temperature-controlled loads',
-          'Debris removal coverage for clearing a spill after an accident',
-          'Earned freight charges reimbursement when a load is a total loss',
-          'Coverage limits from $100,000 to $500,000 or higher based on the value of freight you haul',
-          'Per-vehicle and per-occurrence limit options to match your exposure',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the Carmack Amendment and how does it affect my liability?',
-        a: 'The Carmack Amendment is a federal law that establishes strict liability for motor carriers over freight in their possession. It means you are responsible for the full value of lost or damaged cargo unless you can prove the loss was caused by an act of God, a public enemy, the shipper\'s own actions, or an inherent defect in the goods. This strict standard makes cargo insurance essential.',
-      },
-      {
-        q: 'How much cargo insurance do I need?',
-        a: 'Your limit should match the maximum value of any single load you transport. Most general freight carriers carry limits between $100,000 and $250,000. If you haul high-value commodities like electronics, pharmaceuticals, or machinery, you may need $500,000 or more. Review your broker and shipper contracts for their specific requirements.',
-      },
-      {
-        q: 'Does cargo insurance cover refrigeration breakdown?',
-        a: 'Standard cargo policies typically exclude losses caused by mechanical breakdown of your refrigeration unit. However, a reefer breakdown endorsement can be added to your policy to cover spoilage and damage resulting from reefer malfunction. This endorsement is essential if you haul temperature-sensitive freight.',
-      },
-      {
-        q: 'Am I covered for theft of cargo left in an unattended truck?',
-        a: 'Coverage varies by policy. Many cargo policies exclude theft from unattended vehicles unless specific security measures were in place, such as locked trailers, sealed doors, or parking in a secured facility. Review your policy\'s theft provisions carefully and follow your insurer\'s requirements for securing loads during stops.',
-      },
-    ],
-    relatedCoverages: ['auto-liability', 'general-liability', 'trailer-interchange'],
+    relatedCoverages: ['general-liability', 'umbrella-excess', 'project-specific'],
   },
 
   {
     slug: 'general-liability',
     title: 'General Liability',
-    metaTitle: 'Trucking General Liability Insurance',
-    metaDescription:
-      'General liability insurance for trucking companies covering premises injuries, completed operations, and advertising claims beyond the scope of auto liability.',
-    heroHeading: 'General Liability Insurance',
+    metaTitle: 'General Liability Insurance for Architecture Firms',
+    metaDescription: 'General liability insurance for architecture firms. Covers third-party bodily injury, property damage, and personal injury claims at your office and project sites.',
+    heroHeading: 'General Liability Insurance for Architects',
     heroSubheading:
-      'Covers injury and property damage claims arising from your business premises, operations, and completed work.',
+      'Protection against third-party bodily injury, property damage, and personal injury claims arising from your business operations.',
     overview:
-      'General liability insurance, also called commercial general liability or CGL, protects your trucking business against claims that fall outside your auto liability policy. It covers bodily injury and property damage occurring at your terminal, yard, or office, as well as claims arising from your completed operations after freight is delivered. General liability is a core component of a well-rounded commercial insurance program and is frequently required by landlords, customers, and contractual partners.',
+      'General liability insurance covers claims for bodily injury, property damage, and personal injury that arise from your firm\'s operations outside of your professional design services. While professional liability addresses design-related claims, general liability covers incidents like a visitor slipping in your office, damage to a client\'s property during a site visit, or advertising injury claims. Most commercial leases and project contracts require general liability coverage.',
     sections: [
       {
         heading: 'What It Covers',
         content:
-          'General liability covers three main categories of risk. Premises liability responds when someone is injured on property you own, lease, or control, such as a visitor who slips on ice in your truck yard or a vendor who is struck by a forklift at your terminal. Operations liability covers injuries and damage arising from your business activities that are not vehicle-related, including loading dock operations and warehouse work.\n\nCompleted operations coverage, the second major component, protects you after a job is finished. If freight you delivered was improperly secured and falls off a shelf at the consignee\'s warehouse injuring a worker, completed operations coverage responds. This is particularly important for carriers that provide ancillary services like lumper work, installation, or white glove delivery.\n\nThe third component, personal and advertising injury, covers claims of libel, slander, copyright infringement, and false advertising. While less common in trucking, these exposures exist for any company that markets its services publicly.',
+          'General liability insurance addresses three primary categories of claims. Premises liability covers injuries to visitors, clients, or delivery personnel at your office or studio. Operations liability covers bodily injury or property damage that occurs during your business activities away from your office, such as site visits, project inspections, or client presentations. Products and completed operations liability covers claims arising after a project is completed.\n\nThe policy also covers personal and advertising injury, which includes claims for libel, slander, copyright infringement in marketing materials, and wrongful eviction. Medical payments coverage provides no-fault medical expense reimbursement for minor injuries to third parties on your premises, regardless of who is at fault.\n\nGeneral liability does not cover professional errors and omissions — that exposure is handled by your professional liability policy. Understanding the boundary between general and professional liability is critical for architecture firms to ensure no gaps exist in their coverage program.',
       },
       {
         heading: 'Who Needs It',
         content:
-          'Every trucking company with a physical location, employees, or customer-facing operations needs general liability coverage. If you own or lease a terminal, yard, maintenance shop, or office space, your landlord will almost certainly require it. Shippers and third-party logistics providers frequently include general liability requirements in their carrier agreements.\n\nEven owner-operators who work from home benefit from general liability coverage. A mechanic visiting your home shop, a driver picking up paperwork, or a business meeting at your residence could all generate a premises liability claim. General liability fills the gap between what your auto policy covers and the full scope of your business exposure.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'Auto liability policies are specifically limited to claims arising from the operation of covered vehicles. Any claim that occurs off the road or after delivery is excluded from your auto policy entirely. Without general liability, your business is unprotected against a significant category of risk that includes some of the most common small business claims, such as slip-and-fall injuries and property damage at your facilities.\n\nGeneral liability also provides contractual liability coverage, which is essential when you sign contracts that require you to indemnify and hold harmless other parties. Without this coverage, those contractual obligations are backed only by your business assets, putting everything you have built at risk.',
+          'Every architecture firm needs general liability coverage. Commercial landlords require it as a condition of your office lease, typically with minimum limits of $1,000,000 per occurrence. Project owners and general contractors require it before you can access construction sites for inspections, observations, or meetings.\n\nPublic agencies and institutional clients often require general liability certificates naming them as additional insureds before awarding contracts. Without adequate general liability coverage, your firm cannot enter most commercial leases or compete for significant design commissions.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Premises liability for injuries at your yard, terminal, or office',
-          'Operations liability for non-vehicle-related business activities',
-          'Completed operations coverage for claims after freight delivery',
-          'Personal and advertising injury coverage for libel, slander, and related claims',
-          'Contractual liability for hold-harmless and indemnification agreements',
-          'Medical payments coverage for minor injuries regardless of fault',
-          'Products liability for goods you manufacture, sell, or distribute',
+          'Bodily injury liability for third-party injuries at your office, studio, or project sites',
+          'Property damage liability for damage to third-party property during business operations',
+          'Personal and advertising injury coverage for libel, slander, and copyright claims',
+          'Medical payments coverage for no-fault minor injury reimbursement',
+          'Products and completed operations coverage for post-project claims',
+          'Additional insured endorsements for project owners, landlords, and general contractors',
+          'Contractual liability coverage for hold-harmless agreements in design contracts',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What is the difference between auto liability and general liability?',
-        a: 'Auto liability covers claims arising from the operation of your vehicles on the road. General liability covers everything else, including injuries at your business premises, non-vehicle-related operations, and claims arising after delivery is complete. Both policies are necessary for comprehensive protection.',
+        q: 'What is the difference between general liability and professional liability for architects?',
+        a: 'General liability covers bodily injury, property damage, and personal injury claims from your business operations — things like someone slipping in your office or damage to property during a site visit. Professional liability covers claims arising from your professional design services — errors in plans, code compliance failures, or specification mistakes. Both are essential, and they do not overlap.',
       },
       {
-        q: 'What limits should a trucking company carry for general liability?',
-        a: 'Most trucking companies carry a general liability policy with a $1,000,000 per-occurrence limit and a $2,000,000 general aggregate. Your specific needs depend on the size of your operation, your lease agreements, and the contractual requirements of your customers and brokers.',
-      },
-      {
-        q: 'Does general liability cover damage to customer property at my terminal?',
-        a: 'Yes. If customer property is damaged while at your terminal or yard due to your negligence, such as a forklift striking a pallet of goods, general liability covers the resulting claim. However, damage to goods while in transit is covered by your motor truck cargo policy, not general liability.',
+        q: 'How much general liability coverage does an architecture firm need?',
+        a: 'Most architecture firms carry $1,000,000 per occurrence and $2,000,000 aggregate, which satisfies the requirements of most leases and contracts. Firms working on larger commercial or institutional projects may need $2,000,000 per occurrence or umbrella coverage to meet contractual requirements.',
       },
     ],
-    relatedCoverages: ['auto-liability', 'umbrella-excess-liability', 'workers-compensation'],
-  },
-
-  {
-    slug: 'non-trucking-liability',
-    title: 'Non-Trucking Liability',
-    metaTitle: 'Non-Trucking Liability (Bobtail) Insurance',
-    metaDescription:
-      'Non-trucking liability insurance for owner-operators and leased drivers. Bobtail coverage for personal use of your truck when not under motor carrier dispatch.',
-    heroHeading: 'Non-Trucking Liability Insurance',
-    heroSubheading:
-      'Liability protection for owner-operators using their truck for personal purposes outside of carrier dispatch.',
-    overview:
-      'Non-trucking liability, often called bobtail insurance, provides liability coverage for owner-operators when they are using their truck for personal purposes and are not under dispatch from the motor carrier they lease to. The carrier\'s auto liability policy covers you while hauling loads, but when that dispatch ends and you drive to a restaurant, home, or personal errand, a coverage gap exists. Non-trucking liability fills that gap.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Non-trucking liability covers your legal liability for bodily injury and property damage caused by your truck during personal, non-business use. This includes driving home after delivering a load, running personal errands, deadheading to your residence, or any other use that is not under the direction and control of the motor carrier you are leased to.\n\nThe policy functions exactly like auto liability in these situations, paying for injuries and damage you cause to third parties. It covers legal defense costs, settlements, and judgments up to your policy limit. Most non-trucking policies are written with a $1,000,000 combined single limit.\n\nIt is essential to understand that non-trucking liability does not cover you while engaged in any business use of the vehicle. If you are dispatched, hauling a load, deadheading to a pickup under dispatch, or performing any activity for the carrier\'s benefit, the carrier\'s primary auto liability policy is the applicable coverage.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Non-trucking liability is designed specifically for owner-operators who lease their truck and their services to a motor carrier under a lease agreement. Under this arrangement, the carrier\'s insurance covers the truck while it is under dispatch, but that coverage terminates the moment the dispatch ends and you begin personal use of the vehicle.\n\nIf you own your truck and drive it for any non-business purpose, whether commuting home, visiting family, or running errands, you need non-trucking liability to ensure you have continuous liability coverage. Operating a commercial vehicle without liability insurance is illegal in every state and exposes you to personal financial ruin in the event of an at-fault accident.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'The gap between carrier dispatch coverage and personal use is one of the most misunderstood exposures in trucking. Many owner-operators assume their carrier\'s policy covers them at all times, but that is not the case. The moment you complete a delivery and begin driving for personal reasons, you may be uninsured unless you carry non-trucking liability.\n\nAn at-fault accident while uninsured can result in a personal judgment against you for hundreds of thousands of dollars. It can also lead to license suspension, vehicle impoundment, and the loss of your ability to earn a living. Non-trucking liability provides affordable peace of mind during the hours and miles between dispatches.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Bodily injury and property damage liability during personal use of your truck',
-          'Coverage when not under dispatch or operating under carrier authority',
-          'Legal defense costs for covered claims',
-          'Typically written with a $1,000,000 combined single limit',
-          'Available as a standalone policy for leased owner-operators',
-          'Covers deadheading home after final delivery when dispatch is complete',
-          'Affordable premiums compared to full primary auto liability',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the difference between non-trucking liability and bobtail insurance?',
-        a: 'The terms are often used interchangeably, but there is a technical distinction. Non-trucking liability covers personal use of your truck when not under dispatch. True bobtail insurance covers driving without a trailer for any purpose, including some business use. Most policies sold as bobtail are actually non-trucking liability policies, so it is important to read the policy language carefully.',
-      },
-      {
-        q: 'Does non-trucking liability cover me while I am deadheading to pick up a load?',
-        a: 'No. If you are deadheading to a shipper under dispatch from your carrier, you are performing business activities and the carrier\'s auto liability policy should be providing coverage. Non-trucking liability only applies when you are not under dispatch and are using the truck for personal reasons.',
-      },
-      {
-        q: 'Do I need non-trucking liability if I never drive my truck for personal use?',
-        a: 'If your truck goes directly from one dispatch to the next without any personal use in between, you may have minimal exposure. However, any trip that is not under carrier dispatch, including driving home, stopping for meals, or running errands, falls outside the carrier\'s policy. Most owner-operators have at least some personal use exposure.',
-      },
-      {
-        q: 'Can I carry non-trucking liability and primary auto liability at the same time?',
-        a: 'Yes, but it is rarely necessary. If you operate under your own authority, you need primary auto liability. If you lease to a carrier, you need non-trucking liability. If you do both at different times, you may carry both policies, but they cover mutually exclusive situations.',
-      },
-    ],
-    relatedCoverages: ['auto-liability', 'physical-damage', 'occupational-accident'],
-  },
-
-  {
-    slug: 'trailer-interchange',
-    title: 'Trailer Interchange',
-    metaTitle: 'Trailer Interchange Insurance for Trucking',
-    metaDescription:
-      'Trailer interchange insurance covers physical damage to non-owned trailers in your possession under a trailer interchange agreement. Protect borrowed equipment.',
-    heroHeading: 'Trailer Interchange Insurance',
-    heroSubheading:
-      'Physical damage coverage for trailers you pull under interchange agreements with other carriers, brokers, or shippers.',
-    overview:
-      'Trailer interchange insurance covers physical damage to trailers that you do not own but are pulling under a written trailer interchange agreement. When you sign an interchange agreement, you assume financial responsibility for damage to the other party\'s trailer while it is in your possession. Your own physical damage policy typically excludes non-owned trailers, creating a significant coverage gap that trailer interchange insurance fills.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Trailer interchange insurance provides physical damage coverage, including collision and comprehensive, for trailers in your possession under a trailer interchange agreement. Covered perils include collision, fire, theft, vandalism, overturning, and weather events. The policy pays to repair or replace the trailer up to its actual cash value or an agreed amount, minus your deductible.\n\nCoverage applies from the moment you accept custody of the trailer under the interchange agreement until you return it to the owner or their designated agent. This includes time spent in transit, at loading and unloading facilities, and while parked at your yard or a truck stop during the normal course of transportation.\n\nTrailer interchange policies can be written to cover specific interchange partners or on a blanket basis that covers any trailer you pull under a qualifying interchange agreement. Blanket coverage is more flexible and eliminates the need to notify your insurer each time you enter a new interchange arrangement.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Any carrier that regularly pulls trailers owned by other parties under interchange agreements needs this coverage. This is common in intermodal operations, port drayage, and less-than-truckload networks where trailers are frequently exchanged between carriers at terminals and rail yards.\n\nThe party requiring the interchange agreement, whether a shipper, broker, or another carrier, will almost always require you to carry trailer interchange insurance as a condition of the agreement. Without it, you are personally liable for the full value of a trailer that can cost $30,000 to $80,000 or more to replace.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'When you sign a trailer interchange agreement, you take on full financial responsibility for someone else\'s property. Your standard physical damage policy covers only vehicles you own or lease, so a collision or theft involving an interchanged trailer could leave you writing a check for $50,000 or more out of your operating funds.\n\nTrailer interchange insurance is particularly critical in intermodal and drayage operations where trailer damage claims are frequent due to the high volume of trailer handoffs and the challenging operating environments at ports and rail yards. A single stolen container chassis or a fire that destroys a loaded trailer can generate a claim that exceeds many small carriers\' annual profit.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Collision and comprehensive coverage for non-owned trailers under interchange agreements',
-          'Blanket or scheduled trailer coverage options',
-          'Coverage from acceptance to return of the trailer',
-          'Protection at current replacement cost or actual cash value',
-          'Covers trailers at rest, in transit, and at shipper or receiver facilities',
-          'Available deductible options to manage premium expense',
-          'Satisfies contractual insurance requirements in interchange agreements',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is a trailer interchange agreement?',
-        a: 'A trailer interchange agreement is a written contract where one party transfers physical possession of a trailer to another party for the purpose of transporting a load. The party receiving the trailer assumes responsibility for loss or damage while the trailer is in their custody. These agreements are standard in intermodal, drayage, and LTL operations.',
-      },
-      {
-        q: 'Does my physical damage policy cover trailers I pull under interchange?',
-        a: 'In most cases, no. Standard physical damage policies cover vehicles you own or lease under a long-term agreement. Trailers in your temporary possession under an interchange agreement are typically excluded, which is why dedicated trailer interchange insurance exists.',
-      },
-      {
-        q: 'What is the difference between blanket and scheduled trailer interchange coverage?',
-        a: 'Scheduled coverage lists specific interchange partners or trailers on your policy. Blanket coverage automatically applies to any qualifying trailer you pull under an interchange agreement without needing to notify your insurer each time. Blanket coverage is more flexible and recommended for carriers with frequent interchange activity.',
-      },
-    ],
-    relatedCoverages: ['physical-damage', 'motor-truck-cargo', 'auto-liability'],
+    relatedCoverages: ['professional-liability', 'umbrella-excess', 'commercial-property'],
   },
 
   {
     slug: 'workers-compensation',
-    title: "Workers' Compensation",
-    metaTitle: "Trucking Workers' Compensation Insurance",
-    metaDescription: "Workers' compensation insurance for trucking companies covering medical bills, lost wages, and disability benefits for injured employees.",
-    heroHeading: "Workers' Compensation Insurance",
+    title: 'Workers\' Compensation',
+    metaTitle: 'Workers Compensation for Architecture Firms',
+    metaDescription: 'Workers compensation insurance for architecture firms. Covers employee injuries, medical expenses, and wage replacement as required by state law.',
+    heroHeading: 'Workers\' Compensation for Architecture Firms',
     heroSubheading:
-      'State-required coverage providing medical benefits and wage replacement to employees injured on the job.',
+      'State-mandated coverage providing wage replacement and medical benefits to employees injured in the course of their work.',
     overview:
-      "Workers' compensation insurance is required in nearly every state for businesses with employees. It covers medical expenses, lost wages, rehabilitation costs, and death benefits for employees who are injured or become ill as a result of their work. For trucking companies, this includes injuries sustained while driving, loading and unloading freight, performing vehicle maintenance, and working at terminals or offices. Workers' comp is both a legal obligation and a critical tool for protecting your workforce and your business.",
+      'Workers\' compensation insurance is required by law in nearly every state for firms with employees. It covers medical expenses, rehabilitation costs, and lost wages for employees who are injured or become ill as a result of their work. For architecture firms, common claims arise from site visit injuries, repetitive strain from computer use, and slip-and-fall incidents at the office or on construction sites.',
     sections: [
       {
         heading: 'What It Covers',
         content:
-          "Workers' compensation provides four main categories of benefits to injured employees. Medical benefits cover all reasonable and necessary treatment related to a work injury, including emergency care, surgery, hospitalization, prescription medication, physical therapy, and ongoing medical management. There is no deductible or copay for the employee.\n\nDisability benefits replace a portion of the employee's lost wages during recovery. These are categorized as temporary total disability, temporary partial disability, permanent total disability, and permanent partial disability, depending on the severity and duration of the impairment. The replacement rate and maximum benefit amounts are set by each state's workers' compensation statute.\n\nRehabilitation benefits cover vocational retraining and job placement services for employees who cannot return to their previous position. Death benefits provide income replacement and funeral expenses to the dependents of an employee killed on the job. Employers' liability coverage, included in most workers' comp policies, protects the business against lawsuits from injured employees in limited circumstances where workers' comp immunity does not apply.",
+          'Workers\' compensation pays for medical treatment, physical therapy, prescription medications, and rehabilitation for work-related injuries and illnesses. It also provides wage replacement benefits, typically paying two-thirds of the injured employee\'s average weekly wage during their recovery period. If an employee suffers a permanent disability, the policy provides ongoing benefits according to state schedules.\n\nFor architecture firms, covered scenarios include injuries sustained during construction site visits such as falls, struck-by incidents, or exposure to hazardous materials. Office-related claims include repetitive stress injuries from extended computer use, back injuries from sedentary work or lifting models and materials, and slip-and-fall incidents. The policy also covers employer\'s liability, which protects the firm if an injured employee sues outside the workers\' compensation system.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'State Requirements',
         content:
-          "Nearly every trucking company with W-2 employees is legally required to carry workers' compensation insurance. Requirements vary by state, but most states mandate coverage beginning with the first employee. Texas is the only state where private employers can opt out, though doing so exposes the company to significant tort liability.\n\nTrucking operations face unique challenges with workers' comp because drivers travel across multiple states. The policy must comply with the laws of every state where your employees work, which typically means carrying coverage in your home state and filing multi-state endorsements. Companies that hire independent contractors rather than employees may not need workers' comp for those individuals, but misclassification of employees as contractors is a major enforcement focus and can result in severe penalties.",
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          "Trucking consistently ranks among the most dangerous occupations in the United States. Drivers face risks from traffic accidents, lifting injuries, slips and falls at loading docks, and repetitive stress injuries from long hours behind the wheel. A serious injury can generate medical bills exceeding $100,000 and years of wage replacement payments.\n\nBeyond covering employee injuries, workers' compensation provides employer tort immunity. This means employees who receive workers' comp benefits generally cannot sue you for additional damages related to the workplace injury. Without this coverage, a single employee injury lawsuit could result in a judgment that threatens your business's survival. Proper workers' comp coverage protects your employees, satisfies your legal obligations, and shields your business from potentially ruinous litigation.",
+          'Workers\' compensation requirements vary by state, but nearly all states require coverage once a firm has one or more employees. Texas is the only state where coverage is voluntary for private employers, though even there, going without coverage exposes the firm to unlimited liability for workplace injuries.\n\nArchitecture firms with employees in multiple states must comply with the requirements of each state where employees are located or perform work. This is particularly relevant for firms with satellite offices or employees who travel to project sites across state lines. Proper state endorsements on your workers\' compensation policy ensure compliance in all jurisdictions where your employees work.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Full medical expense coverage for work-related injuries and illnesses',
-          'Wage replacement benefits during temporary or permanent disability',
-          'Vocational rehabilitation for employees unable to return to their prior role',
-          'Death benefits and funeral expense coverage for fatal work injuries',
-          "Employers' liability protection against employee lawsuits",
-          'Multi-state coverage for drivers operating across state lines',
-          'Managed care programs to control costs and improve outcomes',
+          'Medical expense coverage for work-related injuries and illnesses with no deductible to the employee',
+          'Wage replacement benefits during recovery periods, typically two-thirds of average weekly wages',
+          'Permanent disability benefits for employees who cannot return to their previous capacity',
+          'Death benefits for surviving dependents of employees killed in work-related incidents',
+          'Employer\'s liability coverage protecting the firm against lawsuits from injured employees',
+          'Coverage for employees visiting construction sites, client offices, and project locations',
+          'Compliance with state-specific requirements including monopolistic state fund states',
         ],
       },
     ],
     faqs: [
       {
-        q: "How are workers' compensation premiums calculated for trucking companies?",
-        a: "Premiums are based on your total payroll, the classification codes assigned to your employees' job duties, and your experience modification rate, which reflects your claims history relative to similar businesses. Long-haul drivers, local drivers, warehouse workers, and office staff each have different classification codes with different base rates.",
+        q: 'Do architecture firms really need workers\' compensation?',
+        a: 'Yes. Nearly every state requires workers\' compensation once you have employees. Even if your staff works primarily in an office, injuries can occur — repetitive stress, falls, and site visit accidents are common claims. Operating without required coverage exposes you to state penalties and unlimited personal liability for workplace injuries.',
       },
       {
-        q: 'What is an experience modification rate?',
-        a: 'The experience modification rate, or e-mod, is a multiplier applied to your premium that reflects your company\'s claims history compared to the industry average. An e-mod of 1.0 is average. A rate below 1.0 means fewer claims than average and results in lower premiums. A rate above 1.0 means more claims than average and increases your costs.',
-      },
-      {
-        q: "Do independent contractor drivers need to be covered under my workers' compensation policy?",
-        a: "Legitimate independent contractors are generally not covered under your workers' comp policy. However, if a driver classified as an independent contractor is later determined to be an employee by a state agency or court, you will be liable for unpaid workers' comp premiums and penalties. Proper classification and documentation are critical.",
-      },
-      {
-        q: "Does workers' compensation cover injuries that happen in another state?",
-        a: "Yes, but the coverage must be properly structured. Your policy should include an all-states endorsement or list every state where your drivers operate. Benefits are typically governed by the law of the state where the injury occurred or the state of hire, depending on the circumstances. Work with your agent to ensure your policy covers every state in your operating territory.",
+        q: 'How is the premium calculated for architecture firms?',
+        a: 'Workers\' compensation premiums are based on your total payroll multiplied by a classification rate that reflects the risk level of your work. Architecture firms typically receive lower classification rates than construction trades, but site visit exposure can affect your rating. Your experience modification rate, which reflects your claims history relative to similar firms, also directly impacts your premium.',
       },
     ],
-    relatedCoverages: ['general-liability', 'occupational-accident', 'umbrella-excess-liability'],
+    relatedCoverages: ['general-liability', 'umbrella-excess', 'employment-practices'],
   },
 
   {
-    slug: 'umbrella-excess-liability',
+    slug: 'commercial-property',
+    title: 'Commercial Property',
+    metaTitle: 'Commercial Property Insurance for Architecture Firms',
+    metaDescription: 'Commercial property insurance for architecture firms. Covers office space, equipment, models, drawings, and business personal property against damage and loss.',
+    heroHeading: 'Commercial Property Insurance for Architects',
+    heroSubheading:
+      'Protecting your office, equipment, models, drawings, and business personal property against physical loss and damage.',
+    overview:
+      'Commercial property insurance covers the physical assets your architecture firm depends on — your office or studio space, furniture, computer equipment, plotters, 3D printers, architectural models, material samples, and important documents. Whether you own your office building or lease space, property insurance protects against losses from fire, theft, windstorm, vandalism, and other covered perils.',
+    sections: [
+      {
+        heading: 'What It Covers',
+        content:
+          'Commercial property insurance covers damage to or loss of your business personal property from covered perils including fire, lightning, windstorm, hail, theft, vandalism, and water damage from burst pipes. For architecture firms, this includes all office furniture, computer workstations, monitors, servers, plotters and large-format printers, 3D printing equipment, laser cutters, physical models, material sample libraries, and reference materials.\n\nBusiness income coverage, typically included as an endorsement, replaces lost revenue and covers continuing expenses if a covered loss forces your office to close temporarily. Extra expense coverage pays for the cost of operating from a temporary location while your office is being repaired. For architecture firms with project deadlines, business interruption can cause as much financial damage as the property loss itself.',
+      },
+      {
+        heading: 'Special Considerations for Architects',
+        content:
+          'Architecture firms have unique property insurance needs that standard policies may not fully address. Physical models, renderings, and irreplaceable project documentation may require scheduled coverage or agreed-value endorsements to ensure adequate compensation. Firms with expensive technology such as virtual reality equipment, high-end workstations for BIM modeling, or specialized fabrication tools should verify that equipment values are accurately reflected in their policy.\n\nFirms occupying historic or architecturally significant office spaces may face replacement cost issues if the building requires specialized restoration rather than standard construction methods. Additionally, firms that store project archives — physical drawings, original models, or material samples — should consider valuable papers and records coverage to protect these assets.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Building coverage if you own your office or studio space',
+          'Business personal property coverage for equipment, furniture, models, and supplies',
+          'Business income and extra expense coverage for lost revenue during closures',
+          'Equipment breakdown coverage for specialized technology and production equipment',
+          'Valuable papers and records coverage for irreplaceable drawings and project documentation',
+          'Inland marine coverage for equipment and models in transit to client presentations or project sites',
+          'Flood and earthquake coverage available as separate endorsements or policies',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Does commercial property insurance cover my computer equipment and software?',
+        a: 'Yes, computer equipment is covered as business personal property. However, you should verify that your policy limits are sufficient to replace all workstations, servers, plotters, and peripheral devices at current replacement cost. Software and data are typically not covered by property insurance — you need cyber liability or data recovery endorsements for that exposure.',
+      },
+      {
+        q: 'Are architectural models covered if damaged in transit?',
+        a: 'Models and project materials in your office are covered under business personal property. However, coverage during transit to client presentations or exhibitions may require an inland marine floater or transit endorsement. If your firm regularly transports high-value models, discuss this exposure with your agent.',
+      },
+    ],
+    relatedCoverages: ['general-liability', 'cyber-liability', 'valuable-papers'],
+  },
+
+  {
+    slug: 'cyber-liability',
+    title: 'Cyber Liability',
+    metaTitle: 'Cyber Liability Insurance for Architecture Firms',
+    metaDescription: 'Cyber liability insurance for architecture firms. Covers data breaches, ransomware attacks, and technology-related liability from BIM models and digital files.',
+    heroHeading: 'Cyber Liability Insurance for Architects',
+    heroSubheading:
+      'Protection against data breaches, ransomware, and technology-related liability as architecture firms increasingly rely on digital workflows.',
+    overview:
+      'Architecture firms manage sensitive client data, proprietary design files, building security plans, and large BIM models that represent significant intellectual property. A ransomware attack that locks your firm out of active project files can halt operations for days or weeks, missing critical deadlines and breaching contractual obligations. Cyber liability insurance covers the financial consequences of data breaches, cyber extortion, and technology failures.',
+    sections: [
+      {
+        heading: 'What It Covers',
+        content:
+          'Cyber liability insurance covers both first-party losses your firm sustains and third-party claims from affected individuals or organizations. First-party coverage includes ransomware payments, data restoration costs, business interruption losses during a cyber event, forensic investigation expenses, public relations costs, and notification expenses required by state breach notification laws.\n\nThird-party coverage responds to lawsuits or regulatory actions arising from a data breach or cyber event. If client data, building security plans, or proprietary design information is compromised, affected parties may pursue legal action. The policy covers defense costs, settlements, and regulatory fines where insurable by law.',
+      },
+      {
+        heading: 'Why Architects Face Cyber Risk',
+        content:
+          'Architecture firms are increasingly attractive targets for cybercriminals because they hold valuable intellectual property and sensitive project data. BIM models contain detailed building information including structural systems, security layouts, utility access points, and occupancy data — information that has value to malicious actors. Firms working on government facilities, data centers, or critical infrastructure handle particularly sensitive design data.\n\nThe shift to cloud-based collaboration platforms, remote work, and digital file sharing has expanded the attack surface for architecture firms. Phishing attacks targeting employees with access to project management systems or financial accounts are the most common entry point. Ransomware attacks specifically targeting small to mid-size professional services firms have increased significantly, with attackers recognizing that project deadline pressure makes firms more likely to pay ransoms quickly.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Ransomware and cyber extortion coverage including negotiation and payment costs',
+          'Data restoration expenses to recover or recreate lost or corrupted project files',
+          'Business interruption coverage for revenue lost during a cyber event',
+          'Forensic investigation costs to determine the scope and cause of a breach',
+          'Notification and credit monitoring expenses required by state breach laws',
+          'Regulatory defense and fines coverage for privacy-related investigations',
+          'Social engineering fraud coverage for business email compromise schemes',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Do architecture firms really need cyber insurance?',
+        a: 'Yes. Architecture firms manage sensitive client data, building security plans, and proprietary design files that are attractive to cybercriminals. A ransomware attack that locks your firm out of active BIM models during a construction phase can cause project delays costing hundreds of thousands of dollars. Cyber insurance covers these losses and provides access to breach response resources.',
+      },
+      {
+        q: 'Does professional liability cover cyber-related claims?',
+        a: 'Professional liability policies typically exclude cyber events and data breaches. If a client sues because their building security plans were compromised in a breach of your systems, your professional liability policy may not respond. Cyber liability fills this gap with dedicated coverage for technology-related incidents.',
+      },
+    ],
+    relatedCoverages: ['professional-liability', 'commercial-property', 'valuable-papers'],
+  },
+
+  {
+    slug: 'commercial-auto',
+    title: 'Commercial Auto',
+    metaTitle: 'Commercial Auto Insurance for Architecture Firms',
+    metaDescription: 'Commercial auto insurance for architecture firms. Covers vehicles used for site visits, client meetings, and transporting models and equipment.',
+    heroHeading: 'Commercial Auto Insurance for Architects',
+    heroSubheading:
+      'Liability and physical damage coverage for vehicles your firm owns or uses for site visits, client meetings, and project inspections.',
+    overview:
+      'Architecture firms that own or lease vehicles for site visits, construction observations, client meetings, and transporting models or equipment need commercial auto insurance. Personal auto policies exclude vehicles used regularly for business purposes, and firms that rely on employee personal vehicles for firm business face exposure through hired and non-owned auto liability coverage.',
+    sections: [
+      {
+        heading: 'What It Covers',
+        content:
+          'Commercial auto insurance provides liability coverage for bodily injury and property damage caused by vehicles your firm owns, leases, or operates. It also includes physical damage coverage — collision and comprehensive — to protect the vehicles themselves. Hired auto coverage extends liability protection to vehicles your firm rents or borrows, while non-owned auto coverage addresses liability when employees use their personal vehicles for firm business.\n\nFor architecture firms, common covered scenarios include accidents during commutes to project sites, damage occurring while transporting architectural models or presentation materials, and liability arising from employee use of personal vehicles to visit construction sites or attend client meetings.',
+      },
+      {
+        heading: 'Hired and Non-Owned Auto',
+        content:
+          'Many architecture firms do not own a fleet of vehicles but rely on employees using personal cars for site visits and client meetings. Hired and non-owned auto liability coverage is essential in this scenario. If an employee causes an accident while driving to a construction site for a project inspection, the firm can be named in the resulting lawsuit. Without non-owned auto coverage, the firm has no policy to respond to this claim.\n\nThis coverage is typically added as an endorsement to your general liability policy or included in a business auto policy. Given that architecture professionals frequently drive to project sites, this is one of the most commonly overlooked exposures for design firms.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Liability coverage for firm-owned vehicles used for site visits and client meetings',
+          'Physical damage coverage including collision and comprehensive for owned vehicles',
+          'Hired auto liability for rented or borrowed vehicles',
+          'Non-owned auto liability for employee personal vehicles used for firm business',
+          'Coverage for transporting models, equipment, and materials to project sites',
+          'Uninsured and underinsured motorist protection',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Do we need commercial auto if employees use their own cars?',
+        a: 'Yes. If employees use personal vehicles for firm business — driving to site visits, client meetings, or construction observations — your firm needs hired and non-owned auto liability coverage. Without it, the firm is exposed to lawsuits arising from accidents during business-related driving, even in employee-owned vehicles.',
+      },
+      {
+        q: 'Does commercial auto cover models and equipment in the vehicle?',
+        a: 'Standard commercial auto policies cover the vehicle but not its contents. Models, equipment, and materials being transported should be covered under your commercial property or inland marine policy. Verify that your coverage extends to property in transit.',
+      },
+    ],
+    relatedCoverages: ['general-liability', 'umbrella-excess', 'commercial-property'],
+  },
+
+  {
+    slug: 'umbrella-excess',
     title: 'Umbrella / Excess Liability',
-    metaTitle: 'Trucking Umbrella & Excess Liability Insurance',
-    metaDescription: 'Umbrella and excess liability insurance for trucking fleets. Additional liability limits above your auto, general, and employers liability to protect against...',
-    heroHeading: 'Umbrella / Excess Liability Insurance',
+    metaTitle: 'Umbrella & Excess Liability Insurance for Architects',
+    metaDescription: 'Umbrella and excess liability insurance for architecture firms. Additional liability limits above your primary policies for catastrophic claims and large project requirements.',
+    heroHeading: 'Umbrella & Excess Liability for Architects',
     heroSubheading:
-      'Additional liability limits that sit above your primary policies to protect against catastrophic and high-severity claims.',
+      'Additional layers of liability protection above your primary policies for catastrophic claims and contractual requirements.',
     overview:
-      'Umbrella and excess liability insurance provides additional limits of liability above your underlying auto liability, general liability, and employers liability policies. In an era of escalating jury verdicts against trucking companies, primary policy limits of $1,000,000 are often insufficient to fully resolve a serious injury or wrongful death claim. An umbrella or excess policy adds critical capacity, ensuring your business can survive a catastrophic judgment without depleting its assets.',
+      'Umbrella and excess liability insurance extends the limits of your underlying liability policies — general liability, commercial auto, and employer\'s liability — providing an additional layer of financial protection for claims that exceed your primary coverage. For architecture firms working on large commercial, institutional, or public projects, umbrella coverage is often a contractual requirement.',
     sections: [
       {
         heading: 'What It Covers',
         content:
-          'An umbrella or excess liability policy increases your total available liability limits by stacking on top of your underlying primary policies. If your primary auto liability policy has a $1,000,000 limit and you carry a $4,000,000 umbrella, your total available limit for a covered auto liability claim is $5,000,000. The umbrella responds only after your primary policy limit is exhausted.\n\nMost trucking umbrella policies provide excess coverage over three underlying policies: commercial auto liability, commercial general liability, and employers liability. Some umbrella policies also provide broader coverage than the underlying policies, picking up certain claims that the primary policies exclude, though this varies significantly by insurer and policy form.\n\nExcess liability policies follow the exact terms and conditions of the underlying policy, providing only additional limits without expanding coverage. True umbrella policies may provide broader coverage and include a self-insured retention for claims that fall within the umbrella\'s scope but are not covered by any underlying policy. Understanding whether your policy is a true umbrella or a follow-form excess is important for evaluating your protection.',
+          'An umbrella policy sits above your primary general liability, commercial auto, and employer\'s liability policies. When a claim exceeds the limits of the underlying policy, the umbrella responds and pays up to its own limit. For example, if your firm has a $1,000,000 general liability policy and faces a $2,500,000 claim, the umbrella would cover the $1,500,000 excess after the primary policy is exhausted.\n\nSome umbrella policies also provide broader coverage than the underlying policies, covering claims that are excluded by the primary layer but included in the umbrella terms. This drop-down coverage can fill gaps that would otherwise leave the firm exposed.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'Why Architects Need It',
         content:
-          'Every trucking company should seriously evaluate the need for umbrella or excess liability coverage. The median verdict in trucking accident cases has risen dramatically, with verdicts exceeding $10,000,000 becoming routine in cases involving fatalities or catastrophic injuries. A primary auto liability limit of $1,000,000, while meeting federal minimums, provides limited protection against today\'s legal environment.\n\nCarriers hauling hazardous materials, operating in high-traffic urban corridors, or transporting passengers are at elevated risk and should carry higher limits. Shippers and brokers are increasingly requiring $5,000,000 or more in total auto liability limits, making umbrella coverage a business necessity for maintaining access to premium freight.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'The trucking industry has experienced a surge in what are known as nuclear verdicts, jury awards that far exceed what would have been considered reasonable a decade ago. Plaintiff attorneys now routinely use reptile theory and other advanced trial strategies to drive verdicts into eight and nine figures. A single catastrophic accident without adequate liability limits can force a carrier into bankruptcy.\n\nUmbrella coverage is also one of the most cost-effective ways to increase your protection. Because the umbrella only responds after primary limits are exhausted, the premium for millions of dollars in additional coverage is substantially less than the cost of an equivalent primary policy. For most carriers, adding an umbrella policy is the single most impactful step they can take to improve their financial resilience.',
+          'Architecture firms face liability exposure from multiple sources — visitor injuries at the office, accidents during site visits, employee injuries, and automobile incidents. A catastrophic claim from any of these sources can exceed the limits of a standard primary policy. Large jury verdicts in premises liability and auto accident cases regularly exceed $1,000,000.\n\nProject contracts increasingly require higher overall liability limits. A developer commissioning a $50,000,000 commercial building may require $5,000,000 or more in total liability coverage from all design consultants. Without umbrella coverage, your firm cannot meet these requirements and may be excluded from significant project opportunities.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Additional liability limits above auto, general, and employers liability policies',
-          'Coverage limits typically available from $1,000,000 to $10,000,000 or more',
-          'Excess coverage over multiple underlying liability policies',
-          'True umbrella forms may provide broader coverage than underlying policies',
-          'Defense costs coverage in addition to the policy limit on many forms',
-          'Self-insured retention for claims within umbrella scope but not covered by underlying policies',
-          'Cost-effective way to achieve high total liability limits',
+          'Additional liability limits above general liability, auto, and employer\'s liability policies',
+          'Drop-down coverage for claims excluded by primary policies but covered by the umbrella',
+          'Contractual compliance for project-specific liability requirements',
+          'Defense costs coverage for claims within the umbrella layer',
+          'Worldwide coverage territory for firms with international project exposure',
+          'Available in increments from $1,000,000 to $25,000,000 or more',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What is the difference between an umbrella policy and an excess liability policy?',
-        a: 'An excess liability policy follows the exact same terms and conditions as your underlying policy and simply adds more limit. A true umbrella policy may provide broader coverage than the underlying policies and can respond to certain claims that the primary policies exclude, subject to a self-insured retention. In practice, many policies marketed as umbrellas are actually follow-form excess policies.',
+        q: 'What is the difference between umbrella and excess liability?',
+        a: 'An umbrella policy provides broader coverage and may drop down to cover claims excluded by the primary policies. An excess policy strictly follows the same terms and conditions as the underlying policy and only provides additional limits. Umbrella policies are more common for small to mid-size firms, while large firms may use layered excess structures.',
       },
       {
-        q: 'How much umbrella coverage does a trucking company need?',
-        a: 'The appropriate limit depends on your fleet size, the commodities you haul, your operating territory, and the requirements of your shippers and brokers. Many carriers carry $5,000,000 to $10,000,000 in total limits. Given the trend of increasing verdict sizes, consulting with a specialized trucking insurance advisor to evaluate your specific exposure is strongly recommended.',
-      },
-      {
-        q: 'Can I buy umbrella coverage without changing my underlying policies?',
-        a: 'Your umbrella insurer will typically require that your underlying policies meet certain minimum limits and are written by carriers they approve. You may not need to change your underlying policies, but the umbrella insurer may require adjustments to ensure there are no gaps between your primary and excess coverage layers.',
-      },
-      {
-        q: 'What are nuclear verdicts and why should trucking companies be concerned?',
-        a: 'Nuclear verdicts are jury awards that significantly exceed the expected value of a claim, often reaching tens of millions of dollars. The trucking industry has been disproportionately affected by this trend due to the severity of accidents involving commercial vehicles. These verdicts make adequate umbrella or excess liability coverage essential for the financial survival of any trucking operation.',
+        q: 'Does umbrella coverage extend over professional liability?',
+        a: 'Typically no. Standard umbrella policies sit over general liability, auto, and employer\'s liability but do not extend over professional liability. If you need higher professional liability limits, you must purchase them within the E&O policy itself or obtain a separate professional liability excess layer.',
       },
     ],
-    relatedCoverages: ['auto-liability', 'general-liability', 'workers-compensation'],
+    relatedCoverages: ['general-liability', 'commercial-auto', 'professional-liability'],
   },
 
   {
-    slug: 'occupational-accident',
-    title: 'Occupational Accident',
-    metaTitle: 'Occupational Accident Insurance for Trucking',
-    metaDescription: 'Occupational accident insurance for independent contractor truck drivers. Medical, disability, and death benefits without requiring workers compensation cove...',
-    heroHeading: 'Occupational Accident Insurance',
+    slug: 'employment-practices',
+    title: 'Employment Practices Liability',
+    metaTitle: 'EPLI Insurance for Architecture Firms',
+    metaDescription: 'Employment practices liability insurance (EPLI) for architecture firms. Covers wrongful termination, discrimination, harassment, and wage disputes.',
+    heroHeading: 'Employment Practices Liability Insurance',
     heroSubheading:
-      'Medical, disability, and accidental death coverage designed specifically for independent contractor drivers.',
+      'Protection against employment-related claims including wrongful termination, discrimination, harassment, and retaliation.',
     overview:
-      "Occupational accident insurance provides injury and death benefits to independent contractor drivers who are not eligible for workers' compensation coverage. Since independent contractors are not employees, they fall outside the scope of state workers' comp laws. Occupational accident policies fill this protection gap, offering medical expense coverage, disability income benefits, and accidental death and dismemberment benefits to contractors who are injured while performing their work.",
+      'Employment practices liability insurance (EPLI) covers claims brought by current, former, or prospective employees alleging wrongful employment practices. For architecture firms, where creative culture and long project hours can create interpersonal tensions, EPLI provides essential protection against claims of wrongful termination, discrimination, sexual harassment, retaliation, and wage-and-hour violations.',
     sections: [
       {
         heading: 'What It Covers',
         content:
-          "Occupational accident insurance provides three core benefit categories. Medical expense coverage pays for treatment of injuries sustained while performing work as an independent contractor, including hospitalization, surgery, physician visits, diagnostic imaging, and prescription medications. Benefit limits typically range from $500,000 to $1,000,000 per occurrence.\n\nDisability income benefits replace a portion of the contractor's earnings during recovery from a covered injury. Policies typically offer both temporary total disability benefits, payable while the contractor is completely unable to work, and permanent total disability benefits for catastrophic injuries that permanently prevent the contractor from driving. Benefit amounts and durations vary by policy.\n\nAccidental death and dismemberment coverage provides a lump-sum payment to the contractor's beneficiaries in the event of death or the loss of limbs, sight, or hearing due to a covered accident. AD&D benefits typically range from $100,000 to $500,000 and are payable in addition to any other coverage the contractor may carry.",
+          'EPLI responds to claims alleging wrongful termination, constructive discharge, discrimination based on race, gender, age, disability, or other protected classes, sexual harassment, retaliation against whistleblowers, failure to promote, and violations of wage-and-hour laws. The policy covers defense costs, settlements, and judgments arising from these claims.\n\nCoverage typically extends to claims brought by current employees, former employees, and job applicants. Some policies also cover claims by third parties such as clients or contractors who allege harassment or discrimination by your employees during the course of business interactions.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'Why Architecture Firms Need It',
         content:
-          "Motor carriers that use independent contractor drivers should offer or require occupational accident coverage as part of their contractor agreements. While carriers are not legally required to provide workers' compensation to legitimate independent contractors, an uninsured contractor injury can generate significant legal exposure if the contractor's classification is challenged.\n\nIndependent owner-operators who work under a lease agreement with a carrier should carry occupational accident coverage whether the carrier provides it or not. Without either workers' comp or occupational accident insurance, a serious injury leaves the contractor with no income and potentially enormous medical bills. Personal health insurance may cover some medical costs but does not provide disability income or death benefits.",
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          "Independent contractor drivers face the same occupational hazards as employee drivers, including traffic accidents, loading dock injuries, and slips and falls, but without the safety net of workers' compensation. A contractor who is seriously injured and unable to drive may have no source of income and inadequate medical coverage to handle the treatment costs.\n\nFor motor carriers, providing occupational accident insurance to contractors serves multiple purposes. It helps attract and retain quality contractors, demonstrates a commitment to contractor welfare, and provides an additional layer of legal protection. If a contractor is injured and later claims to have been misclassified as an employee, the existence of an occupational accident program can help demonstrate the independent nature of the relationship while also ensuring the contractor had meaningful coverage regardless of classification status.",
+          'Architecture firms face the same employment-related exposures as any professional services business, plus some unique dynamics. The competitive, deadline-driven nature of design practice can create high-pressure work environments. The historically male-dominated profession has faced increased scrutiny around gender discrimination and harassment. Firms that hire interns, emerging professionals, and unlicensed staff must navigate complex wage-and-hour compliance issues.\n\nThe average EPLI claim costs over $125,000 to defend, even when the firm prevails. A single wrongful termination or discrimination lawsuit can disrupt firm operations, damage reputation, and consume management attention for months. EPLI provides both financial protection and access to employment law defense resources.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Medical expense benefits for work-related injuries, typically up to $1,000,000',
-          'Temporary total disability income replacement during recovery',
-          'Permanent total disability benefits for career-ending injuries',
-          'Accidental death and dismemberment lump-sum payments',
-          'Passenger accident coverage for authorized riders',
-          'Coverage for injuries occurring during work-related activities',
-          'Available as carrier-sponsored group plans or individual policies',
-          'Contingent liability coverage to protect the carrier against contractor injury claims',
+          'Defense costs for claims of wrongful termination and constructive discharge',
+          'Coverage for discrimination claims based on all protected classes',
+          'Sexual harassment claim defense and settlement coverage',
+          'Retaliation and whistleblower claim protection',
+          'Wage-and-hour defense coverage, including class action claims',
+          'Coverage for claims by employees, former employees, and job applicants',
+          'Third-party employment practices liability for client-facing harassment claims',
         ],
       },
     ],
     faqs: [
       {
-        q: "How is occupational accident insurance different from workers' compensation?",
-        a: "Workers' compensation is a state-mandated program that covers employees and provides guaranteed benefits set by state law. Occupational accident insurance is a private insurance product for independent contractors with benefits defined by the policy terms. Workers' comp provides broader protections including vocational rehabilitation and no-fault coverage, while occupational accident policies are more limited but serve contractors who are ineligible for workers' comp.",
+        q: 'Is EPLI required for architecture firms?',
+        a: 'EPLI is not legally required, but it is strongly recommended for any firm with employees. Employment claims are among the fastest-growing categories of business litigation, and the costs of defending even a frivolous claim can be substantial. Firms with five or more employees should seriously consider EPLI coverage.',
       },
       {
-        q: 'Can a motor carrier require independent contractors to carry occupational accident insurance?',
-        a: 'Yes. Many carriers require their independent contractors to maintain occupational accident coverage as a condition of their lease agreement. Some carriers sponsor group occupational accident programs that contractors can participate in, often at lower rates than individual policies.',
-      },
-      {
-        q: 'Does occupational accident insurance cover illnesses like heart attacks or strokes?',
-        a: 'Occupational accident insurance typically covers accidental injuries only, not illnesses. A heart attack or stroke that occurs while driving would generally not be covered unless it was directly caused by a covered accident. Some policies offer limited coverage for occupational diseases, but this is not standard.',
-      },
-      {
-        q: 'What happens if an independent contractor is reclassified as an employee after an injury?',
-        a: "If a contractor is reclassified as an employee by a state agency or court, the carrier may be liable for workers' compensation benefits and penalties for failure to carry coverage. Having an occupational accident program in place does not eliminate this risk, but it ensures the contractor received medical and disability benefits and can demonstrate the carrier acted in good faith.",
+        q: 'Does general liability cover employment claims?',
+        a: 'No. General liability policies specifically exclude employment-related claims. You need a dedicated EPLI policy to cover wrongful termination, discrimination, harassment, and wage-and-hour disputes. This is a common coverage gap for firms that assume their general liability or umbrella policy addresses these exposures.',
       },
     ],
-    relatedCoverages: ['workers-compensation', 'non-trucking-liability', 'auto-liability'],
+    relatedCoverages: ['general-liability', 'umbrella-excess', 'workers-compensation'],
+  },
+
+  {
+    slug: 'project-specific',
+    title: 'Project-Specific Insurance',
+    metaTitle: 'Project-Specific Insurance for Architects',
+    metaDescription: 'Project-specific professional liability insurance for architecture firms. Dedicated coverage for high-value, complex, or high-risk design projects.',
+    heroHeading: 'Project-Specific Insurance for Architects',
+    heroSubheading:
+      'Dedicated professional liability coverage for individual projects that require limits, terms, or duration beyond your practice policy.',
+    overview:
+      'Project-specific professional liability insurance provides dedicated coverage for a single project, isolated from your firm\'s practice policy. This approach is used for large, complex, or high-risk projects where the project owner wants assurance that coverage limits are available exclusively for that project and will remain in force through the applicable statute of repose regardless of changes to your practice policy.',
+    sections: [
+      {
+        heading: 'What It Covers',
+        content:
+          'Project-specific professional liability covers the same types of claims as your practice policy — design errors, omissions, and negligent professional services — but is dedicated to a single project. The policy limits are available exclusively for claims arising from that project and cannot be eroded by claims from other work your firm performs.\n\nThese policies are typically written with extended reporting periods that match the applicable statute of repose in the project jurisdiction, often providing seven to twelve years of coverage after project completion. This long-tail protection addresses the reality that construction defect claims frequently surface years after a building is occupied.',
+      },
+      {
+        heading: 'When to Use Project-Specific Coverage',
+        content:
+          'Project-specific insurance is appropriate when a project requires higher limits than your practice policy provides, when the project owner contractually requires dedicated coverage, when the project involves an unusual risk profile that might not be well-suited to your standard policy, or when the project duration and statute of repose exposure extend significantly beyond your normal policy periods.\n\nLarge public projects, healthcare facilities, high-rise buildings, mixed-use developments, and projects with multiple design firms often benefit from project-specific or owner-controlled insurance programs. Some project-specific policies are structured as Owner-Controlled Professional Liability (OCPL) programs, where the project owner purchases the policy and all design team members are covered under a single program.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Dedicated policy limits available exclusively for claims from the covered project',
+          'Extended reporting periods matching the statute of repose in the project jurisdiction',
+          'Coverage for all design team members under a single policy (OCPL programs)',
+          'Elimination of cross-litigation between design team members',
+          'Project-specific deductibles and terms tailored to the risk profile',
+          'Continuity of coverage regardless of changes to practice policies',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'When should an architecture firm consider project-specific insurance?',
+        a: 'Project-specific coverage makes sense when a single project has a construction value exceeding $25,000,000, when the owner contractually requires dedicated limits, when the project involves unusual risk (healthcare, high-rise, infrastructure), or when your practice policy limits are not sufficient to cover the potential exposure from that single project.',
+      },
+      {
+        q: 'Who pays for project-specific insurance?',
+        a: 'It depends on the arrangement. In some cases, the architecture firm purchases a project-specific policy to meet contractual requirements, and the cost is included in the fee proposal. In OCPL (owner-controlled) programs, the project owner purchases the policy and all design consultants are enrolled. The latter approach is more common on large institutional and public projects.',
+      },
+    ],
+    relatedCoverages: ['professional-liability', 'umbrella-excess', 'general-liability'],
+  },
+
+  {
+    slug: 'valuable-papers',
+    title: 'Valuable Papers & Records',
+    metaTitle: 'Valuable Papers Insurance for Architecture Firms',
+    metaDescription: 'Valuable papers and records insurance for architecture firms. Covers the cost of recreating lost or damaged architectural drawings, plans, and project documentation.',
+    heroHeading: 'Valuable Papers & Records Coverage',
+    heroSubheading:
+      'Protecting the cost of recreating irreplaceable architectural drawings, project documentation, and design archives.',
+    overview:
+      'Valuable papers and records insurance covers the cost of recreating or replacing important documents that are lost or damaged by a covered peril. For architecture firms, this includes original drawings, project specifications, construction documents, survey data, material test results, contracts, and project correspondence. While digital files can be backed up, the labor cost of recreating lost documents from scratch can be enormous.',
+    sections: [
+      {
+        heading: 'What It Covers',
+        content:
+          'Valuable papers coverage pays for the cost of researching and recreating documents that cannot simply be replaced — original architectural drawings, hand-rendered presentations, project archives, and unique reference materials. The coverage addresses the labor, materials, and professional time required to reconstruct these documents to their original state.\n\nFor architecture firms that maintain physical archives of completed projects, this coverage protects against the loss of decades of project history from fire, water damage, theft, or other covered perils. Even firms that have digitized their archives may need this coverage for original documents, physical models, material samples, and records that have no digital equivalent.',
+      },
+      {
+        heading: 'Digital Records and BIM Models',
+        content:
+          'Modern architecture practice generates enormous volumes of digital data — BIM models, rendering files, parametric design data, and project management records. While valuable papers coverage traditionally addressed physical documents, many policies now extend to cover the cost of recreating digital records that are lost or corrupted beyond recovery.\n\nHowever, valuable papers coverage for digital records is distinct from cyber liability insurance. Valuable papers addresses accidental loss or physical damage to records. Cyber liability covers losses from hacking, ransomware, and data breaches. Firms should maintain both coverages to protect their full range of records and data assets.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Cost of recreating lost or damaged original architectural drawings and specifications',
+          'Protection for project archives, contracts, and construction documentation',
+          'Coverage for physical models, material samples, and reference materials',
+          'Digital records recreation coverage for corrupted or lost electronic files',
+          'Coverage during transit to client presentations or off-site storage',
+          'Protection for records stored at off-site locations or archives',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Is valuable papers coverage included in commercial property insurance?',
+        a: 'Standard commercial property policies provide limited coverage for valuable papers, often with sublimits of $10,000 to $25,000 that are far below the actual recreation cost. Architecture firms with significant archives or irreplaceable project documentation should purchase additional valuable papers coverage or a dedicated inland marine policy.',
+      },
+      {
+        q: 'Does this cover digital files and BIM models?',
+        a: 'Many modern valuable papers policies extend to cover digital records, but the terms vary. Some policies cover the cost of recreating digital files from backup, while others require a separate electronic data endorsement. Discuss your firm\'s digital asset exposure with your agent to ensure adequate coverage.',
+      },
+    ],
+    relatedCoverages: ['commercial-property', 'cyber-liability', 'professional-liability'],
   },
 ];
 
-/**
- * Retrieve a single coverage object by its URL slug.
- * @param {string} slug - The URL-safe slug for the coverage type.
- * @returns {object|undefined} The matching coverage object, or undefined if not found.
- */
 export function getCoverageBySlug(slug) {
   return coverages.find((c) => c.slug === slug);
 }

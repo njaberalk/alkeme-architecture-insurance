@@ -108,7 +108,7 @@ export default function BlogPageContent({ post }) {
             <div>
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Coverage</h3>
               <div className="space-y-2">
-                {['auto-liability', 'physical-damage', 'motor-truck-cargo', 'workers-compensation', 'umbrella-excess-liability'].map(slug => (
+                {['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess', 'project-specific'].map(slug => (
                   <Link key={slug} href={`/coverage/${slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                   </Link>
@@ -118,7 +118,7 @@ export default function BlogPageContent({ post }) {
             <div>
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Industries</h3>
               <div className="space-y-2">
-                {['owner-operators', 'small-fleets', 'large-fleets', 'flatbed', 'hazmat'].map(slug => (
+                {['residential-architecture', 'commercial-architecture', 'healthcare-design', 'structural-engineering', 'sustainable-design'].map(slug => (
                   <Link key={slug} href={`/industries/${slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                   </Link>
@@ -128,7 +128,7 @@ export default function BlogPageContent({ post }) {
             <div>
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Top States</h3>
               <div className="space-y-2">
-                {['texas', 'california', 'florida', 'illinois', 'ohio'].map(slug => (
+                {['california', 'new-york', 'texas', 'florida', 'illinois'].map(slug => (
                   <Link key={slug} href={`/states/${slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {slug.charAt(0).toUpperCase() + slug.slice(1)}
                   </Link>

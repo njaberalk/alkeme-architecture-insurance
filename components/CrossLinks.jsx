@@ -7,9 +7,11 @@ export function RelatedIndustries({ slugs, title = 'Industries That Need This Co
   if (!slugs?.length) return null;
 
   const industryNames = {
-    'owner-operators': 'Owner-Operators', 'small-fleets': 'Small Fleets', 'large-fleets': 'Large Fleets',
-    'hot-shot-trucking': 'Hot Shot Trucking', 'ltl-last-mile': 'LTL / Last Mile', 'intermodal': 'Intermodal',
-    'refrigerated': 'Refrigerated', 'flatbed': 'Flatbed', 'hazmat': 'Hazmat', 'car-haulers': 'Car Haulers',
+    'residential-architecture': 'Residential Architecture', 'commercial-architecture': 'Commercial Architecture',
+    'landscape-architecture': 'Landscape Architecture', 'interior-design': 'Interior Design',
+    'urban-planning': 'Urban Planning', 'structural-engineering': 'Structural Engineering',
+    'sustainable-design': 'Sustainable Design', 'historic-preservation': 'Historic Preservation',
+    'healthcare-design': 'Healthcare Design', 'educational-design': 'Educational Design',
   };
 
   return (
@@ -33,15 +35,15 @@ export function RelatedResourceLinks({ slugs, title = 'Helpful Resources' }) {
   if (!slugs?.length) return null;
 
   const resourceNames = {
-    'trucking-insurance-cost': 'How Much Does Trucking Insurance Cost?',
-    'fmcsa-insurance-requirements': 'FMCSA Insurance Requirements',
-    'new-authority-insurance': 'Insurance for New Authority',
-    'lower-trucking-insurance-premiums': 'How to Lower Your Premiums',
-    'commercial-auto-vs-trucking-insurance': 'Commercial Auto vs Trucking Insurance',
-    'primary-vs-non-trucking-liability': 'Primary vs Non-Trucking Liability',
-    'occupational-accident-vs-workers-comp': 'Occupational Accident vs Workers Comp',
-    'trucking-insurance-claims-guide': 'Claims Guide',
-    'trucking-insurance-glossary': 'Insurance Glossary',
+    'architecture-insurance-cost': 'How Much Does Architecture Insurance Cost?',
+    'professional-liability-guide': 'Professional Liability (E&O) Guide',
+    'project-specific-insurance-guide': 'Project-Specific Insurance Guide',
+    'contract-risk-transfer': 'Contract Risk Transfer Guide',
+    'licensing-reciprocity': 'Licensing & Reciprocity Guide',
+    'bim-technology-liability': 'BIM & Technology Liability Guide',
+    'certificate-of-insurance-guide': 'Certificate of Insurance Guide',
+    'architecture-claims-guide': 'Architecture Claims Guide',
+    'architecture-insurance-glossary': 'Insurance Glossary',
   };
 
   return (
@@ -66,12 +68,14 @@ export function TopStates({ slugs, title = 'Top States' }) {
   if (!slugs?.length) return null;
 
   const stateNames = {
-    'texas': 'Texas', 'california': 'California', 'florida': 'Florida', 'georgia': 'Georgia',
-    'illinois': 'Illinois', 'ohio': 'Ohio', 'pennsylvania': 'Pennsylvania', 'indiana': 'Indiana',
-    'tennessee': 'Tennessee', 'north-carolina': 'North Carolina', 'new-york': 'New York',
-    'michigan': 'Michigan', 'new-jersey': 'New Jersey', 'louisiana': 'Louisiana',
-    'oklahoma': 'Oklahoma', 'north-dakota': 'North Dakota', 'colorado': 'Colorado',
-    'washington': 'Washington', 'arizona': 'Arizona',
+    'california': 'California', 'new-york': 'New York', 'texas': 'Texas', 'florida': 'Florida',
+    'illinois': 'Illinois', 'massachusetts': 'Massachusetts', 'pennsylvania': 'Pennsylvania',
+    'washington': 'Washington', 'colorado': 'Colorado', 'georgia': 'Georgia',
+    'virginia': 'Virginia', 'ohio': 'Ohio', 'michigan': 'Michigan',
+    'new-jersey': 'New Jersey', 'north-carolina': 'North Carolina',
+    'oregon': 'Oregon', 'minnesota': 'Minnesota', 'arizona': 'Arizona',
+    'maryland': 'Maryland', 'connecticut': 'Connecticut', 'indiana': 'Indiana',
+    'tennessee': 'Tennessee',
   };
 
   return (
@@ -91,10 +95,6 @@ export function TopStates({ slugs, title = 'Top States' }) {
 }
 
 export function CitiesInState({ stateSlug, stateName }) {
-  // This will be used dynamically - imports cities data
   const ref = useScrollAnimation();
-
-  // Dynamic import at build time won't work in client component
-  // Instead, we pass cities as a prop from the page component
   return null; // Handled in the page template directly
 }

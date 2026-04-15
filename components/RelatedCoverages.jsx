@@ -4,15 +4,16 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 // Basic coverage metadata for cross-linking
 const allCoverages = {
-  'auto-liability': { title: 'Primary Auto Liability', desc: 'Liability protection for at-fault accidents' },
-  'physical-damage': { title: 'Physical Damage', desc: 'Covers repair or replacement of your vehicles' },
-  'motor-truck-cargo': { title: 'Motor Truck Cargo', desc: 'Protects goods in transit' },
-  'general-liability': { title: 'General Liability', desc: 'Third-party claims outside vehicle operation' },
-  'non-trucking-liability': { title: 'Non-Trucking Liability', desc: 'Coverage for personal use of truck' },
-  'trailer-interchange': { title: 'Trailer Interchange', desc: 'Covers trailers under interchange agreements' },
+  'professional-liability': { title: 'Professional Liability (E&O)', desc: 'Protection against design errors and omissions claims' },
+  'general-liability': { title: 'General Liability', desc: 'Third-party bodily injury and property damage coverage' },
   'workers-compensation': { title: 'Workers\' Compensation', desc: 'Employee injury wage and medical benefits' },
-  'umbrella-excess-liability': { title: 'Umbrella / Excess', desc: 'Additional liability protection layer' },
-  'occupational-accident': { title: 'Occupational Accident', desc: 'Coverage for independent contractors' },
+  'commercial-property': { title: 'Commercial Property', desc: 'Office, equipment, and business personal property coverage' },
+  'cyber-liability': { title: 'Cyber Liability', desc: 'Data breaches, ransomware, and technology risk coverage' },
+  'commercial-auto': { title: 'Commercial Auto', desc: 'Vehicle coverage for site visits and business travel' },
+  'umbrella-excess': { title: 'Umbrella / Excess', desc: 'Additional liability protection layer' },
+  'employment-practices': { title: 'Employment Practices', desc: 'Wrongful termination, discrimination, and harassment coverage' },
+  'project-specific': { title: 'Project-Specific Insurance', desc: 'Dedicated coverage for individual high-value projects' },
+  'valuable-papers': { title: 'Valuable Papers & Records', desc: 'Protection for irreplaceable drawings and documentation' },
 };
 
 export default function RelatedCoverages({ slugs, title = 'Related Coverage' }) {

@@ -14,8 +14,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1920&q=80"
-          alt="Commercial semi-truck driving on a highway at sunset for trucking insurance"
+          src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1920&q=80"
+          alt="Modern architecture building with clean lines for architecture firm insurance"
           width={1920}
           height={1080}
           loading="eager"
@@ -50,9 +50,9 @@ export default function Hero() {
               transition: 'opacity 0.7s ease 0.1s, transform 0.7s ease 0.1s',
             }}
           >
-            <span className="text-stone">Coverage Built for</span>
+            <span className="text-stone">Design with</span>
             <br />
-            <span className="text-gold">the Road Ahead.</span>
+            <span className="text-gold">Protection.</span>
           </h1>
 
           <p
@@ -67,7 +67,7 @@ export default function Hero() {
               transition: 'opacity 0.6s ease 0.3s, transform 0.6s ease 0.3s',
             }}
           >
-            We help trucking companies find the right insurance. Our team covers auto liability, cargo, physical damage, and more. We work with owner-operators and fleets in all 50 states.
+            We help architecture firms find the right insurance. Our team covers professional liability, general liability, cyber risk, and more. We work with design practices of every size in all 50 states.
           </p>
 
           <p
@@ -82,7 +82,7 @@ export default function Hero() {
             }}
             className="mb-8"
           >
-            ALKEME is a licensed insurance broker. We offer trucking insurance such as auto liability, cargo, and physical damage. We serve owner-operators and fleets in every state.
+            ALKEME is a licensed insurance broker. We offer architecture firm insurance including professional liability, general liability, and cyber coverage. We serve design professionals nationwide.
           </p>
 
           <div

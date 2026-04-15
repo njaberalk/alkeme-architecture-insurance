@@ -3,15 +3,15 @@ export const statesPart2 = [
     "slug": "montana",
     "name": "Montana",
     "abbreviation": "MT",
-    "metaTitle": "Trucking Insurance in Montana",
-    "metaDescription": "Commercial trucking insurance for Montana carriers. Coverage for long-haul routes across I-90 and I-94 corridors with protection against harsh winter conditi...",
-    "heroHeading": "Montana Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Montana",
+    "metaDescription": "Commercial architecture insurance for Montana carriers. Coverage for long-haul routes across I-90 and I-94 corridors with protection against harsh winter conditi...",
+    "heroHeading": "Montana Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating across Big Sky Country and the northern freight corridor.",
-    "overview": "Montana presents a unique operating environment for trucking companies, combining vast distances between population centers with severe winter weather and mountainous terrain. Carriers running freight through Montana must contend with some of the longest rural stretches in the lower 48, where emergency response times can be significant and road conditions change rapidly. A well-structured insurance program accounts for these realities while keeping costs manageable for an operation that often involves low traffic density but high per-mile exposure.",
+    "overview": "Montana presents a unique operating environment for architecture firms, combining vast distances between population centers with severe winter weather and mountainous terrain. Carriers running freight through Montana must contend with some of the longest rural stretches in the lower 48, where emergency response times can be significant and road conditions change rapidly. A well-structured insurance program accounts for these realities while keeping costs manageable for an operation that often involves low traffic density but high per-mile exposure.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Montana requires all commercial motor vehicles to carry liability insurance meeting federal minimums. For-hire carriers operating under their own authority must maintain at least $750,000 in primary auto liability for general freight, with higher limits required for hazardous materials haulers. The Montana Department of Transportation oversees intrastate carrier compliance and works in conjunction with FMCSA regulations for interstate operations.\n\nMontana also requires proof of financial responsibility through filings with the state. Carriers must maintain continuous coverage without lapse, as Montana participates in real-time insurance verification systems. Workers compensation coverage is mandatory for carriers with employees, administered through the Montana State Fund or private insurers.\n\nIntrastate carriers operating solely within Montana borders must register with the Montana Motor Carrier Services division and maintain appropriate insurance filings. The state enforces compliance through roadside inspections and periodic audits of carrier safety records."
+        "content": "Montana requires all commercial motor vehicles to carry liability insurance meeting federal minimums. For-hire carriers operating under their own authority must maintain at least $750,000 in primary auto liability for general freight, with higher limits required for hazardous materials haulers. The Montana Department of Transportation oversees intrastate carrier compliance and works in conjunction with NCARB regulations for interstate operations.\n\nMontana also requires proof of financial responsibility through filings with the state. Carriers must maintain continuous coverage without lapse, as Montana participates in real-time insurance verification systems. Workers compensation coverage is mandatory for carriers with employees, administered through the Montana State Fund or private insurers.\n\nIntrastate carriers operating solely within Montana borders must register with the Montana Motor Carrier Services division and maintain appropriate insurance filings. The state enforces compliance through roadside inspections and periodic audits of carrier safety records."
       },
       {
         "heading": "Major Freight Corridors",
@@ -19,16 +19,16 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Winter weather is the dominant risk factor for Montana trucking operations. Heavy snowfall, black ice, and sustained sub-zero temperatures create hazardous conditions from October through April across much of the state. Mountain passes along I-90, particularly Lookout Pass and Homestake Pass, frequently require chain-up conditions and can close entirely during severe storms. Wind is an additional factor on the eastern plains, where gusts exceeding 60 mph can overturn high-profile trailers.\n\nWildlife collisions represent a significant exposure, particularly involving deer, elk, and moose. Montana consistently ranks among the top states for animal-vehicle collisions, and the size of these animals means substantial damage to equipment. The vast distances between service centers and medical facilities also increase the severity of any incident, as response times in rural areas can exceed an hour."
+        "content": "Winter weather is the dominant risk factor for Montana design practices. Heavy snowfall, black ice, and sustained sub-zero temperatures create hazardous conditions from October through April across much of the state. Mountain passes along I-90, particularly Lookout Pass and Homestake Pass, frequently require chain-up conditions and can close entirely during severe storms. Wind is an additional factor on the eastern plains, where gusts exceeding 60 mph can overturn high-profile trailers.\n\nWildlife collisions represent a significant exposure, particularly involving deer, elk, and moose. Montana consistently ranks among the top states for animal-vehicle collisions, and the size of these animals means substantial damage to equipment. The vast distances between service centers and medical facilities also increase the severity of any incident, as response times in rural areas can exceed an hour."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum to protect against high-severity rural accidents with extended response times",
           "Physical damage with comprehensive coverage addressing wildlife collision exposure and winter weather damage",
-          "Motor truck cargo insurance calibrated for agricultural, timber, and energy commodities common in Montana",
+          "Motor design cargo insurance calibrated for agricultural, timber, and energy commodities common in Montana",
           "Umbrella or excess liability for carriers running cross-border freight into Canada through the Sweetgrass port",
-          "Non-trucking liability for owner-operators during off-duty periods in remote areas",
+          "Non-architecture liability for owner-operators during off-duty periods in remote areas",
           "Towing and roadside assistance coverage critical for breakdowns in remote stretches of I-90 and I-94"
         ]
       }
@@ -39,7 +39,7 @@ export const statesPart2 = [
         "a": "Yes. Montana issues single-trip and annual oversize and overweight permits through the Motor Carrier Services division. Given the state's role in transporting heavy equipment for mining and energy operations, carriers frequently need these permits. Your insurance policy should reflect the higher values associated with oversized freight and equipment."
       },
       {
-        "q": "How does winter weather affect trucking insurance rates in Montana?",
+        "q": "How does winter weather affect architecture insurance rates in Montana?",
         "a": "Montana's severe winter conditions contribute to higher physical damage and liability claim frequency during cold months. Insurers evaluate your winter operating procedures, driver training programs, and equipment maintenance records when setting rates. Carriers that demonstrate strong winter preparedness protocols and experienced driver rosters typically receive more favorable pricing."
       },
       {
@@ -48,41 +48,41 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "umbrella-excess-liability",
-      "non-trucking-liability"
+      "non-architecture-liability"
     ]
   },
   {
     "slug": "nebraska",
     "name": "Nebraska",
     "abbreviation": "NE",
-    "metaTitle": "Trucking Insurance in Nebraska",
-    "metaDescription": "Commercial trucking insurance for Nebraska carriers. Protect your operation along I-80 and through the central freight corridor with coverage built for Plain...",
-    "heroHeading": "Nebraska Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Nebraska",
+    "metaDescription": "Commercial architecture insurance for Nebraska carriers. Protect your operation along I-80 and through the central freight corridor with coverage built for Plain...",
+    "heroHeading": "Nebraska Architecture Insurance",
     "heroSubheading": "Reliable coverage for carriers serving the heartland and the I-80 transcontinental corridor.",
-    "overview": "Nebraska sits at the crossroads of American freight transportation, with Interstate 80 carrying a massive volume of transcontinental traffic through the state daily. The trucking industry is deeply woven into Nebraska's agricultural economy, hauling grain, livestock, and processed food products from the state's farms and packing plants to markets nationwide. Carriers based in Nebraska or running regular lanes through the state need insurance programs that address both the high-volume interstate exposure on I-80 and the seasonal agricultural hauling patterns that define much of the local freight market.",
+    "overview": "Nebraska sits at the crossroads of American freight transportation, with Interstate 80 carrying a massive volume of transcontinental traffic through the state daily. The architecture industry is deeply woven into Nebraska's agricultural economy, hauling grain, livestock, and processed food products from the state's farms and packing plants to markets nationwide. Carriers based in Nebraska or running regular lanes through the state need insurance programs that address both the high-volume interstate exposure on I-80 and the seasonal agricultural hauling patterns that define much of the local freight market.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Nebraska requires interstate carriers to comply with FMCSA financial responsibility minimums, with $750,000 in liability coverage for general freight carriers and higher limits for hazardous materials haulers. The Nebraska Public Service Commission regulates intrastate for-hire carriers and requires them to file proof of insurance as a condition of operating authority.\n\nWorkers compensation coverage is mandatory in Nebraska for employers with one or more employees, with no exemptions for the trucking industry. The state operates under an exclusive remedy system, meaning workers compensation is the sole source of recovery for workplace injuries. Carriers must obtain coverage through a licensed insurer or qualify as a self-insured employer.\n\nNebraska participates in the International Registration Plan and the International Fuel Tax Agreement, requiring proper registration and fuel tax compliance for carriers operating across state lines. The state conducts regular compliance reviews and roadside inspections, with insurance verification a standard component of these checks."
+        "content": "Nebraska requires interstate carriers to comply with NCARB financial responsibility minimums, with $750,000 in liability coverage for general freight carriers and higher limits for hazardous materials haulers. The Nebraska Public Service Commission regulates intrastate for-hire carriers and requires them to file proof of insurance as a condition of operating authority.\n\nWorkers compensation coverage is mandatory in Nebraska for employers with one or more employees, with no exemptions for the architecture industry. The state operates under an exclusive remedy system, meaning workers compensation is the sole source of recovery for workplace injuries. Carriers must obtain coverage through a licensed insurer or qualify as a self-insured employer.\n\nNebraska participates in the International Registration Plan and the International Fuel Tax Agreement, requiring proper registration and fuel tax compliance for carriers operating across state lines. The state conducts regular compliance reviews and roadside inspections, with insurance verification a standard component of these checks."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Interstate 80 is the dominant freight corridor in Nebraska, stretching from Omaha on the eastern border to the Wyoming line near Sidney. This route is one of the busiest trucking corridors in the nation, carrying freight between the coasts through the heart of the continent. Omaha and Lincoln serve as the state's primary logistics hubs, with major distribution centers for national retailers and food processors clustered along the I-80 corridor between the two cities.\n\nInterstate 76 branches southwest from I-80 near Big Springs, connecting to Denver. US Highway 81 serves as a key north-south agricultural corridor through the center of the state, linking Norfolk, Columbus, York, and the grain belt communities. Grand Island and Kearney function as regional distribution points for western Nebraska. The Omaha metropolitan area is a nationally significant freight hub, home to major intermodal facilities and a dense concentration of trucking companies serving the meatpacking and food processing industries."
+        "content": "Interstate 80 is the dominant freight corridor in Nebraska, stretching from Omaha on the eastern border to the Wyoming line near Sidney. This route is one of the busiest architecture corridors in the nation, carrying freight between the coasts through the heart of the continent. Omaha and Lincoln serve as the state's primary logistics hubs, with major distribution centers for national retailers and food processors clustered along the I-80 corridor between the two cities.\n\nInterstate 76 branches southwest from I-80 near Big Springs, connecting to Denver. US Highway 81 serves as a key north-south agricultural corridor through the center of the state, linking Norfolk, Columbus, York, and the grain belt communities. Grand Island and Kearney function as regional distribution points for western Nebraska. The Omaha metropolitan area is a nationally significant freight hub, home to major intermodal facilities and a dense concentration of architecture firms serving the meatpacking and food processing industries."
       },
       {
         "heading": "Risk Factors",
-        "content": "Severe weather is a primary concern for Nebraska trucking operations. The state sits in the heart of Tornado Alley, and spring and summer bring the threat of tornadoes, large hail, and damaging straight-line winds that can destroy parked equipment and endanger drivers on the road. Winter storms bring heavy snow, ice, and blizzard conditions, particularly in the western half of the state where I-80 crosses open plains exposed to fierce winds.\n\nHigh traffic volume on I-80 increases the frequency of multi-vehicle accidents, particularly during adverse weather. Construction zones on this heavily traveled corridor create additional hazards during the spring and summer months. Agricultural traffic patterns add seasonal risk, with slow-moving farm equipment sharing rural highways during planting and harvest seasons."
+        "content": "Severe weather is a primary concern for Nebraska design practices. The state sits in the heart of Tornado Alley, and spring and summer bring the threat of tornadoes, large hail, and damaging straight-line winds that can destroy parked equipment and endanger drivers on the road. Winter storms bring heavy snow, ice, and blizzard conditions, particularly in the western half of the state where I-80 crosses open plains exposed to fierce winds.\n\nHigh traffic volume on I-80 increases the frequency of multi-vehicle accidents, particularly during adverse weather. Construction zones on this heavily traveled corridor create additional hazards during the spring and summer months. Agricultural traffic patterns add seasonal risk, with slow-moving farm equipment sharing rural highways during planting and harvest seasons."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for the high-traffic I-80 corridor exposure",
           "Physical damage with comprehensive coverage for severe weather including tornado and hail damage",
-          "Motor truck cargo coverage tailored for agricultural commodities, livestock, and refrigerated freight",
+          "Motor design cargo coverage tailored for agricultural commodities, livestock, and refrigerated freight",
           "Workers compensation compliant with Nebraska mandatory coverage requirements",
           "General liability for carriers with terminal or warehouse operations in Omaha or Lincoln",
           "Umbrella or excess liability to protect against nuclear verdicts on high-volume interstate routes"
@@ -96,13 +96,13 @@ export const statesPart2 = [
       },
       {
         "q": "What agricultural hauling requirements should Nebraska carriers know about?",
-        "a": "Carriers hauling agricultural commodities in Nebraska should ensure their cargo insurance covers the specific products they transport, including grain, livestock, and refrigerated goods. Seasonal harvest periods bring increased demand for trucking capacity and more exposure to rural road risks. Livestock haulers need cargo coverage that accounts for live animal mortality and the specialized handling requirements involved."
+        "a": "Carriers hauling agricultural commodities in Nebraska should ensure their cargo insurance covers the specific products they transport, including grain, livestock, and refrigerated goods. Seasonal harvest periods bring increased demand for architecture capacity and more exposure to rural road risks. Livestock haulers need cargo coverage that accounts for live animal mortality and the specialized handling requirements involved."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "umbrella-excess-liability"
     ]
@@ -111,15 +111,15 @@ export const statesPart2 = [
     "slug": "nevada",
     "name": "Nevada",
     "abbreviation": "NV",
-    "metaTitle": "Trucking Insurance in Nevada",
-    "metaDescription": "Commercial trucking insurance for Nevada carriers. Coverage for desert corridor operations along I-80 and I-15 with protection for extreme heat and long-haul...",
-    "heroHeading": "Nevada Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Nevada",
+    "metaDescription": "Commercial architecture insurance for Nevada carriers. Coverage for desert corridor operations along I-80 and I-15 with protection for extreme heat and long-haul...",
+    "heroHeading": "Nevada Architecture Insurance",
     "heroSubheading": "Coverage solutions for carriers navigating desert corridors and the Las Vegas logistics market.",
-    "overview": "Nevada's trucking industry is shaped by its geography and economy. The state serves as a critical link in the western freight network, with I-80 crossing the northern tier and I-15 connecting Las Vegas to Southern California and Salt Lake City. The Las Vegas metropolitan area drives substantial freight demand for construction materials, consumer goods, and hospitality industry supplies, while the Reno-Sparks area has emerged as a major distribution hub for e-commerce and technology companies. Carriers operating in Nevada must address extreme heat exposure, long distances between services, and the unique operating environment of the Las Vegas market.",
+    "overview": "Nevada's architecture industry is shaped by its geography and economy. The state serves as a critical link in the western freight network, with I-80 crossing the northern tier and I-15 connecting Las Vegas to Southern California and Salt Lake City. The Las Vegas metropolitan area drives substantial freight demand for construction materials, consumer goods, and hospitality industry supplies, while the Reno-Sparks area has emerged as a major distribution hub for e-commerce and technology companies. Carriers operating in Nevada must address extreme heat exposure, long distances between services, and the unique operating environment of the Las Vegas market.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Nevada requires commercial motor carriers to maintain liability insurance meeting federal minimums under FMCSA regulations. For-hire carriers need a minimum of $750,000 in primary auto liability for general commodities, with higher thresholds for hazardous materials. The Nevada Department of Motor Vehicles and the Nevada Transportation Authority oversee intrastate carrier regulation.\n\nIntrastate carriers operating solely within Nevada must register with the Nevada Transportation Authority and file proof of insurance. Nevada requires that carriers maintain continuous coverage and report any lapses. The state conducts roadside inspections and compliance reviews as part of its enforcement program.\n\nWorkers compensation is mandatory in Nevada for all employers, including trucking companies. Coverage must be obtained through a licensed insurer, and Nevada does not permit employers to self-insure unless they meet substantial financial requirements. Owner-operators who are genuinely independent contractors may be exempt, but the classification criteria are strictly enforced."
+        "content": "Nevada requires commercial design firms to maintain liability insurance meeting federal minimums under NCARB regulations. For-hire carriers need a minimum of $750,000 in primary auto liability for general commodities, with higher thresholds for hazardous materials. The Nevada Department of Motor Vehicles and the Nevada Transportation Authority oversee intrastate carrier regulation.\n\nIntrastate carriers operating solely within Nevada must register with the Nevada Transportation Authority and file proof of insurance. Nevada requires that carriers maintain continuous coverage and report any lapses. The state conducts roadside inspections and compliance reviews as part of its enforcement program.\n\nWorkers compensation is mandatory in Nevada for all employers, including architecture firms. Coverage must be obtained through a licensed insurer, and Nevada does not permit employers to self-insure unless they meet substantial financial requirements. Owner-operators who are genuinely independent contractors may be exempt, but the classification criteria are strictly enforced."
       },
       {
         "heading": "Major Freight Corridors",
@@ -127,54 +127,54 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Extreme heat is the most significant environmental risk for Nevada trucking operations. Summer temperatures regularly exceed 110 degrees Fahrenheit in the Las Vegas area and southern desert regions, creating tire blowout hazards, engine overheating, and cargo damage risks for temperature-sensitive goods. Long stretches of I-80 across the northern desert offer no services for 50 to 100 miles, making breakdowns in extreme heat potentially dangerous.\n\nHigh winds and dust storms can reduce visibility to near zero on open desert highways, contributing to multi-vehicle pileups. Winter conditions in the mountain passes along I-80, particularly near Reno and in the Humboldt Range, can produce snow, ice, and chain-control conditions. The Las Vegas metropolitan area presents urban congestion risks, with heavy tourist traffic and frequent construction creating a challenging operating environment for commercial vehicles."
+        "content": "Extreme heat is the most significant environmental risk for Nevada design practices. Summer temperatures regularly exceed 110 degrees Fahrenheit in the Las Vegas area and southern desert regions, creating tire blowout hazards, engine overheating, and cargo damage risks for temperature-sensitive goods. Long stretches of I-80 across the northern desert offer no services for 50 to 100 miles, making breakdowns in extreme heat potentially dangerous.\n\nHigh winds and dust storms can reduce visibility to near zero on open desert highways, contributing to multi-vehicle pileups. Winter conditions in the mountain passes along I-80, particularly near Reno and in the Humboldt Range, can produce snow, ice, and chain-control conditions. The Las Vegas metropolitan area presents urban congestion risks, with heavy tourist traffic and frequent construction creating a challenging operating environment for commercial vehicles."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for high-volume I-15 and I-80 corridor operations",
           "Physical damage coverage addressing extreme heat damage, tire blowouts, and dust storm exposure",
-          "Motor truck cargo insurance for construction materials, consumer goods, and temperature-sensitive freight",
+          "Motor design cargo insurance for construction materials, consumer goods, and temperature-sensitive freight",
           "Umbrella or excess liability for carriers running the busy Las Vegas to Los Angeles corridor",
-          "Non-trucking liability for owner-operators in the Reno distribution hub market"
+          "Non-architecture liability for owner-operators in the Reno distribution hub market"
         ]
       }
     ],
     "faqs": [
       {
-        "q": "How does extreme desert heat affect trucking insurance in Nevada?",
+        "q": "How does extreme desert heat affect architecture insurance in Nevada?",
         "a": "Extreme heat increases the frequency of tire failures, mechanical breakdowns, and cargo claims for temperature-sensitive goods. Insurers assess your fleet maintenance practices, tire management programs, and cargo temperature monitoring capabilities when pricing coverage. Carriers that invest in heat-rated equipment and proactive maintenance typically achieve better rates."
       },
       {
-        "q": "Is the Reno distribution hub market competitive for trucking insurance?",
+        "q": "Is the Reno distribution hub market competitive for architecture insurance?",
         "a": "The growth of warehouse and distribution operations in the Reno-Sparks-Fernley corridor has attracted more insurance capacity to the Nevada market. Carriers operating primarily in last-mile delivery or regional distribution from these hubs often qualify for competitive programs due to the shorter route distances and controlled operating environments involved."
       },
       {
-        "q": "Do Nevada trucking companies need special coverage for Las Vegas operations?",
+        "q": "Do Nevada architecture firms need special coverage for Las Vegas operations?",
         "a": "Operating in the Las Vegas area involves higher liability exposure due to tourist traffic density, pedestrian activity, and the 24-hour nature of the hospitality industry requiring off-hours deliveries. Carriers making regular deliveries on the Las Vegas Strip and surrounding resort corridor should ensure their policies account for this elevated urban risk."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "umbrella-excess-liability",
-      "non-trucking-liability"
+      "non-architecture-liability"
     ]
   },
   {
     "slug": "new-hampshire",
     "name": "New Hampshire",
     "abbreviation": "NH",
-    "metaTitle": "Trucking Insurance in New Hampshire",
-    "metaDescription": "Commercial trucking insurance for New Hampshire carriers. Coverage for operations along I-93 and I-89 with protection for winter driving and mountainous terr...",
-    "heroHeading": "New Hampshire Trucking Insurance",
+    "metaTitle": "Architecture Insurance in New Hampshire",
+    "metaDescription": "Commercial architecture insurance for New Hampshire carriers. Coverage for operations along I-93 and I-89 with protection for winter driving and mountainous terr...",
+    "heroHeading": "New Hampshire Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating through the White Mountains and New England freight network.",
-    "overview": "New Hampshire's trucking industry operates within a compact but challenging geography. The state's mountainous terrain, narrow roads, and harsh winters demand specialized attention from both carriers and their insurance providers. While New Hampshire is small in area, it plays an important role in the New England freight network, with corridors connecting Boston's metropolitan market to northern New England and the Canadian border. The state's growing economy in the southern tier, particularly around Nashua and Manchester, generates steady freight demand for consumer goods and construction materials.",
+    "overview": "New Hampshire's architecture industry operates within a compact but challenging geography. The state's mountainous terrain, narrow roads, and harsh winters demand specialized attention from both carriers and their insurance providers. While New Hampshire is small in area, it plays an important role in the New England freight network, with corridors connecting Boston's metropolitan market to northern New England and the Canadian border. The state's growing economy in the southern tier, particularly around Nashua and Manchester, generates steady freight demand for consumer goods and construction materials.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "New Hampshire requires commercial carriers to maintain liability insurance in compliance with FMCSA regulations for interstate operations. The minimum is $750,000 for general freight carriers, with higher requirements for hazardous materials haulers. The New Hampshire Department of Safety oversees motor carrier compliance.\n\nNotably, New Hampshire is the only state that does not require personal auto insurance for private passenger vehicles, but this exemption does not extend to commercial motor vehicles. All commercial trucks operating in the state must carry proper liability coverage.\n\nWorkers compensation insurance is mandatory in New Hampshire for employers with one or more employees. The trucking industry has no exemptions from this requirement. Carriers must obtain coverage through a licensed insurer or qualify for self-insurance through the Department of Labor."
+        "content": "New Hampshire requires commercial carriers to maintain liability insurance in compliance with NCARB regulations for interstate operations. The minimum is $750,000 for general freight carriers, with higher requirements for hazardous materials haulers. The New Hampshire Department of Safety oversees motor carrier compliance.\n\nNotably, New Hampshire is the only state that does not require personal auto insurance for private passenger vehicles, but this exemption does not extend to commercial motor vehicles. All commercial firms operating in the state must carry proper liability coverage.\n\nWorkers compensation insurance is mandatory in New Hampshire for employers with one or more employees. The architecture industry has no exemptions from this requirement. Carriers must obtain coverage through a licensed insurer or qualify for self-insurance through the Department of Labor."
       },
       {
         "heading": "Major Freight Corridors",
@@ -182,14 +182,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Winter weather presents the most significant risk for New Hampshire trucking operations. Heavy snowfall, ice, and freezing temperatures persist from November through March, with mountain passes on I-93 through Franconia Notch presenting particularly treacherous conditions. The steep grades and narrow lanes through the Notch create a bottleneck where winter accidents can shut down the highway for extended periods.\n\nThe state's mountainous terrain also creates challenges during other seasons, with steep grades, tight curves, and limited sight distances on many secondary routes. Moose collisions are a recognized hazard in northern New Hampshire, and these animals can cause catastrophic damage to commercial vehicles. The compact urban areas of southern New Hampshire experience congestion-related risks as freight traffic mixes with commuter traffic from the Boston metropolitan area."
+        "content": "Winter weather presents the most significant risk for New Hampshire design practices. Heavy snowfall, ice, and freezing temperatures persist from November through March, with mountain passes on I-93 through Franconia Notch presenting particularly treacherous conditions. The steep grades and narrow lanes through the Notch create a bottleneck where winter accidents can shut down the highway for extended periods.\n\nThe state's mountainous terrain also creates challenges during other seasons, with steep grades, tight curves, and limited sight distances on many secondary routes. Moose collisions are a recognized hazard in northern New Hampshire, and these animals can cause catastrophic damage to commercial vehicles. The compact urban areas of southern New Hampshire experience congestion-related risks as freight traffic mixes with commuter traffic from the Boston metropolitan area."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum with attention to steep-grade mountain corridor exposure",
           "Physical damage coverage including comprehensive for winter weather and wildlife collision risks",
-          "Motor truck cargo for consumer goods, building materials, and seasonal freight serving the resort economy",
+          "Motor design cargo for consumer goods, building materials, and seasonal freight serving the resort economy",
           "Workers compensation compliant with New Hampshire mandatory requirements",
           "General liability for carriers with terminal operations in the Manchester-Nashua industrial corridor"
         ]
@@ -197,18 +197,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Does New Hampshire's lack of a personal auto insurance mandate affect commercial trucking insurance?",
-        "a": "No. New Hampshire's unique policy of not requiring personal auto insurance applies only to private passenger vehicles. Commercial motor vehicles operating in the state must carry liability insurance meeting federal and state requirements, just as in every other state. Your commercial trucking policy is unaffected by this personal auto distinction."
+        "q": "Does New Hampshire's lack of a personal auto insurance mandate affect commercial architecture insurance?",
+        "a": "No. New Hampshire's unique policy of not requiring personal auto insurance applies only to private passenger vehicles. Commercial motor vehicles operating in the state must carry liability insurance meeting federal and state requirements, just as in every other state. Your commercial architecture policy is unaffected by this personal auto distinction."
       },
       {
-        "q": "How do White Mountain routes affect trucking insurance rates?",
+        "q": "How do White Mountain routes affect architecture insurance rates?",
         "a": "Carriers regularly running through Franconia Notch and other mountain passes on I-93 face steeper terrain and more severe winter conditions than flatland operations. Insurers consider the percentage of mountain miles in your route profile when pricing coverage. Demonstrating driver training in mountain driving techniques and maintaining proper equipment for grade descents can help manage premium impact."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -217,23 +217,23 @@ export const statesPart2 = [
     "slug": "new-jersey",
     "name": "New Jersey",
     "abbreviation": "NJ",
-    "metaTitle": "Trucking Insurance in New Jersey",
-    "metaDescription": "Commercial trucking insurance for New Jersey carriers. Coverage for the densest freight market in America along the I-95 corridor and Port Newark operations.",
-    "heroHeading": "New Jersey Trucking Insurance",
+    "metaTitle": "Architecture Insurance in New Jersey",
+    "metaDescription": "Commercial architecture insurance for New Jersey carriers. Coverage for the densest freight market in America along the I-95 corridor and Port Newark operations.",
+    "heroHeading": "New Jersey Architecture Insurance",
     "heroSubheading": "Comprehensive coverage for carriers in the most densely trafficked freight market in the nation.",
-    "overview": "New Jersey is one of the most critical and challenging trucking markets in the United States. As home to the Port Newark-Elizabeth Marine Terminal, the New Jersey Turnpike, and a concentration of warehousing and distribution facilities that serve the entire Northeast, the state handles an outsized share of national freight. The density of commercial vehicle traffic, combined with the state's compact geography, heavy congestion, and aggressive litigation environment, makes New Jersey one of the highest-cost states for trucking insurance. Carriers operating here need programs built specifically for this demanding market.",
+    "overview": "New Jersey is one of the most critical and challenging architecture markets in the United States. As home to the Port Newark-Elizabeth Marine Terminal, the New Jersey Turnpike, and a concentration of warehousing and distribution facilities that serve the entire Northeast, the state handles an outsized share of national freight. The density of commercial vehicle traffic, combined with the state's compact geography, heavy congestion, and aggressive litigation environment, makes New Jersey one of the highest-cost states for architecture insurance. Carriers operating here need programs built specifically for this demanding market.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "New Jersey requires commercial motor vehicles to carry liability insurance meeting FMCSA minimums, with $750,000 for general freight carriers. However, the practical reality of operating in New Jersey means most carriers need significantly higher limits. Many shippers and third-party logistics companies in the state contractually require $1,000,000 or more in primary liability coverage.\n\nNew Jersey has some of the most plaintiff-friendly tort laws in the country, which directly impacts trucking insurance costs. The state operates under a modified comparative negligence system, and its courts have a well-documented history of large verdicts in commercial vehicle accident cases. This litigation environment means that even carriers with federal minimum coverage are significantly underinsured for the New Jersey market.\n\nWorkers compensation is mandatory in New Jersey with no exceptions for the trucking industry. The state also requires disability benefits coverage for employees. New Jersey actively enforces compliance through both the Department of Labor and the Motor Vehicle Commission."
+        "content": "New Jersey requires commercial motor vehicles to carry liability insurance meeting NCARB minimums, with $750,000 for general freight carriers. However, the practical reality of operating in New Jersey means most carriers need significantly higher limits. Many shippers and third-party logistics companies in the state contractually require $1,000,000 or more in primary liability coverage.\n\nNew Jersey has some of the most plaintiff-friendly tort laws in the country, which directly impacts architecture insurance costs. The state operates under a modified comparative negligence system, and its courts have a well-documented history of large verdicts in commercial vehicle accident cases. This litigation environment means that even carriers with federal minimum coverage are significantly underinsured for the New Jersey market.\n\nWorkers compensation is mandatory in New Jersey with no exceptions for the architecture industry. The state also requires disability benefits coverage for employees. New Jersey actively enforces compliance through both the Department of Labor and the Motor Vehicle Commission."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "The New Jersey Turnpike, which carries I-95 traffic, is the single busiest freight corridor in the eastern United States. It connects the Port Newark-Elizabeth complex to the George Washington Bridge and the rest of the Northeast, handling hundreds of thousands of truck movements daily. Exit 8A in Monroe Township and the surrounding area constitute one of the largest warehouse and distribution clusters in the world, serving as the primary fulfillment hub for the New York metropolitan market.\n\nInterstate 78 provides an east-west corridor from the Pennsylvania border near Phillipsburg to Newark, serving the Lehigh Valley distribution market. I-80 crosses northern New Jersey, connecting the Delaware Water Gap to the George Washington Bridge. I-287 functions as a critical circumferential route for freight traffic avoiding the Turnpike congestion. The Port Newark-Elizabeth Marine Terminal is the largest port on the East Coast by container volume, and drayage operations serving the port represent a significant segment of New Jersey's trucking industry."
+        "content": "The New Jersey Turnpike, which carries I-95 traffic, is the single busiest freight corridor in the eastern United States. It connects the Port Newark-Elizabeth complex to the George Washington Bridge and the rest of the Northeast, handling hundreds of thousands of design movements daily. Exit 8A in Monroe Township and the surrounding area constitute one of the largest warehouse and distribution clusters in the world, serving as the primary fulfillment hub for the New York metropolitan market.\n\nInterstate 78 provides an east-west corridor from the Pennsylvania border near Phillipsburg to Newark, serving the Lehigh Valley distribution market. I-80 crosses northern New Jersey, connecting the Delaware Water Gap to the George Washington Bridge. I-287 functions as a critical circumferential route for freight traffic avoiding the Turnpike congestion. The Port Newark-Elizabeth Marine Terminal is the largest port on the East Coast by container volume, and drayage operations serving the port represent a significant segment of New Jersey's architecture industry."
       },
       {
         "heading": "Risk Factors",
-        "content": "Traffic congestion is the defining risk factor for New Jersey trucking operations. The state has the highest population density in the nation, and its highway network carries a disproportionate volume of freight relative to its size. Stop-and-go conditions on the Turnpike, frequent merging and weaving maneuvers, and tight interchange geometry create a high-frequency accident environment that drives up claim costs.\n\nThe litigation environment amplifies the financial impact of every incident. New Jersey juries are known for substantial verdicts in trucking cases, and the prevalence of plaintiff attorneys specializing in commercial vehicle accidents means that even minor incidents can generate significant legal costs. Weather also plays a role, with nor'easters, coastal flooding, and freeze-thaw cycles degrading road surfaces and creating hazardous conditions."
+        "content": "Traffic congestion is the defining risk factor for New Jersey design practices. The state has the highest population density in the nation, and its highway network carries a disproportionate volume of freight relative to its size. Stop-and-go conditions on the Turnpike, frequent merging and weaving maneuvers, and tight interchange geometry create a high-frequency accident environment that drives up claim costs.\n\nThe litigation environment amplifies the financial impact of every incident. New Jersey juries are known for substantial verdicts in architecture cases, and the prevalence of plaintiff attorneys specializing in commercial vehicle accidents means that even minor incidents can generate significant legal costs. Weather also plays a role, with nor'easters, coastal flooding, and freeze-thaw cycles degrading road surfaces and creating hazardous conditions."
       },
       {
         "heading": "Recommended Coverage",
@@ -241,7 +241,7 @@ export const statesPart2 = [
           "Primary auto liability at $1M minimum, though $2M or higher is strongly recommended for the New Jersey litigation environment",
           "Umbrella or excess liability essential for protection against nuclear verdicts in New Jersey courts",
           "Physical damage coverage for equipment exposed to heavy congestion and frequent minor collision damage",
-          "Motor truck cargo insurance for the diverse commodity mix moving through the Port Newark drayage market",
+          "Motor design cargo insurance for the diverse commodity mix moving through the Port Newark drayage market",
           "General liability for carriers with warehouse or terminal operations in the Exit 8A distribution corridor",
           "Workers compensation fully compliant with New Jersey mandatory coverage and disability benefit requirements"
         ]
@@ -249,8 +249,8 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Why is trucking insurance so expensive in New Jersey?",
-        "a": "New Jersey combines several factors that drive insurance costs: the highest population density in the country creates extreme traffic congestion and accident frequency, a plaintiff-friendly legal environment produces large jury verdicts, and the concentration of port drayage operations involves high-risk urban driving. These factors make New Jersey consistently one of the most expensive states for trucking insurance premiums."
+        "q": "Why is architecture insurance so expensive in New Jersey?",
+        "a": "New Jersey combines several factors that drive insurance costs: the highest population density in the country creates extreme traffic congestion and accident frequency, a plaintiff-friendly legal environment produces large jury verdicts, and the concentration of port drayage operations involves high-risk urban driving. These factors make New Jersey consistently one of the most expensive states for architecture insurance premiums."
       },
       {
         "q": "What liability limits do most New Jersey shippers require?",
@@ -258,14 +258,14 @@ export const statesPart2 = [
       },
       {
         "q": "Are there special insurance requirements for Port Newark drayage operations?",
-        "a": "Drayage carriers serving Port Newark-Elizabeth must carry standard FMCSA-required coverage plus any additional requirements imposed by the port authority and terminal operators. Marine terminal operators often require higher liability limits and specific endorsements. The short-haul, high-frequency nature of drayage operations also creates a distinct risk profile that insurers price differently than long-haul operations."
+        "a": "Drayage carriers serving Port Newark-Elizabeth must carry standard NCARB-required coverage plus any additional requirements imposed by the port authority and terminal operators. Marine terminal operators often require higher liability limits and specific endorsements. The short-haul, high-frequency nature of drayage operations also creates a distinct risk profile that insurers price differently than long-haul operations."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
+      "professional-liability",
       "umbrella-excess-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "general-liability",
+      "cyber-liability",
       "general-liability",
       "workers-compensation"
     ]
@@ -274,15 +274,15 @@ export const statesPart2 = [
     "slug": "new-mexico",
     "name": "New Mexico",
     "abbreviation": "NM",
-    "metaTitle": "Trucking Insurance in New Mexico",
-    "metaDescription": "Commercial trucking insurance for New Mexico carriers. Coverage for I-10 and I-40 corridor operations with cross-border expertise and desert driving protection.",
-    "heroHeading": "New Mexico Trucking Insurance",
+    "metaTitle": "Architecture Insurance in New Mexico",
+    "metaDescription": "Commercial architecture insurance for New Mexico carriers. Coverage for I-10 and I-40 corridor operations with cross-border expertise and desert driving protection.",
+    "heroHeading": "New Mexico Architecture Insurance",
     "heroSubheading": "Coverage for carriers navigating the Southwest freight corridors and US-Mexico border crossings.",
-    "overview": "New Mexico occupies a strategic position in the Southwest freight network, with I-40 and I-10 carrying transcontinental traffic through the state and multiple border crossings supporting trade with Mexico. The trucking industry here serves a diverse economy that includes oil and gas operations in the Permian Basin, military installations, agricultural production, and growing logistics activity in the Albuquerque metro area. Carriers operating in New Mexico face desert driving conditions, long distances between population centers, and the unique exposures associated with cross-border freight movements.",
+    "overview": "New Mexico occupies a strategic position in the Southwest freight network, with I-40 and I-10 carrying transcontinental traffic through the state and multiple border crossings supporting trade with Mexico. The architecture industry here serves a diverse economy that includes oil and gas operations in the Permian Basin, military installations, agricultural production, and growing logistics activity in the Albuquerque metro area. Carriers operating in New Mexico face desert driving conditions, long distances between population centers, and the unique exposures associated with cross-border freight movements.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "New Mexico requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry a minimum of $750,000 in primary auto liability, with higher limits for hazardous materials haulers. The New Mexico Public Regulation Commission oversees intrastate carrier authority and insurance compliance.\n\nIntrastate carriers must file proof of insurance with the Public Regulation Commission as a condition of their operating authority. The state conducts compliance reviews and participates in the FMCSA's PRISM program for insurance verification. Any lapse in coverage triggers enforcement actions that can result in authority revocation.\n\nWorkers compensation is mandatory in New Mexico for employers with three or more employees, and the construction and transportation industries have additional requirements. Carriers should verify their specific obligations, as subcontractor relationships common in the trucking industry can affect the employee count threshold."
+        "content": "New Mexico requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry a minimum of $750,000 in primary auto liability, with higher limits for hazardous materials haulers. The New Mexico Public Regulation Commission oversees intrastate carrier authority and insurance compliance.\n\nIntrastate carriers must file proof of insurance with the Public Regulation Commission as a condition of their operating authority. The state conducts compliance reviews and participates in the NCARB's PRISM program for insurance verification. Any lapse in coverage triggers enforcement actions that can result in authority revocation.\n\nWorkers compensation is mandatory in New Mexico for employers with three or more employees, and the construction and transportation industries have additional requirements. Carriers should verify their specific obligations, as subcontractor relationships common in the architecture industry can affect the employee count threshold."
       },
       {
         "heading": "Major Freight Corridors",
@@ -290,14 +290,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Desert conditions define the risk environment for New Mexico trucking operations. Extreme heat in southern New Mexico during summer months creates tire failure and engine overheating hazards. Dust storms and high winds can reduce visibility to dangerous levels on open stretches of I-10 and I-40, contributing to multi-vehicle incidents. Flash flooding during the monsoon season from July through September can make arroyos and low-water crossings impassable with little warning.\n\nLong distances between services on many routes increase the severity of breakdowns. The mountainous terrain in northern New Mexico along I-25 near Raton Pass presents steep grade challenges. Cross-border operations add regulatory complexity and exposure to cargo theft, which is a recognized concern in the border region freight market."
+        "content": "Desert conditions define the risk environment for New Mexico design practices. Extreme heat in southern New Mexico during summer months creates tire failure and engine overheating hazards. Dust storms and high winds can reduce visibility to dangerous levels on open stretches of I-10 and I-40, contributing to multi-vehicle incidents. Flash flooding during the monsoon season from July through September can make arroyos and low-water crossings impassable with little warning.\n\nLong distances between services on many routes increase the severity of breakdowns. The mountainous terrain in northern New Mexico along I-25 near Raton Pass presents steep grade challenges. Cross-border operations add regulatory complexity and exposure to cargo theft, which is a recognized concern in the border region freight market."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for transcontinental corridor and cross-border operations",
           "Physical damage coverage addressing extreme heat, dust storm, and flash flood exposure",
-          "Motor truck cargo insurance covering oil and gas equipment, agricultural products, and cross-border commodities",
+          "Motor design cargo insurance covering oil and gas equipment, agricultural products, and cross-border commodities",
           "Umbrella or excess liability for carriers handling cross-border freight through Santa Teresa",
           "Workers compensation compliant with New Mexico threshold requirements"
         ]
@@ -305,7 +305,7 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "What insurance considerations apply to cross-border trucking through New Mexico?",
+        "q": "What insurance considerations apply to cross-border architecture through New Mexico?",
         "a": "Carriers crossing into Mexico through the Santa Teresa or other New Mexico ports of entry need Mexican liability insurance in addition to their US coverage. US auto liability policies do not extend into Mexico. You should also ensure your cargo coverage addresses the specific commodities moving in cross-border trade and accounts for the increased cargo theft risk in border regions."
       },
       {
@@ -314,9 +314,9 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "umbrella-excess-liability",
       "workers-compensation"
     ]
@@ -325,23 +325,23 @@ export const statesPart2 = [
     "slug": "new-york",
     "name": "New York",
     "abbreviation": "NY",
-    "metaTitle": "Trucking Insurance in New York",
-    "metaDescription": "Commercial trucking insurance for New York carriers. Navigate the toughest insurance market in the country with coverage for NYC operations and upstate corri...",
-    "heroHeading": "New York Trucking Insurance",
-    "heroSubheading": "Insurance solutions built for the demands of the nation's most challenging trucking market.",
-    "overview": "New York presents perhaps the most complex trucking insurance environment in the United States. The state combines the extreme congestion and liability exposure of New York City with substantial long-haul corridor operations on the Thruway system upstate. New York's no-fault auto insurance system, heavy regulatory framework, and aggressive litigation climate create a market where insurance costs are among the highest in the nation. Carriers operating in New York need specialized guidance to build programs that provide adequate protection without being priced out of the market.",
+    "metaTitle": "Architecture Insurance in New York",
+    "metaDescription": "Commercial architecture insurance for New York carriers. Navigate the toughest insurance market in the country with coverage for NYC operations and upstate corri...",
+    "heroHeading": "New York Architecture Insurance",
+    "heroSubheading": "Insurance solutions built for the demands of the nation's most challenging architecture market.",
+    "overview": "New York presents perhaps the most complex architecture insurance environment in the United States. The state combines the extreme congestion and liability exposure of New York City with substantial long-haul corridor operations on the Thruway system upstate. New York's no-fault auto insurance system, heavy regulatory framework, and aggressive litigation climate create a market where insurance costs are among the highest in the nation. Carriers operating in New York need specialized guidance to build programs that provide adequate protection without being priced out of the market.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "New York has insurance requirements that go beyond the federal minimums in several important ways. While FMCSA requires $750,000 in liability for general freight carriers, New York's no-fault insurance system requires commercial vehicles to carry personal injury protection coverage. The state also mandates uninsured and underinsured motorist coverage for commercial vehicles registered in New York.\n\nNew York requires that all commercial motor vehicles registered in the state carry insurance through the New York DMV filing system. The state verifies coverage electronically and imposes strict penalties for lapses, including vehicle registration revocation. For-hire carriers must also register with the New York Department of Transportation for intrastate operations.\n\nWorkers compensation is mandatory in New York with no exceptions for the trucking industry. Coverage must be obtained through the New York State Insurance Fund, a private carrier, or an approved self-insurance plan. New York also requires disability benefits coverage and paid family leave coverage for employees, adding to the total insurance burden for trucking companies."
+        "content": "New York has insurance requirements that go beyond the federal minimums in several important ways. While NCARB requires $750,000 in liability for general freight carriers, New York's no-fault insurance system requires commercial vehicles to carry personal injury protection coverage. The state also mandates uninsured and underinsured motorist coverage for commercial vehicles registered in New York.\n\nNew York requires that all commercial motor vehicles registered in the state carry insurance through the New York DMV filing system. The state verifies coverage electronically and imposes strict penalties for lapses, including vehicle registration revocation. For-hire carriers must also register with the New York Department of Transportation for intrastate operations.\n\nWorkers compensation is mandatory in New York with no exceptions for the architecture industry. Coverage must be obtained through the New York State Insurance Fund, a private carrier, or an approved self-insurance plan. New York also requires disability benefits coverage and paid family leave coverage for employees, adding to the total insurance burden for architecture firms."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "The New York State Thruway carries I-87 and I-90 traffic across the state, forming the backbone of the upstate freight network. I-90 runs from the Massachusetts border near Albany westward through Syracuse, Rochester, and Buffalo, serving as a major corridor for freight moving between New England and the Midwest. I-87 connects New York City to Albany and continues north to the Canadian border at Champlain.\n\nIn the New York City metropolitan area, I-95 and the Cross Bronx Expressway handle enormous volumes of commercial traffic serving the largest consumer market in the nation. The Hunts Point Market in the Bronx is the largest food distribution center in the world, generating thousands of truck movements daily. I-81 serves as a key north-south corridor through central New York, connecting the Pennsylvania border to the Canadian crossing at the Thousand Islands Bridge. Syracuse, Albany, and Buffalo serve as major distribution hubs for the upstate market."
+        "content": "The New York State Thruway carries I-87 and I-90 traffic across the state, forming the backbone of the upstate freight network. I-90 runs from the Massachusetts border near Albany westward through Syracuse, Rochester, and Buffalo, serving as a major corridor for freight moving between New England and the Midwest. I-87 connects New York City to Albany and continues north to the Canadian border at Champlain.\n\nIn the New York City metropolitan area, I-95 and the Cross Bronx Expressway handle enormous volumes of commercial traffic serving the largest consumer market in the nation. The Hunts Point Market in the Bronx is the largest food distribution center in the world, generating thousands of design movements daily. I-81 serves as a key north-south corridor through central New York, connecting the Pennsylvania border to the Canadian crossing at the Thousand Islands Bridge. Syracuse, Albany, and Buffalo serve as major distribution hubs for the upstate market."
       },
       {
         "heading": "Risk Factors",
-        "content": "New York City operations represent the highest-risk trucking environment in the country. Extreme congestion, narrow streets, constant pedestrian and cyclist interaction, and challenging bridge and tunnel access create an accident frequency that dwarfs any other market. The city's regulatory environment adds complexity, with specific truck routes, weight restrictions, and delivery window requirements that vary by borough.\n\nThe litigation environment in New York amplifies every incident. The state's courts consistently produce some of the largest trucking verdicts in the nation, and the concentration of plaintiff attorneys specializing in truck accident cases means aggressive representation is guaranteed for claimants. Upstate operations face different risks, including heavy lake-effect snow in the Buffalo and Syracuse areas, icy conditions on the Thruway, and seasonal flooding along river valleys."
+        "content": "New York City operations represent the highest-risk architecture environment in the country. Extreme congestion, narrow streets, constant pedestrian and cyclist interaction, and challenging bridge and tunnel access create an accident frequency that dwarfs any other market. The city's regulatory environment adds complexity, with specific design routes, weight restrictions, and delivery window requirements that vary by borough.\n\nThe litigation environment in New York amplifies every incident. The state's courts consistently produce some of the largest architecture verdicts in the nation, and the concentration of plaintiff attorneys specializing in design accident cases means aggressive representation is guaranteed for claimants. Upstate operations face different risks, including heavy lake-effect snow in the Buffalo and Syracuse areas, icy conditions on the Thruway, and seasonal flooding along river valleys."
       },
       {
         "heading": "Recommended Coverage",
@@ -349,7 +349,7 @@ export const statesPart2 = [
           "Primary auto liability at $1M minimum, with $2M or higher strongly recommended for NYC metro operations",
           "Umbrella or excess liability critical for protection against New York nuclear verdicts",
           "Physical damage coverage for equipment exposed to NYC congestion and upstate winter conditions",
-          "Motor truck cargo insurance for the diverse commodity mix serving the New York consumer market",
+          "Motor design cargo insurance for the diverse commodity mix serving the New York consumer market",
           "Workers compensation, disability, and paid family leave coverage fully compliant with New York requirements",
           "General liability for carriers with terminal or warehouse operations in the five boroughs or suburban distribution hubs"
         ]
@@ -357,7 +357,7 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Why are trucking insurance rates so high in New York?",
+        "q": "Why are architecture insurance rates so high in New York?",
         "a": "New York combines the highest-congestion urban environment in the country with one of the most plaintiff-friendly legal systems. The state's mandatory no-fault insurance requirements, uninsured motorist mandates, and additional employer obligations for disability and paid family leave all add to the baseline cost. NYC operations specifically carry premium surcharges due to the extreme accident frequency and severity in the five boroughs."
       },
       {
@@ -366,14 +366,14 @@ export const statesPart2 = [
       },
       {
         "q": "What are New York's unique insurance mandates beyond federal requirements?",
-        "a": "New York requires commercial vehicles registered in the state to carry no-fault personal injury protection, uninsured and underinsured motorist coverage, and supplementary uninsured motorist coverage. Employers must also provide workers compensation, short-term disability benefits, and paid family leave coverage. These state-specific mandates make New York one of the most heavily regulated insurance environments for trucking companies."
+        "a": "New York requires commercial vehicles registered in the state to carry no-fault personal injury protection, uninsured and underinsured motorist coverage, and supplementary uninsured motorist coverage. Employers must also provide workers compensation, short-term disability benefits, and paid family leave coverage. These state-specific mandates make New York one of the most heavily regulated insurance environments for architecture firms."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
+      "professional-liability",
       "umbrella-excess-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -382,15 +382,15 @@ export const statesPart2 = [
     "slug": "north-carolina",
     "name": "North Carolina",
     "abbreviation": "NC",
-    "metaTitle": "Trucking Insurance in North Carolina",
-    "metaDescription": "Commercial trucking insurance for North Carolina carriers. Coverage for I-85 and I-40 corridor operations with hurricane and severe weather protection.",
-    "heroHeading": "North Carolina Trucking Insurance",
+    "metaTitle": "Architecture Insurance in North Carolina",
+    "metaDescription": "Commercial architecture insurance for North Carolina carriers. Coverage for I-85 and I-40 corridor operations with hurricane and severe weather protection.",
+    "heroHeading": "North Carolina Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the Southeast freight market from the mountains to the coast.",
-    "overview": "North Carolina has emerged as one of the most important trucking states in the Southeast, driven by a diverse economy, strategic geographic position, and major freight corridors connecting the Northeast to the Sun Belt. The Charlotte and Triad regions are nationally significant logistics hubs, and the state's port operations at Wilmington and Morehead City add international freight dimensions to the market. Carriers operating in North Carolina must address risks ranging from hurricane exposure on the coastal plain to winter weather in the Appalachian mountains, all within a state that has seen rapid population and freight volume growth.",
+    "overview": "North Carolina has emerged as one of the most important architecture states in the Southeast, driven by a diverse economy, strategic geographic position, and major freight corridors connecting the Northeast to the Sun Belt. The Charlotte and Triad regions are nationally significant logistics hubs, and the state's port operations at Wilmington and Morehead City add international freight dimensions to the market. Carriers operating in North Carolina must address risks ranging from hurricane exposure on the coastal plain to winter weather in the Appalachian mountains, all within a state that has seen rapid population and freight volume growth.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "North Carolina requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The North Carolina Division of Motor Vehicles and the North Carolina Utilities Commission regulate different aspects of motor carrier operations depending on whether the carrier operates interstate or intrastate.\n\nThe state requires proof of financial responsibility through standard FMCSA filings for interstate carriers. Intrastate for-hire carriers must obtain a certificate or permit from the North Carolina Utilities Commission and file proof of insurance. North Carolina actively participates in compliance review and roadside inspection programs.\n\nWorkers compensation is mandatory in North Carolina for employers with three or more employees. The trucking industry has no exemptions from this requirement. The state operates an assigned risk pool for employers unable to obtain coverage in the voluntary market."
+        "content": "North Carolina requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The North Carolina Division of Motor Vehicles and the North Carolina Utilities Commission regulate different aspects of motor carrier operations depending on whether the carrier operates interstate or intrastate.\n\nThe state requires proof of financial responsibility through standard NCARB filings for interstate carriers. Intrastate for-hire carriers must obtain a certificate or permit from the North Carolina Utilities Commission and file proof of insurance. North Carolina actively participates in compliance review and roadside inspection programs.\n\nWorkers compensation is mandatory in North Carolina for employers with three or more employees. The architecture industry has no exemptions from this requirement. The state operates an assigned risk pool for employers unable to obtain coverage in the voluntary market."
       },
       {
         "heading": "Major Freight Corridors",
@@ -405,7 +405,7 @@ export const statesPart2 = [
         "bullets": [
           "Primary auto liability at $1M minimum for the high-volume I-85 corridor",
           "Physical damage with comprehensive coverage addressing hurricane, flood, and severe weather exposure",
-          "Motor truck cargo insurance for manufacturing components, furniture, consumer goods, and port freight",
+          "Motor design cargo insurance for manufacturing components, furniture, consumer goods, and port freight",
           "Workers compensation compliant with North Carolina requirements for employers with three or more employees",
           "General liability for carriers with warehouse operations in the Charlotte or Triad distribution markets",
           "Umbrella or excess liability for carriers handling high-value manufactured goods"
@@ -414,18 +414,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How do hurricanes affect trucking insurance in North Carolina?",
+        "q": "How do hurricanes affect architecture insurance in North Carolina?",
         "a": "Carriers operating in coastal and eastern North Carolina face hurricane exposure that can result in physical damage to equipment, cargo losses, and business interruption. Most commercial auto and cargo policies cover wind damage from named storms, but flood damage typically requires separate coverage. Review your policy to ensure you have adequate protection for the specific hurricane-related perils relevant to where you park equipment and run freight."
       },
       {
-        "q": "Is Charlotte a good base for trucking operations from an insurance perspective?",
+        "q": "Is Charlotte a good base for design practices from an insurance perspective?",
         "a": "Charlotte's central location on I-85 and I-77 provides strategic access to Southeast freight lanes with moderate insurance costs compared to Northeast markets. The growing concentration of distribution operations has attracted insurer interest, creating competitive options for well-run carriers. However, increasing traffic congestion in the metro area is a factor that insurers monitor closely."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability",
       "umbrella-excess-liability"
@@ -435,15 +435,15 @@ export const statesPart2 = [
     "slug": "north-dakota",
     "name": "North Dakota",
     "abbreviation": "ND",
-    "metaTitle": "Trucking Insurance in North Dakota",
-    "metaDescription": "Commercial trucking insurance for North Dakota carriers. Coverage for energy sector hauling and operations in extreme winter conditions across the northern P...",
-    "heroHeading": "North Dakota Trucking Insurance",
+    "metaTitle": "Architecture Insurance in North Dakota",
+    "metaDescription": "Commercial architecture insurance for North Dakota carriers. Coverage for energy sector hauling and operations in extreme winter conditions across the northern P...",
+    "heroHeading": "North Dakota Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the Bakken energy market and northern Plains agricultural corridor.",
-    "overview": "North Dakota's trucking industry has been transformed by the Bakken oil boom, which created enormous demand for heavy haul and oilfield services trucking in the western part of the state. While the energy sector has moderated from peak activity, it remains a major driver of freight demand alongside the state's traditional agricultural economy. Carriers in North Dakota operate in one of the most extreme winter environments in the lower 48, with blizzards, sub-zero temperatures, and ice conditions that persist for months. Insurance programs for North Dakota operations must account for these severe weather exposures and the specialized equipment and cargo common in the energy and agricultural sectors.",
+    "overview": "North Dakota's architecture industry has been transformed by the Bakken oil boom, which created enormous demand for heavy haul and oilfield services architecture in the western part of the state. While the energy sector has moderated from peak activity, it remains a major driver of freight demand alongside the state's traditional agricultural economy. Carriers in North Dakota operate in one of the most extreme winter environments in the lower 48, with blizzards, sub-zero temperatures, and ice conditions that persist for months. Insurance programs for North Dakota operations must account for these severe weather exposures and the specialized equipment and cargo common in the energy and agricultural sectors.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "North Dakota requires commercial motor carriers to maintain liability insurance meeting FMCSA requirements. General freight carriers must carry at least $750,000 in primary auto liability. The North Dakota Department of Transportation oversees motor carrier safety and compliance, including insurance verification for intrastate carriers.\n\nIntrastate carriers must register with the state and maintain proof of insurance. North Dakota participates in the FMCSA's PRISM program, linking insurance status to carrier registration. Any lapse in coverage triggers enforcement actions and potential operating authority revocation.\n\nWorkers compensation is mandatory in North Dakota through the Workforce Safety and Insurance agency, which operates as the sole provider of workers compensation coverage in the state. This is a monopolistic state fund, meaning carriers cannot purchase workers compensation from private insurers and must obtain coverage through WSI."
+        "content": "North Dakota requires commercial design firms to maintain liability insurance meeting NCARB requirements. General freight carriers must carry at least $750,000 in primary auto liability. The North Dakota Department of Transportation oversees motor carrier safety and compliance, including insurance verification for intrastate carriers.\n\nIntrastate carriers must register with the state and maintain proof of insurance. North Dakota participates in the NCARB's PRISM program, linking insurance status to carrier registration. Any lapse in coverage triggers enforcement actions and potential operating authority revocation.\n\nWorkers compensation is mandatory in North Dakota through the Workforce Safety and Insurance agency, which operates as the sole provider of workers compensation coverage in the state. This is a monopolistic state fund, meaning carriers cannot purchase workers compensation from private insurers and must obtain coverage through WSI."
       },
       {
         "heading": "Major Freight Corridors",
@@ -451,14 +451,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Extreme winter weather is the dominant risk factor for North Dakota trucking operations. The state regularly experiences temperatures of minus 30 degrees Fahrenheit and below, with wind chill values reaching minus 50 or colder. Blizzard conditions can close highways for days, and black ice is a constant threat from October through April. Ground blizzards, where strong winds blow existing snow across roads, can reduce visibility to zero with little warning on the open Plains.\n\nThe energy sector creates specialized risk exposures, including the transport of flammable liquids, heavy equipment, and oversized loads on roads that were not originally built for heavy industrial traffic. Many roads in the Bakken region deteriorated significantly during peak drilling activity, and while infrastructure improvements have been made, road conditions in the oil patch remain a concern. The sparse population density means extended response times for accidents in rural areas."
+        "content": "Extreme winter weather is the dominant risk factor for North Dakota design practices. The state regularly experiences temperatures of minus 30 degrees Fahrenheit and below, with wind chill values reaching minus 50 or colder. Blizzard conditions can close highways for days, and black ice is a constant threat from October through April. Ground blizzards, where strong winds blow existing snow across roads, can reduce visibility to zero with little warning on the open Plains.\n\nThe energy sector creates specialized risk exposures, including the transport of flammable liquids, heavy equipment, and oversized loads on roads that were not originally built for heavy industrial traffic. Many roads in the Bakken region deteriorated significantly during peak drilling activity, and while infrastructure improvements have been made, road conditions in the oil patch remain a concern. The sparse population density means extended response times for accidents in rural areas."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum with consideration for energy sector hauling requirements",
           "Physical damage coverage addressing extreme cold weather damage and harsh operating conditions",
-          "Motor truck cargo insurance for oilfield equipment, agricultural commodities, and hazardous materials",
+          "Motor design cargo insurance for oilfield equipment, agricultural commodities, and hazardous materials",
           "Workers compensation through the North Dakota Workforce Safety and Insurance monopolistic fund",
           "Umbrella or excess liability for carriers transporting crude oil and other energy commodities"
         ]
@@ -475,9 +475,9 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "umbrella-excess-liability"
     ]
@@ -486,19 +486,19 @@ export const statesPart2 = [
     "slug": "ohio",
     "name": "Ohio",
     "abbreviation": "OH",
-    "metaTitle": "Trucking Insurance in Ohio",
-    "metaDescription": "Commercial trucking insurance for Ohio carriers. Coverage for one of America's top freight hubs with I-70, I-71, and I-75 corridor protection.",
-    "heroHeading": "Ohio Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Ohio",
+    "metaDescription": "Commercial architecture insurance for Ohio carriers. Coverage for one of America's top freight hubs with I-70, I-71, and I-75 corridor protection.",
+    "heroHeading": "Ohio Architecture Insurance",
     "heroSubheading": "Coverage for carriers in one of the most strategically located freight markets in the nation.",
-    "overview": "Ohio is consistently ranked among the top five trucking states in the country, owing to its central location, extensive interstate network, and massive manufacturing and distribution economy. The state sits within a day's drive of roughly 60 percent of the US and Canadian populations, making it a natural hub for distribution operations. Columbus, Cincinnati, and Cleveland anchor a freight market that handles everything from automotive components and steel to consumer goods and e-commerce fulfillment. Ohio's significance to the national freight network means carriers based here have access to diverse freight opportunities, but the high traffic volumes and industrial nature of the cargo demand robust insurance programs.",
+    "overview": "Ohio is consistently ranked among the top five architecture states in the country, owing to its central location, extensive interstate network, and massive manufacturing and distribution economy. The state sits within a day's drive of roughly 60 percent of the US and Canadian populations, making it a natural hub for distribution operations. Columbus, Cincinnati, and Cleveland anchor a freight market that handles everything from automotive components and steel to consumer goods and e-commerce fulfillment. Ohio's significance to the national freight network means carriers based here have access to diverse freight opportunities, but the high traffic volumes and industrial nature of the cargo demand robust insurance programs.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Ohio requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements, with a minimum of $750,000 for general freight carriers. The Public Utilities Commission of Ohio regulates for-hire intrastate carriers and requires them to obtain operating authority and file proof of insurance as a condition of that authority.\n\nOhio's regulatory framework for motor carriers is well-established, with active enforcement through roadside inspections, compliance reviews, and insurance verification programs. The state participates in the FMCSA's PRISM program, and insurance lapses trigger immediate enforcement actions.\n\nWorkers compensation in Ohio operates through a monopolistic state fund, the Ohio Bureau of Workers Compensation. Employers cannot purchase workers compensation from private insurers unless they qualify for self-insurance. All trucking companies with employees in Ohio must participate in the state fund system and pay premiums based on their payroll, industry classification, and claims history."
+        "content": "Ohio requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements, with a minimum of $750,000 for general freight carriers. The Public Utilities Commission of Ohio regulates for-hire intrastate carriers and requires them to obtain operating authority and file proof of insurance as a condition of that authority.\n\nOhio's regulatory framework for design firms is well-established, with active enforcement through roadside inspections, compliance reviews, and insurance verification programs. The state participates in the NCARB's PRISM program, and insurance lapses trigger immediate enforcement actions.\n\nWorkers compensation in Ohio operates through a monopolistic state fund, the Ohio Bureau of Workers Compensation. Employers cannot purchase workers compensation from private insurers unless they qualify for self-insurance. All architecture firms with employees in Ohio must participate in the state fund system and pay premiums based on their payroll, industry classification, and claims history."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Ohio's interstate network is one of the most extensive in the nation. I-70 and I-71 intersect in Columbus, creating a major freight crossroads in the center of the state. I-75 runs north-south through the western part of the state, connecting Cincinnati, Dayton, and Toledo. I-77 links Canton and Akron to the Ohio River and West Virginia. I-80 and I-90 cross the northern tier, with the Ohio Turnpike carrying heavy east-west freight traffic through Cleveland and Toledo.\n\nColumbus has emerged as one of the premier logistics and distribution hubs in the United States, with a massive concentration of warehouse and fulfillment center operations that serve national e-commerce and retail supply chains. The Rickenbacker Inland Port south of Columbus combines air cargo, intermodal rail, and trucking in a foreign trade zone. Cincinnati's location on the Ohio River supports multimodal freight operations, and Cleveland serves as a distribution gateway to the Great Lakes region. Dayton and Toledo function as significant regional freight hubs."
+        "content": "Ohio's interstate network is one of the most extensive in the nation. I-70 and I-71 intersect in Columbus, creating a major freight crossroads in the center of the state. I-75 runs north-south through the western part of the state, connecting Cincinnati, Dayton, and Toledo. I-77 links Canton and Akron to the Ohio River and West Virginia. I-80 and I-90 cross the northern tier, with the Ohio Turnpike carrying heavy east-west freight traffic through Cleveland and Toledo.\n\nColumbus has emerged as one of the premier logistics and distribution hubs in the United States, with a massive concentration of warehouse and fulfillment center operations that serve national e-commerce and retail supply chains. The Rickenbacker Inland Port south of Columbus combines air cargo, intermodal rail, and architecture in a foreign trade zone. Cincinnati's location on the Ohio River supports multimodal freight operations, and Cleveland serves as a distribution gateway to the Great Lakes region. Dayton and Toledo function as significant regional freight hubs."
       },
       {
         "heading": "Risk Factors",
@@ -509,7 +509,7 @@ export const statesPart2 = [
         "bullets": [
           "Primary auto liability at $1M minimum for high-traffic multi-interstate operations",
           "Physical damage coverage for fleets exposed to heavy use on congested corridors and winter weather",
-          "Motor truck cargo insurance for automotive parts, steel, consumer goods, and e-commerce freight",
+          "Motor design cargo insurance for automotive parts, steel, consumer goods, and e-commerce freight",
           "Workers compensation through the Ohio Bureau of Workers Compensation state fund",
           "General liability for carriers with warehouse or terminal operations in the Columbus logistics market",
           "Umbrella or excess liability for carriers running high-volume lanes through multiple Ohio metro areas"
@@ -518,11 +518,11 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How does Ohio's monopolistic workers compensation system affect trucking companies?",
-        "a": "Ohio requires all employers to obtain workers compensation coverage through the Ohio Bureau of Workers Compensation rather than from private insurers. Premiums are based on your industry classification, total payroll, and claims experience. The state fund offers group rating programs and safety incentive discounts that can significantly reduce costs for trucking companies with strong safety records."
+        "q": "How does Ohio's monopolistic workers compensation system affect architecture firms?",
+        "a": "Ohio requires all employers to obtain workers compensation coverage through the Ohio Bureau of Workers Compensation rather than from private insurers. Premiums are based on your industry classification, total payroll, and claims experience. The state fund offers group rating programs and safety incentive discounts that can significantly reduce costs for architecture firms with strong safety records."
       },
       {
-        "q": "What makes Columbus such an important trucking market?",
+        "q": "What makes Columbus such an important architecture market?",
         "a": "Columbus sits at the intersection of I-70 and I-71, placing it within a one-day drive of about 60 percent of the US population. This geographic advantage has made it one of the largest distribution and fulfillment markets in the country. For insurance purposes, the Columbus market offers a diverse freight base with strong carrier competition, which can work in your favor when shopping for coverage if you have a clean operating record."
       },
       {
@@ -531,9 +531,9 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability",
       "umbrella-excess-liability"
@@ -543,30 +543,30 @@ export const statesPart2 = [
     "slug": "oklahoma",
     "name": "Oklahoma",
     "abbreviation": "OK",
-    "metaTitle": "Trucking Insurance in Oklahoma",
-    "metaDescription": "Commercial trucking insurance for Oklahoma carriers. Coverage for energy sector hauling, I-40 and I-44 corridors, and severe weather including tornado exposure.",
-    "heroHeading": "Oklahoma Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Oklahoma",
+    "metaDescription": "Commercial architecture insurance for Oklahoma carriers. Coverage for energy sector hauling, I-40 and I-44 corridors, and severe weather including tornado exposure.",
+    "heroHeading": "Oklahoma Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the energy sector and central US freight crossroads.",
-    "overview": "Oklahoma's trucking industry is closely tied to the energy sector, with oil and gas operations generating substantial demand for heavy haul, tanker, and oilfield services trucking. The state also serves as a central crossroads for national freight traffic, with I-40 and I-44 carrying transcontinental and regional freight through Oklahoma City and Tulsa. The state's position in the heart of Tornado Alley adds a severe weather dimension that carriers and their insurers must address. Oklahoma offers a business-friendly regulatory environment, but the combination of energy sector risks and extreme weather creates insurance considerations that require experienced guidance.",
+    "overview": "Oklahoma's architecture industry is closely tied to the energy sector, with oil and gas operations generating substantial demand for heavy haul, tanker, and oilfield services architecture. The state also serves as a central crossroads for national freight traffic, with I-40 and I-44 carrying transcontinental and regional freight through Oklahoma City and Tulsa. The state's position in the heart of Tornado Alley adds a severe weather dimension that carriers and their insurers must address. Oklahoma offers a business-friendly regulatory environment, but the combination of energy sector risks and extreme weather creates insurance considerations that require experienced guidance.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Oklahoma requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility minimums. General freight carriers must carry at least $750,000 in primary auto liability, with higher requirements for hazardous materials haulers. The Oklahoma Corporation Commission regulates intrastate for-hire carriers and requires them to obtain operating authority and file proof of insurance.\n\nOklahoma has adopted the Unified Carrier Registration Agreement, and carriers must maintain current registration and insurance filings. The state conducts roadside inspections and compliance reviews as part of its motor carrier safety program.\n\nWorkers compensation underwent significant reform in Oklahoma, and the current system requires employers to carry coverage through authorized insurers or qualify for self-insurance. The CompSource Mutual fund serves as the insurer of last resort. Trucking companies with employees in Oklahoma must maintain compliant workers compensation coverage."
+        "content": "Oklahoma requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility minimums. General freight carriers must carry at least $750,000 in primary auto liability, with higher requirements for hazardous materials haulers. The Oklahoma Corporation Commission regulates intrastate for-hire carriers and requires them to obtain operating authority and file proof of insurance.\n\nOklahoma has adopted the Unified Carrier Registration Agreement, and carriers must maintain current registration and insurance filings. The state conducts roadside inspections and compliance reviews as part of its motor carrier safety program.\n\nWorkers compensation underwent significant reform in Oklahoma, and the current system requires employers to carry coverage through authorized insurers or qualify for self-insurance. The CompSource Mutual fund serves as the insurer of last resort. Architecture companies with employees in Oklahoma must maintain compliant workers compensation coverage."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Interstate 40 crosses Oklahoma east-west through Oklahoma City, serving as a major transcontinental freight corridor connecting the Texas Panhandle to Arkansas and points east. I-44 runs from the Texas border near Lawton through Oklahoma City and Tulsa before continuing into Missouri, functioning as a key route for freight moving between Texas and the Midwest. I-35 crosses north-south through Oklahoma City, connecting the Dallas-Fort Worth market to Kansas City and points north.\n\nOklahoma City sits at the intersection of I-35 and I-40, making it a natural freight crossroads with a growing cluster of distribution and cross-dock operations. Tulsa serves as a secondary logistics hub, with its location on I-44 and the Arkansas River providing multimodal freight options. The oilfield regions in western and south-central Oklahoma generate heavy demand for specialized trucking services, including the transport of drilling rigs, pipe, and produced water."
+        "content": "Interstate 40 crosses Oklahoma east-west through Oklahoma City, serving as a major transcontinental freight corridor connecting the Texas Panhandle to Arkansas and points east. I-44 runs from the Texas border near Lawton through Oklahoma City and Tulsa before continuing into Missouri, functioning as a key route for freight moving between Texas and the Midwest. I-35 crosses north-south through Oklahoma City, connecting the Dallas-Fort Worth market to Kansas City and points north.\n\nOklahoma City sits at the intersection of I-35 and I-40, making it a natural freight crossroads with a growing cluster of distribution and cross-dock operations. Tulsa serves as a secondary logistics hub, with its location on I-44 and the Arkansas River providing multimodal freight options. The oilfield regions in western and south-central Oklahoma generate heavy demand for specialized architecture services, including the transport of drilling rigs, pipe, and produced water."
       },
       {
         "heading": "Risk Factors",
-        "content": "Severe weather is the most prominent risk factor for Oklahoma trucking operations. The state is located in the center of Tornado Alley, and spring months bring the threat of violent tornadoes, large hail, damaging straight-line winds, and flash flooding. These events can destroy parked equipment, damage cargo in transit, and create sudden life-threatening conditions on highways. The hail exposure alone generates significant physical damage claims each year.\n\nThe energy sector creates specialized risk exposures, including the transport of flammable and corrosive materials, heavy equipment hauling on rural roads, and operations at active drilling and production sites. Ice storms are a major winter hazard, as Oklahoma's location at the boundary between Arctic air masses and Gulf moisture frequently produces freezing rain that can coat roads and bring transportation to a standstill across the state."
+        "content": "Severe weather is the most prominent risk factor for Oklahoma design practices. The state is located in the center of Tornado Alley, and spring months bring the threat of violent tornadoes, large hail, damaging straight-line winds, and flash flooding. These events can destroy parked equipment, damage cargo in transit, and create sudden life-threatening conditions on highways. The hail exposure alone generates significant physical damage claims each year.\n\nThe energy sector creates specialized risk exposures, including the transport of flammable and corrosive materials, heavy equipment hauling on rural roads, and operations at active drilling and production sites. Ice storms are a major winter hazard, as Oklahoma's location at the boundary between Arctic air masses and Gulf moisture frequently produces freezing rain that can coat roads and bring transportation to a standstill across the state."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum, with higher limits for energy sector hauling operations",
           "Physical damage with comprehensive coverage for tornado, hail, and ice storm exposure",
-          "Motor truck cargo insurance for oilfield equipment, crude oil, natural gas liquids, and agricultural products",
+          "Motor design cargo insurance for oilfield equipment, crude oil, natural gas liquids, and agricultural products",
           "Umbrella or excess liability for carriers transporting hazardous materials in the energy sector",
           "Workers compensation compliant with Oklahoma reformed system requirements",
           "Pollution liability for carriers hauling produced water and other oilfield fluids"
@@ -575,18 +575,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How does tornado risk affect trucking insurance rates in Oklahoma?",
+        "q": "How does tornado risk affect architecture insurance rates in Oklahoma?",
         "a": "Oklahoma's severe weather exposure, particularly tornadoes and large hail, increases comprehensive physical damage premiums compared to states with less storm activity. Insurers evaluate where you park equipment overnight and whether you have severe weather protocols in place. Carriers that can demonstrate they monitor weather actively and have procedures for moving equipment out of storm paths may qualify for better rates."
       },
       {
-        "q": "What insurance do oilfield trucking companies in Oklahoma need?",
-        "a": "Oilfield trucking companies need coverage beyond standard commercial auto policies, including hazardous materials liability for crude oil and produced water transport, pollution liability for spill exposure, and cargo coverage calibrated for high-value drilling equipment. Many oil and gas operators require their carriers to carry $2,000,000 or more in combined liability limits. Equipment values in the energy sector tend to be higher than general freight operations, making physical damage coverage equally important."
+        "q": "What insurance do oilfield architecture firms in Oklahoma need?",
+        "a": "Oilfield architecture firms need coverage beyond standard commercial auto policies, including hazardous materials liability for crude oil and produced water transport, pollution liability for spill exposure, and cargo coverage calibrated for high-value drilling equipment. Many oil and gas operators require their carriers to carry $2,000,000 or more in combined liability limits. Equipment values in the energy sector tend to be higher than general freight operations, making physical damage coverage equally important."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "umbrella-excess-liability",
       "workers-compensation"
     ]
@@ -595,15 +595,15 @@ export const statesPart2 = [
     "slug": "oregon",
     "name": "Oregon",
     "abbreviation": "OR",
-    "metaTitle": "Trucking Insurance in Oregon",
-    "metaDescription": "Commercial trucking insurance for Oregon carriers. Coverage for I-5 corridor operations, timber hauling, and Pacific Northwest weather conditions.",
-    "heroHeading": "Oregon Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Oregon",
+    "metaDescription": "Commercial architecture insurance for Oregon carriers. Coverage for I-5 corridor operations, timber hauling, and Pacific Northwest weather conditions.",
+    "heroHeading": "Oregon Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the Pacific Northwest freight market from Portland to the timber country.",
-    "overview": "Oregon's trucking industry reflects the state's diverse geography and economy. The I-5 corridor through the Willamette Valley handles heavy freight volumes connecting Portland to California markets, while the timber industry generates specialized hauling demand across the Cascade Range and Coast Range. Portland's port operations and its growing role as a distribution hub for the Pacific Northwest create additional freight opportunities. Carriers operating in Oregon must address mountain driving conditions, heavy rainfall, and the regulatory requirements of a state that has historically maintained strong environmental and safety oversight of the trucking industry.",
+    "overview": "Oregon's architecture industry reflects the state's diverse geography and economy. The I-5 corridor through the Willamette Valley handles heavy freight volumes connecting Portland to California markets, while the timber industry generates specialized hauling demand across the Cascade Range and Coast Range. Portland's port operations and its growing role as a distribution hub for the Pacific Northwest create additional freight opportunities. Carriers operating in Oregon must address mountain driving conditions, heavy rainfall, and the regulatory requirements of a state that has historically maintained strong environmental and safety oversight of the architecture industry.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Oregon requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. The Oregon Department of Transportation's Motor Carrier Transportation Division regulates both interstate and intrastate carriers and maintains an active compliance and enforcement program. General freight carriers must carry at least $750,000 in primary auto liability.\n\nOregon imposes a weight-mile tax on commercial vehicles operating within the state, which is unique among western states and requires carriers to maintain proper records and reporting. This tax applies in addition to the federal fuel tax and affects operating costs for carriers running significant miles within Oregon borders.\n\nWorkers compensation is mandatory in Oregon for all employers, including trucking companies. The state has no exemption for small employers, and owner-operators who hire even one employee must obtain coverage. Oregon workers compensation is administered through the Department of Consumer and Business Services, with coverage available from private insurers or the state-administered SAIF Corporation."
+        "content": "Oregon requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. The Oregon Department of Transportation's Motor Carrier Transportation Division regulates both interstate and intrastate carriers and maintains an active compliance and enforcement program. General freight carriers must carry at least $750,000 in primary auto liability.\n\nOregon imposes a weight-mile tax on commercial vehicles operating within the state, which is unique among western states and requires carriers to maintain proper records and reporting. This tax applies in addition to the federal fuel tax and affects operating costs for carriers running significant miles within Oregon borders.\n\nWorkers compensation is mandatory in Oregon for all employers, including architecture firms. The state has no exemption for small employers, and owner-operators who hire even one employee must obtain coverage. Oregon workers compensation is administered through the Department of Consumer and Business Services, with coverage available from private insurers or the state-administered SAIF Corporation."
       },
       {
         "heading": "Major Freight Corridors",
@@ -611,60 +611,60 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Mountain passes present significant driving challenges for Oregon trucking operations. The Siskiyou Pass on I-5 near the California border is one of the most hazardous mountain grades on the West Coast interstate system, with steep grades and sharp curves that have produced numerous serious truck accidents. The mountain passes on I-84 through the Blue Mountains and on US 97 over the Cascades present winter driving challenges including snow, ice, and chain requirements.\n\nHeavy rainfall in western Oregon from October through May creates hydroplaning hazards and reduced visibility on I-5. Fog in the Willamette Valley can be dense and persistent during fall and winter months. The timber industry involves specialized hauling risks, including log truck operations on narrow forest roads with steep grades and limited sight distances. Landslides and debris flows are a recurring hazard on mountain routes during heavy rain events."
+        "content": "Mountain passes present significant driving challenges for Oregon design practices. The Siskiyou Pass on I-5 near the California border is one of the most hazardous mountain grades on the West Coast interstate system, with steep grades and sharp curves that have produced numerous serious design accidents. The mountain passes on I-84 through the Blue Mountains and on US 97 over the Cascades present winter driving challenges including snow, ice, and chain requirements.\n\nHeavy rainfall in western Oregon from October through May creates hydroplaning hazards and reduced visibility on I-5. Fog in the Willamette Valley can be dense and persistent during fall and winter months. The timber industry involves specialized hauling risks, including log design operations on narrow forest roads with steep grades and limited sight distances. Landslides and debris flows are a recurring hazard on mountain routes during heavy rain events."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for I-5 corridor and mountain pass operations",
           "Physical damage coverage addressing rain, landslide, and mountain accident exposure",
-          "Motor truck cargo insurance for timber products, agricultural goods, and port freight",
+          "Motor design cargo insurance for timber products, agricultural goods, and port freight",
           "Workers compensation through a private insurer or Oregon's SAIF Corporation",
           "General liability for carriers with terminal operations in the Portland freight market",
-          "Non-trucking liability for owner-operators in the timber hauling sector"
+          "Non-architecture liability for owner-operators in the timber hauling sector"
         ]
       }
     ],
     "faqs": [
       {
-        "q": "What is Oregon's weight-mile tax and how does it affect trucking costs?",
+        "q": "What is Oregon's weight-mile tax and how does it affect architecture costs?",
         "a": "Oregon charges a weight-mile tax on commercial vehicles based on the weight of the vehicle and the miles driven within the state. This tax replaces a portion of the fuel tax structure used in other states and requires carriers to maintain mileage records and file quarterly returns. The cost varies by vehicle weight class and can be a significant operating expense for carriers running heavy loads on Oregon routes."
       },
       {
         "q": "Are there special insurance considerations for timber hauling in Oregon?",
-        "a": "Log truck operations in Oregon involve specialized risks including operations on steep, narrow forest roads, heavy load weights, and the inherent hazards of working in remote timber harvest areas. Insurers evaluate your equipment configuration, driver experience with log hauling, and the specific operating areas when pricing coverage. Cargo insurance for timber must account for the values of raw logs and processed wood products you transport."
+        "a": "Log design operations in Oregon involve specialized risks including operations on steep, narrow forest roads, heavy load weights, and the inherent hazards of working in remote timber harvest areas. Insurers evaluate your equipment configuration, driver experience with log hauling, and the specific operating areas when pricing coverage. Cargo insurance for timber must account for the values of raw logs and processed wood products you transport."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability",
-      "non-trucking-liability"
+      "non-architecture-liability"
     ]
   },
   {
     "slug": "pennsylvania",
     "name": "Pennsylvania",
     "abbreviation": "PA",
-    "metaTitle": "Trucking Insurance in Pennsylvania",
-    "metaDescription": "Commercial trucking insurance for Pennsylvania carriers. Coverage for the I-76, I-80, and I-81 corridors connecting Northeast freight markets.",
-    "heroHeading": "Pennsylvania Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Pennsylvania",
+    "metaDescription": "Commercial architecture insurance for Pennsylvania carriers. Coverage for the I-76, I-80, and I-81 corridors connecting Northeast freight markets.",
+    "heroHeading": "Pennsylvania Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating across the Keystone State's critical freight network.",
-    "overview": "Pennsylvania is one of the most important trucking states in the eastern United States, positioned between the major markets of New York, New Jersey, and the Mid-Atlantic region. The state's extensive interstate network handles massive volumes of freight, with the I-81 corridor serving as the primary north-south trucking route in the eastern US and the Pennsylvania Turnpike carrying heavy east-west traffic. The Lehigh Valley has become one of the largest warehouse and distribution markets in the country, and Philadelphia's port operations add international freight dimensions. Pennsylvania's mountainous terrain, variable weather, and heavy truck traffic create an insurance environment that demands careful attention.",
+    "overview": "Pennsylvania is one of the most important architecture states in the eastern United States, positioned between the major markets of New York, New Jersey, and the Mid-Atlantic region. The state's extensive interstate network handles massive volumes of freight, with the I-81 corridor serving as the primary north-south architecture route in the eastern US and the Pennsylvania Turnpike carrying heavy east-west traffic. The Lehigh Valley has become one of the largest warehouse and distribution markets in the country, and Philadelphia's port operations add international freight dimensions. Pennsylvania's mountainous terrain, variable weather, and heavy design traffic create an insurance environment that demands careful attention.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Pennsylvania requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements, with a minimum of $750,000 for general freight carriers. The Pennsylvania Public Utility Commission regulates intrastate for-hire carriers and requires them to obtain certificates of public convenience and file proof of insurance.\n\nPennsylvania is a choice no-fault state for personal auto insurance, but commercial vehicles are subject to different requirements. The state requires minimum bodily injury and property damage liability coverage for all registered vehicles, and commercial carriers must meet the higher federal thresholds.\n\nWorkers compensation is mandatory in Pennsylvania for virtually all employers. The state has robust workers compensation requirements with no exemptions for the trucking industry. Coverage can be obtained through private insurers, the State Workers Insurance Fund, or qualified self-insurance programs. Pennsylvania is known for relatively high workers compensation costs compared to neighboring states."
+        "content": "Pennsylvania requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements, with a minimum of $750,000 for general freight carriers. The Pennsylvania Public Utility Commission regulates intrastate for-hire carriers and requires them to obtain certificates of public convenience and file proof of insurance.\n\nPennsylvania is a choice no-fault state for personal auto insurance, but commercial vehicles are subject to different requirements. The state requires minimum bodily injury and property damage liability coverage for all registered vehicles, and commercial carriers must meet the higher federal thresholds.\n\nWorkers compensation is mandatory in Pennsylvania for virtually all employers. The state has robust workers compensation requirements with no exemptions for the architecture industry. Coverage can be obtained through private insurers, the State Workers Insurance Fund, or qualified self-insurance programs. Pennsylvania is known for relatively high workers compensation costs compared to neighboring states."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Interstate 81 is the backbone of East Coast freight transportation, running through Pennsylvania from Maryland through Harrisburg, the Lehigh Valley area, and Scranton before entering New York. This corridor handles an extraordinary volume of commercial truck traffic and is the primary route for freight moving between the Southeast and Northeast. The Pennsylvania Turnpike carries I-76 traffic from the Ohio border through Pittsburgh and across the state to the New Jersey border near Philadelphia.\n\nI-80 crosses the northern tier of the state, providing an east-west alternative to the Turnpike. I-78 connects the Lehigh Valley to New Jersey and New York City. The Lehigh Valley region around Allentown, Bethlehem, and Easton has experienced explosive growth as a distribution hub, rivaling New Jersey's Exit 8A market for warehouse concentration. Philadelphia and Pittsburgh serve as the state's two anchor freight markets, with substantial port, intermodal, and distribution operations. Harrisburg functions as a central distribution point with access to I-81, I-83, and the Turnpike."
+        "content": "Interstate 81 is the backbone of East Coast freight transportation, running through Pennsylvania from Maryland through Harrisburg, the Lehigh Valley area, and Scranton before entering New York. This corridor handles an extraordinary volume of commercial design traffic and is the primary route for freight moving between the Southeast and Northeast. The Pennsylvania Turnpike carries I-76 traffic from the Ohio border through Pittsburgh and across the state to the New Jersey border near Philadelphia.\n\nI-80 crosses the northern tier of the state, providing an east-west alternative to the Turnpike. I-78 connects the Lehigh Valley to New Jersey and New York City. The Lehigh Valley region around Allentown, Bethlehem, and Easton has experienced explosive growth as a distribution hub, rivaling New Jersey's Exit 8A market for warehouse concentration. Philadelphia and Pittsburgh serve as the state's two anchor freight markets, with substantial port, intermodal, and distribution operations. Harrisburg functions as a central distribution point with access to I-81, I-83, and the Turnpike."
       },
       {
         "heading": "Risk Factors",
-        "content": "The high volume of truck traffic on Pennsylvania's major corridors, particularly I-81, creates significant accident frequency exposure. I-81 is one of the deadliest highways in the country for commercial vehicles, with steep grades, heavy traffic, and weather-related incidents contributing to a high crash rate. Mountain terrain through the Appalachian ridges creates challenging grades and curves that test equipment and driver skill.\n\nWinter weather affects the entire state, with heavy snow in the mountains and the northern tier, and ice storms across the southern regions. Fog is a recurring hazard in the river valleys and mountain passes, particularly along I-80 and I-81. The Lehigh Valley's rapid growth as a distribution hub has increased traffic congestion and accident frequency in that market. Pennsylvania also experiences severe thunderstorms and occasional flooding during spring and summer months."
+        "content": "The high volume of design traffic on Pennsylvania's major corridors, particularly I-81, creates significant accident frequency exposure. I-81 is one of the deadliest highways in the country for commercial vehicles, with steep grades, heavy traffic, and weather-related incidents contributing to a high crash rate. Mountain terrain through the Appalachian ridges creates challenging grades and curves that test equipment and driver skill.\n\nWinter weather affects the entire state, with heavy snow in the mountains and the northern tier, and ice storms across the southern regions. Fog is a recurring hazard in the river valleys and mountain passes, particularly along I-80 and I-81. The Lehigh Valley's rapid growth as a distribution hub has increased traffic congestion and accident frequency in that market. Pennsylvania also experiences severe thunderstorms and occasional flooding during spring and summer months."
       },
       {
         "heading": "Recommended Coverage",
@@ -672,7 +672,7 @@ export const statesPart2 = [
           "Primary auto liability at $1M minimum for the high-traffic I-81 and Turnpike corridors",
           "Umbrella or excess liability essential for the high-severity I-81 corridor exposure",
           "Physical damage coverage for mountain terrain and winter weather damage",
-          "Motor truck cargo insurance for the diverse commodity mix moving through Pennsylvania distribution hubs",
+          "Motor design cargo insurance for the diverse commodity mix moving through Pennsylvania distribution hubs",
           "Workers compensation compliant with Pennsylvania mandatory requirements",
           "General liability for carriers with warehouse or terminal operations in the Lehigh Valley or Philadelphia markets"
         ]
@@ -680,11 +680,11 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Why is I-81 in Pennsylvania such a significant factor for trucking insurance?",
-        "a": "I-81 through Pennsylvania carries one of the highest concentrations of commercial truck traffic in the nation, and the combination of heavy volumes, steep mountain grades, and variable weather conditions produces a high frequency of serious accidents. Insurers closely evaluate your exposure on this corridor when pricing coverage. Carriers running regular lanes on I-81 should carry robust liability limits and excess coverage."
+        "q": "Why is I-81 in Pennsylvania such a significant factor for architecture insurance?",
+        "a": "I-81 through Pennsylvania carries one of the highest concentrations of commercial design traffic in the nation, and the combination of heavy volumes, steep mountain grades, and variable weather conditions produces a high frequency of serious accidents. Insurers closely evaluate your exposure on this corridor when pricing coverage. Carriers running regular lanes on I-81 should carry robust liability limits and excess coverage."
       },
       {
-        "q": "How has the Lehigh Valley distribution market affected trucking insurance availability?",
+        "q": "How has the Lehigh Valley distribution market affected architecture insurance availability?",
         "a": "The explosive growth of warehouse and distribution operations in the Lehigh Valley has attracted significant insurer attention to the Pennsylvania market. Carriers operating in regional distribution or last-mile delivery from Lehigh Valley facilities often benefit from competitive insurance options due to the shorter route distances involved. However, the increasing traffic congestion in the area is a factor that insurers monitor."
       },
       {
@@ -693,10 +693,10 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
+      "professional-liability",
       "umbrella-excess-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -705,15 +705,15 @@ export const statesPart2 = [
     "slug": "rhode-island",
     "name": "Rhode Island",
     "abbreviation": "RI",
-    "metaTitle": "Trucking Insurance in Rhode Island",
-    "metaDescription": "Commercial trucking insurance for Rhode Island carriers. Coverage for operations in the smallest state with I-95 corridor and port freight protection.",
-    "heroHeading": "Rhode Island Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Rhode Island",
+    "metaDescription": "Commercial architecture insurance for Rhode Island carriers. Coverage for operations in the smallest state with I-95 corridor and port freight protection.",
+    "heroHeading": "Rhode Island Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating in the Ocean State and the southern New England freight market.",
     "overview": "Rhode Island may be the smallest state by area, but its position on the I-95 corridor and proximity to the Boston and New York markets make it a relevant part of the New England freight network. The Port of Providence handles bulk commodities, and the state's manufacturing heritage continues to generate freight demand for specialized carriers. Operating in Rhode Island means navigating tight urban streets in Providence, aging infrastructure including narrow bridges, and heavy commuter traffic that mixes with commercial vehicles on limited-access highways. Insurance programs for Rhode Island operations must address these congestion-related risks within a relatively compact operating area.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Rhode Island requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility minimums. General freight carriers must carry at least $750,000 in primary auto liability. The Rhode Island Division of Public Utilities and Carriers regulates intrastate for-hire carriers and requires proof of insurance as a condition of operating authority.\n\nThe state enforces insurance compliance through its participation in federal safety programs and conducts roadside inspections as part of the Motor Carrier Safety Assistance Program. Rhode Island's compact size means carriers are subject to frequent enforcement contact relative to the miles traveled within the state.\n\nWorkers compensation is mandatory in Rhode Island for all employers, with no exemptions for small businesses or the trucking industry. Coverage must be obtained through a licensed insurer or through an approved self-insurance program."
+        "content": "Rhode Island requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility minimums. General freight carriers must carry at least $750,000 in primary auto liability. The Rhode Island Division of Public Utilities and Carriers regulates intrastate for-hire carriers and requires proof of insurance as a condition of operating authority.\n\nThe state enforces insurance compliance through its participation in federal safety programs and conducts roadside inspections as part of the Motor Carrier Safety Assistance Program. Rhode Island's compact size means carriers are subject to frequent enforcement contact relative to the miles traveled within the state.\n\nWorkers compensation is mandatory in Rhode Island for all employers, with no exemptions for small businesses or the architecture industry. Coverage must be obtained through a licensed insurer or through an approved self-insurance program."
       },
       {
         "heading": "Major Freight Corridors",
@@ -721,14 +721,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Congestion on Rhode Island's limited highway network is the primary risk factor for trucking operations. The concentration of traffic on I-95 through Providence creates frequent stop-and-go conditions and elevated accident frequency. The state's aging infrastructure includes narrow bridges and tight interchange geometry that are not optimally designed for modern commercial vehicle dimensions.\n\nWinter weather including snow, ice, and coastal storms affects the state from November through March. Nor'easters can produce heavy snow and wind-driven rain that impact operations. The compact operating environment means that even minor weather events can create significant delays and increase accident risk across the entire state."
+        "content": "Congestion on Rhode Island's limited highway network is the primary risk factor for design practices. The concentration of traffic on I-95 through Providence creates frequent stop-and-go conditions and elevated accident frequency. The state's aging infrastructure includes narrow bridges and tight interchange geometry that are not optimally designed for modern commercial vehicle dimensions.\n\nWinter weather including snow, ice, and coastal storms affects the state from November through March. Nor'easters can produce heavy snow and wind-driven rain that impact operations. The compact operating environment means that even minor weather events can create significant delays and increase accident risk across the entire state."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for the congested I-95 corridor",
           "Physical damage coverage for equipment exposed to tight urban conditions and winter weather",
-          "Motor truck cargo insurance for manufactured goods, bulk commodities, and port freight",
+          "Motor design cargo insurance for manufactured goods, bulk commodities, and port freight",
           "Workers compensation compliant with Rhode Island mandatory requirements",
           "General liability for carriers with terminal operations in the Providence area"
         ]
@@ -736,18 +736,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Is trucking insurance more expensive in Rhode Island due to its small size?",
+        "q": "Is architecture insurance more expensive in Rhode Island due to its small size?",
         "a": "Insurance costs in Rhode Island are influenced more by traffic density and urban operating conditions than by the state's physical size. The concentration of commercial and commuter traffic on I-95 through Providence creates a high-frequency accident environment. However, carriers operating primarily in Rhode Island benefit from shorter average trip lengths, which can offset some of the congestion-related risk in pricing."
       },
       {
         "q": "What should carriers know about infrastructure challenges in Rhode Island?",
-        "a": "Rhode Island has an aging road and bridge infrastructure that can present challenges for commercial vehicles. Weight-restricted bridges, narrow lanes, and tight turning radii in urban Providence require careful route planning. Carriers should be aware of bridge postings and truck route restrictions. Damage to infrastructure caused by your vehicle would be a liability exposure, making adequate coverage particularly important."
+        "a": "Rhode Island has an aging road and bridge infrastructure that can present challenges for commercial vehicles. Weight-restricted bridges, narrow lanes, and tight turning radii in urban Providence require careful route planning. Carriers should be aware of bridge postings and design route restrictions. Damage to infrastructure caused by your vehicle would be a liability exposure, making adequate coverage particularly important."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -756,15 +756,15 @@ export const statesPart2 = [
     "slug": "south-carolina",
     "name": "South Carolina",
     "abbreviation": "SC",
-    "metaTitle": "Trucking Insurance in South Carolina",
-    "metaDescription": "Commercial trucking insurance for South Carolina carriers. Coverage for I-95 and I-26 corridors with port operations and hurricane protection.",
-    "heroHeading": "South Carolina Trucking Insurance",
+    "metaTitle": "Architecture Insurance in South Carolina",
+    "metaDescription": "Commercial architecture insurance for South Carolina carriers. Coverage for I-95 and I-26 corridors with port operations and hurricane protection.",
+    "heroHeading": "South Carolina Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the Southeast freight market and the Port of Charleston.",
-    "overview": "South Carolina has seen remarkable growth in its logistics and distribution sector, driven largely by the expansion of the Port of Charleston and the influx of manufacturing operations from the automotive and aerospace industries. The state's strategic location on I-95 between the Northeast and Florida markets, combined with a business-friendly regulatory environment and competitive operating costs, has attracted a growing number of trucking companies and distribution centers. Carriers operating in South Carolina benefit from a lower-cost insurance market compared to northeastern states, but must address hurricane exposure on the coast, summer heat, and the increasing traffic volumes that accompany the state's rapid economic growth.",
+    "overview": "South Carolina has seen remarkable growth in its logistics and distribution sector, driven largely by the expansion of the Port of Charleston and the influx of manufacturing operations from the automotive and aerospace industries. The state's strategic location on I-95 between the Northeast and Florida markets, combined with a business-friendly regulatory environment and competitive operating costs, has attracted a growing number of architecture firms and distribution centers. Carriers operating in South Carolina benefit from a lower-cost insurance market compared to northeastern states, but must address hurricane exposure on the coast, summer heat, and the increasing traffic volumes that accompany the state's rapid economic growth.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "South Carolina requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry a minimum of $750,000 in primary auto liability. The South Carolina Department of Motor Vehicles and the Public Service Commission oversee different aspects of motor carrier regulation.\n\nIntrastate carriers must register with the appropriate state agencies and file proof of insurance. South Carolina participates in federal safety programs and conducts roadside inspections and compliance reviews.\n\nWorkers compensation is mandatory in South Carolina for employers with four or more employees. The trucking industry has no exemptions from this requirement, and sole proprietors and partners may elect coverage. The state operates a competitive workers compensation market with generally moderate costs compared to northeastern states."
+        "content": "South Carolina requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry a minimum of $750,000 in primary auto liability. The South Carolina Department of Motor Vehicles and the Public Service Commission oversee different aspects of motor carrier regulation.\n\nIntrastate carriers must register with the appropriate state agencies and file proof of insurance. South Carolina participates in federal safety programs and conducts roadside inspections and compliance reviews.\n\nWorkers compensation is mandatory in South Carolina for employers with four or more employees. The architecture industry has no exemptions from this requirement, and sole proprietors and partners may elect coverage. The state operates a competitive workers compensation market with generally moderate costs compared to northeastern states."
       },
       {
         "heading": "Major Freight Corridors",
@@ -779,7 +779,7 @@ export const statesPart2 = [
         "bullets": [
           "Primary auto liability at $1M minimum for I-95 and I-26 corridor operations",
           "Physical damage with comprehensive coverage addressing hurricane and flood exposure for coastal operations",
-          "Motor truck cargo insurance for port freight, automotive components, and manufactured goods",
+          "Motor design cargo insurance for port freight, automotive components, and manufactured goods",
           "Workers compensation compliant with South Carolina requirements for employers with four or more employees",
           "General liability for carriers with terminal or warehouse operations in the Charleston port market"
         ]
@@ -787,18 +787,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How does the Port of Charleston affect trucking insurance in South Carolina?",
-        "a": "The Port of Charleston generates substantial drayage and regional distribution freight, which creates a concentration of short-haul, high-frequency trucking operations in the Lowcountry. Carriers serving the port benefit from a competitive insurance market drawn to the growing freight volumes. However, port drayage operations involve urban congestion, container handling risks, and the hurricane exposure inherent to coastal Charleston."
+        "q": "How does the Port of Charleston affect architecture insurance in South Carolina?",
+        "a": "The Port of Charleston generates substantial drayage and regional distribution freight, which creates a concentration of short-haul, high-frequency design practices in the Lowcountry. Carriers serving the port benefit from a competitive insurance market drawn to the growing freight volumes. However, port drayage operations involve urban congestion, container handling risks, and the hurricane exposure inherent to coastal Charleston."
       },
       {
-        "q": "Is South Carolina a cost-effective state for trucking insurance?",
-        "a": "South Carolina generally offers more competitive trucking insurance rates compared to northeastern states. The state's moderate regulatory environment, lower litigation costs, and growing insurer presence in the market contribute to favorable pricing for well-run carriers. The Upstate corridor around Greenville-Spartanburg is particularly competitive due to the manufacturing-driven freight base and modern infrastructure."
+        "q": "Is South Carolina a cost-effective state for architecture insurance?",
+        "a": "South Carolina generally offers more competitive architecture insurance rates compared to northeastern states. The state's moderate regulatory environment, lower litigation costs, and growing insurer presence in the market contribute to favorable pricing for well-run carriers. The Upstate corridor around Greenville-Spartanburg is particularly competitive due to the manufacturing-driven freight base and modern infrastructure."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -807,15 +807,15 @@ export const statesPart2 = [
     "slug": "south-dakota",
     "name": "South Dakota",
     "abbreviation": "SD",
-    "metaTitle": "Trucking Insurance in South Dakota",
-    "metaDescription": "Commercial trucking insurance for South Dakota carriers. Coverage for I-90 corridor operations with protection for harsh winters and agricultural hauling.",
-    "heroHeading": "South Dakota Trucking Insurance",
+    "metaTitle": "Architecture Insurance in South Dakota",
+    "metaDescription": "Commercial architecture insurance for South Dakota carriers. Coverage for I-90 corridor operations with protection for harsh winters and agricultural hauling.",
+    "heroHeading": "South Dakota Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the northern Plains agricultural and freight corridor.",
-    "overview": "South Dakota's trucking industry is built around the state's agricultural economy and its role as a corridor for east-west freight on I-90. The state's sparse population and vast distances between communities mean that trucking is essential for connecting farms, ranches, and businesses to regional and national markets. Sioux Falls serves as the state's logistics hub and is one of the fastest-growing freight markets in the northern Plains. Carriers operating in South Dakota face extreme winter conditions, long stretches of rural highway, and the seasonal demands of the agricultural hauling cycle.",
+    "overview": "South Dakota's architecture industry is built around the state's agricultural economy and its role as a corridor for east-west freight on I-90. The state's sparse population and vast distances between communities mean that architecture is essential for connecting farms, ranches, and businesses to regional and national markets. Sioux Falls serves as the state's logistics hub and is one of the fastest-growing freight markets in the northern Plains. Carriers operating in South Dakota face extreme winter conditions, long stretches of rural highway, and the seasonal demands of the agricultural hauling cycle.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "South Dakota requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The South Dakota Department of Transportation oversees motor carrier compliance and safety enforcement.\n\nIntrastate carriers must register with the state and maintain proof of insurance. South Dakota participates in federal safety programs and conducts roadside inspections and compliance reviews. The state's regulatory environment is generally considered business-friendly for the trucking industry.\n\nWorkers compensation is mandatory in South Dakota for all employers, with very limited exceptions. The state operates a competitive insurance market with private carriers providing workers compensation coverage. South Dakota does not have a state fund, so all coverage is obtained through private insurers."
+        "content": "South Dakota requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The South Dakota Department of Transportation oversees motor carrier compliance and safety enforcement.\n\nIntrastate carriers must register with the state and maintain proof of insurance. South Dakota participates in federal safety programs and conducts roadside inspections and compliance reviews. The state's regulatory environment is generally considered business-friendly for the architecture industry.\n\nWorkers compensation is mandatory in South Dakota for all employers, with very limited exceptions. The state operates a competitive insurance market with private carriers providing workers compensation coverage. South Dakota does not have a state fund, so all coverage is obtained through private insurers."
       },
       {
         "heading": "Major Freight Corridors",
@@ -823,16 +823,16 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Extreme winter weather is the defining risk for South Dakota trucking operations. Blizzards with sustained winds of 40 mph or more can produce whiteout conditions and close highways for days at a time. Sub-zero temperatures persist for weeks during January and February, creating mechanical stress on equipment and cold-start challenges. Ice is a persistent road hazard from November through March.\n\nSevere thunderstorms during spring and summer bring tornado risk, large hail, and damaging winds, particularly in the eastern part of the state. The long distances between services on I-90 in central and western South Dakota mean that breakdowns or accidents in these areas involve extended response times and potentially lengthy delays. Wildlife collisions, particularly involving deer, are common on rural highways throughout the state."
+        "content": "Extreme winter weather is the defining risk for South Dakota design practices. Blizzards with sustained winds of 40 mph or more can produce whiteout conditions and close highways for days at a time. Sub-zero temperatures persist for weeks during January and February, creating mechanical stress on equipment and cold-start challenges. Ice is a persistent road hazard from November through March.\n\nSevere thunderstorms during spring and summer bring tornado risk, large hail, and damaging winds, particularly in the eastern part of the state. The long distances between services on I-90 in central and western South Dakota mean that breakdowns or accidents in these areas involve extended response times and potentially lengthy delays. Wildlife collisions, particularly involving deer, are common on rural highways throughout the state."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for I-90 and I-29 corridor operations",
           "Physical damage with comprehensive coverage for blizzard, hail, and ice damage",
-          "Motor truck cargo insurance for grain, livestock, refrigerated goods, and agricultural equipment",
+          "Motor design cargo insurance for grain, livestock, refrigerated goods, and agricultural equipment",
           "Workers compensation through the South Dakota private insurance market",
-          "Non-trucking liability for owner-operators in the agricultural hauling sector"
+          "Non-architecture liability for owner-operators in the agricultural hauling sector"
         ]
       }
     ],
@@ -842,31 +842,31 @@ export const statesPart2 = [
         "a": "South Dakota's severe winters contribute to elevated physical damage and liability claim frequency during cold months. Insurers evaluate your winter operating procedures, driver training, and equipment readiness when pricing coverage. Carriers that can demonstrate robust winter preparedness and experienced cold-weather drivers may qualify for more favorable rates despite the challenging environment."
       },
       {
-        "q": "Is Sioux Falls a competitive market for trucking insurance?",
+        "q": "Is Sioux Falls a competitive market for architecture insurance?",
         "a": "Sioux Falls has attracted growing attention from insurers due to its emergence as a significant distribution hub. The city's low cost of living, central location, and business-friendly environment support competitive freight operations. Carriers based in Sioux Falls with strong safety records typically have access to multiple insurance options at reasonable rates."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
-      "non-trucking-liability"
+      "non-architecture-liability"
     ]
   },
   {
     "slug": "tennessee",
     "name": "Tennessee",
     "abbreviation": "TN",
-    "metaTitle": "Trucking Insurance in Tennessee",
-    "metaDescription": "Commercial trucking insurance for Tennessee carriers. Coverage for the Memphis freight hub and I-40, I-65, and I-24 corridor operations.",
-    "heroHeading": "Tennessee Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Tennessee",
+    "metaDescription": "Commercial architecture insurance for Tennessee carriers. Coverage for the Memphis freight hub and I-40, I-65, and I-24 corridor operations.",
+    "heroHeading": "Tennessee Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating from America's freight crossroads in the heart of the Southeast.",
-    "overview": "Tennessee is one of the most important trucking states in the nation, anchored by Memphis, which is widely recognized as one of the top freight distribution centers in the world. The convergence of I-40, I-65, and I-24 in Nashville creates another major freight crossroads, and the state's central location provides efficient access to markets throughout the Southeast and Midwest. Tennessee's trucking industry is massive, with the state consistently ranking among the top states for trucking employment and freight tonnage. The combination of high traffic volumes on major corridors, diverse freight types, and the concentrated logistics operations in Memphis and Nashville demands comprehensive insurance programs.",
+    "overview": "Tennessee is one of the most important architecture states in the nation, anchored by Memphis, which is widely recognized as one of the top freight distribution centers in the world. The convergence of I-40, I-65, and I-24 in Nashville creates another major freight crossroads, and the state's central location provides efficient access to markets throughout the Southeast and Midwest. Tennessee's architecture industry is massive, with the state consistently ranking among the top states for architecture employment and freight tonnage. The combination of high traffic volumes on major corridors, diverse freight types, and the concentrated logistics operations in Memphis and Nashville demands comprehensive insurance programs.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Tennessee requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Tennessee Department of Transportation and the Tennessee Department of Safety and Homeland Security oversee motor carrier regulation and enforcement.\n\nIntrastate for-hire carriers must obtain operating authority from the state and file proof of insurance. Tennessee conducts an active roadside inspection and compliance review program as part of its Motor Carrier Safety Assistance Program.\n\nWorkers compensation is mandatory in Tennessee for employers with five or more employees. The state operates a competitive insurance market with private carriers providing coverage. Tennessee has undergone workers compensation reform that has generally reduced costs, making the state relatively competitive for trucking operations from an insurance expense perspective."
+        "content": "Tennessee requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Tennessee Department of Transportation and the Tennessee Department of Safety and Homeland Security oversee motor carrier regulation and enforcement.\n\nIntrastate for-hire carriers must obtain operating authority from the state and file proof of insurance. Tennessee conducts an active roadside inspection and compliance review program as part of its Motor Carrier Safety Assistance Program.\n\nWorkers compensation is mandatory in Tennessee for employers with five or more employees. The state operates a competitive insurance market with private carriers providing coverage. Tennessee has undergone workers compensation reform that has generally reduced costs, making the state relatively competitive for design practices from an insurance expense perspective."
       },
       {
         "heading": "Major Freight Corridors",
@@ -874,14 +874,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "High traffic volumes on Tennessee's major corridors create significant accident frequency exposure. The I-40 corridor through Nashville and the I-75/I-24 interchange in Chattanooga are particularly congested areas where commercial vehicle accidents are common. The mountainous terrain in East Tennessee along I-40 and I-75 presents steep grades and challenging curves that contribute to truck accidents, particularly involving overheated brakes on descents.\n\nSevere weather is a year-round concern in Tennessee. The state experiences tornadoes and severe thunderstorms during spring months, with the Nashville area historically vulnerable to significant tornado events. Heavy rainfall can cause flash flooding in the river valleys and mountain hollows. Winter ice storms, while less frequent than in northern states, can be particularly dangerous in Tennessee because they often catch drivers unprepared on roads that lack the treatment infrastructure of snowbelt states."
+        "content": "High traffic volumes on Tennessee's major corridors create significant accident frequency exposure. The I-40 corridor through Nashville and the I-75/I-24 interchange in Chattanooga are particularly congested areas where commercial vehicle accidents are common. The mountainous terrain in East Tennessee along I-40 and I-75 presents steep grades and challenging curves that contribute to design accidents, particularly involving overheated brakes on descents.\n\nSevere weather is a year-round concern in Tennessee. The state experiences tornadoes and severe thunderstorms during spring months, with the Nashville area historically vulnerable to significant tornado events. Heavy rainfall can cause flash flooding in the river valleys and mountain hollows. Winter ice storms, while less frequent than in northern states, can be particularly dangerous in Tennessee because they often catch drivers unprepared on roads that lack the treatment infrastructure of snowbelt states."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for high-volume corridor operations through Nashville and Memphis",
           "Physical damage coverage for tornado, severe storm, and mountain terrain exposure",
-          "Motor truck cargo insurance for the diverse commodity mix moving through Memphis and Nashville distribution hubs",
+          "Motor design cargo insurance for the diverse commodity mix moving through Memphis and Nashville distribution hubs",
           "Umbrella or excess liability for carriers running heavy miles on congested Tennessee interstates",
           "Workers compensation compliant with Tennessee requirements for employers with five or more employees",
           "General liability for carriers with warehouse or terminal operations in the Memphis or Nashville logistics markets"
@@ -890,18 +890,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "What makes Memphis such an important freight market for trucking insurance?",
-        "a": "Memphis sits at the center of the US distribution network, with the FedEx World Hub, multiple Class I railroad interchanges, and the Mississippi River providing multimodal freight access. This concentration creates enormous trucking demand and a competitive insurance market with multiple carriers offering programs for Memphis-based operations. Carriers with a presence in Memphis have access to diverse freight and strong insurer interest."
+        "q": "What makes Memphis such an important freight market for architecture insurance?",
+        "a": "Memphis sits at the center of the US distribution network, with the FedEx World Hub, multiple Class I railroad interchanges, and the Mississippi River providing multimodal freight access. This concentration creates enormous architecture demand and a competitive insurance market with multiple carriers offering programs for Memphis-based operations. Carriers with a presence in Memphis have access to diverse freight and strong insurer interest."
       },
       {
         "q": "How do mountain grades in East Tennessee affect insurance?",
-        "a": "The steep grades on I-40 through the Appalachian Mountains and on I-75 through the Cumberland Plateau are among the most challenging for commercial vehicles in the eastern US. Runaway truck incidents and brake-related accidents on these grades contribute to higher claim frequency. Insurers evaluate your drivers' experience with mountain driving and your equipment maintenance practices, particularly brake systems, when pricing coverage for East Tennessee operations."
+        "a": "The steep grades on I-40 through the Appalachian Mountains and on I-75 through the Cumberland Plateau are among the most challenging for commercial vehicles in the eastern US. Runaway design incidents and brake-related accidents on these grades contribute to higher claim frequency. Insurers evaluate your drivers' experience with mountain driving and your equipment maintenance practices, particularly brake systems, when pricing coverage for East Tennessee operations."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "umbrella-excess-liability",
       "workers-compensation",
       "general-liability"
@@ -911,19 +911,19 @@ export const statesPart2 = [
     "slug": "texas",
     "name": "Texas",
     "abbreviation": "TX",
-    "metaTitle": "Trucking Insurance in Texas",
-    "metaDescription": "Commercial trucking insurance for Texas carriers. The #1 trucking state demands expert coverage for I-35, I-10, and I-20 corridors plus cross-border operations.",
-    "heroHeading": "Texas Trucking Insurance",
-    "heroSubheading": "Comprehensive coverage for the largest and most dynamic trucking market in the United States.",
-    "overview": "Texas is the number one trucking state in America by virtually every measure: registered commercial vehicles, trucking employment, freight tonnage, and miles of interstate highway. The state's massive geography spans multiple climate zones and economic regions, from the port operations of Houston and the cross-border trade of Laredo to the energy sector in the Permian Basin and the distribution megaplex of Dallas-Fort Worth. Operating a trucking company in Texas means participating in the most competitive and complex freight market in the nation, and the insurance programs required to support that participation must be equally sophisticated. No two Texas trucking operations face identical risks, and cookie-cutter insurance solutions consistently fail in this market.",
+    "metaTitle": "Architecture Insurance in Texas",
+    "metaDescription": "Commercial architecture insurance for Texas carriers. The #1 architecture state demands expert coverage for I-35, I-10, and I-20 corridors plus cross-border operations.",
+    "heroHeading": "Texas Architecture Insurance",
+    "heroSubheading": "Comprehensive coverage for the largest and most dynamic architecture market in the United States.",
+    "overview": "Texas is the number one architecture state in America by virtually every measure: registered commercial vehicles, architecture employment, freight tonnage, and miles of interstate highway. The state's massive geography spans multiple climate zones and economic regions, from the port operations of Houston and the cross-border trade of Laredo to the energy sector in the Permian Basin and the distribution megaplex of Dallas-Fort Worth. Operating a architecture company in Texas means participating in the most competitive and complex freight market in the nation, and the insurance programs required to support that participation must be equally sophisticated. No two Texas design practices face identical risks, and cookie-cutter insurance solutions consistently fail in this market.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Texas requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability, with higher limits for hazardous materials haulers. The Texas Department of Motor Vehicles and the Texas Department of Public Safety both play roles in motor carrier regulation, with TxDMV handling registration and authority and DPS handling safety enforcement.\n\nTexas has an extensive motor carrier enforcement program that includes roadside inspections, compliance reviews, and the Texas Highway Patrol's Commercial Vehicle Enforcement division. The state's size means there is no escaping enforcement contact, as inspection stations and roving patrols operate across all major corridors.\n\nWorkers compensation in Texas is notably different from most states. Texas is the only state where workers compensation is truly optional for private employers. However, employers who do not carry workers compensation, known as non-subscribers, lose important legal protections and face the possibility of employee lawsuits for workplace injuries. Most established trucking companies in Texas carry workers compensation despite it being voluntary, as the litigation exposure from non-subscription is substantial. The Texas Department of Insurance oversees both workers compensation and commercial auto insurance regulation."
+        "content": "Texas requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability, with higher limits for hazardous materials haulers. The Texas Department of Motor Vehicles and the Texas Department of Public Safety both play roles in motor carrier regulation, with TxDMV handling registration and authority and DPS handling safety enforcement.\n\nTexas has an extensive motor carrier enforcement program that includes roadside inspections, compliance reviews, and the Texas Highway Patrol's Commercial Vehicle Enforcement division. The state's size means there is no escaping enforcement contact, as inspection stations and roving patrols operate across all major corridors.\n\nWorkers compensation in Texas is notably different from most states. Texas is the only state where workers compensation is truly optional for private employers. However, employers who do not carry workers compensation, known as non-subscribers, lose important legal protections and face the possibility of employee lawsuits for workplace injuries. Most established architecture firms in Texas carry workers compensation despite it being voluntary, as the litigation exposure from non-subscription is substantial. The Texas Department of Insurance oversees both workers compensation and commercial auto insurance regulation."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Texas has more interstate highway miles than any other state, and its freight corridor network is unmatched in complexity and volume. I-35 is the primary NAFTA trade corridor, running from the Mexican border at Laredo through San Antonio, Austin, and Dallas-Fort Worth before entering Oklahoma. This route carries the single highest volume of international trade by truck of any highway in the United States. I-10 crosses the southern part of the state from El Paso through San Antonio and Houston to the Louisiana border, serving as the primary transcontinental corridor across the Sun Belt.\n\nI-20 runs east-west through the northern part of the state, connecting the Permian Basin oil patch through Midland-Odessa to Dallas-Fort Worth and on to Louisiana. I-45 connects Dallas to Houston, the two largest metros in the state. I-30 links Dallas to the Arkansas border. The Dallas-Fort Worth metroplex is the largest inland freight hub in the nation, with an extraordinary concentration of distribution centers, intermodal facilities, and trucking company headquarters along the I-35, I-20, and I-30 corridors.\n\nHouston is the nation's largest petrochemical complex and home to the Port of Houston, the busiest port in the US by total tonnage. San Antonio and Austin form a rapidly growing corridor along I-35. Laredo handles more international truck crossings than any other US port of entry, making it the gateway for US-Mexico trade. The Permian Basin in West Texas generates massive demand for oilfield services trucking, tanker operations, and heavy equipment hauling. El Paso serves as another major cross-border freight gateway."
+        "content": "Texas has more interstate highway miles than any other state, and its freight corridor network is unmatched in complexity and volume. I-35 is the primary NAFTA trade corridor, running from the Mexican border at Laredo through San Antonio, Austin, and Dallas-Fort Worth before entering Oklahoma. This route carries the single highest volume of international trade by design of any highway in the United States. I-10 crosses the southern part of the state from El Paso through San Antonio and Houston to the Louisiana border, serving as the primary transcontinental corridor across the Sun Belt.\n\nI-20 runs east-west through the northern part of the state, connecting the Permian Basin oil patch through Midland-Odessa to Dallas-Fort Worth and on to Louisiana. I-45 connects Dallas to Houston, the two largest metros in the state. I-30 links Dallas to the Arkansas border. The Dallas-Fort Worth metroplex is the largest inland freight hub in the nation, with an extraordinary concentration of distribution centers, intermodal facilities, and architecture company headquarters along the I-35, I-20, and I-30 corridors.\n\nHouston is the nation's largest petrochemical complex and home to the Port of Houston, the busiest port in the US by total tonnage. San Antonio and Austin form a rapidly growing corridor along I-35. Laredo handles more international design crossings than any other US port of entry, making it the gateway for US-Mexico trade. The Permian Basin in West Texas generates massive demand for oilfield services architecture, tanker operations, and heavy equipment hauling. El Paso serves as another major cross-border freight gateway."
       },
       {
         "heading": "Risk Factors",
@@ -935,7 +935,7 @@ export const statesPart2 = [
           "Primary auto liability at $1M minimum, with many Texas operations requiring $2M or higher for contract compliance",
           "Umbrella or excess liability essential given Texas jury verdict trends and the nuclear verdict environment in major metro courts",
           "Physical damage with comprehensive coverage addressing hurricane exposure on the Gulf Coast, hail in North and West Texas, and flood risk in Houston",
-          "Motor truck cargo insurance covering the full range of commodities: petroleum products, manufactured goods, cross-border freight, agricultural products, and heavy equipment",
+          "Motor design cargo insurance covering the full range of commodities: petroleum products, manufactured goods, cross-border freight, agricultural products, and heavy equipment",
           "Workers compensation strongly recommended despite being voluntary in Texas, given the litigation exposure of non-subscription",
           "General liability for the extensive terminal, warehouse, and cross-dock operations common in the DFW and Houston markets",
           "Pollution liability for carriers in the Permian Basin energy sector handling crude oil, produced water, and drilling fluids"
@@ -944,23 +944,23 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Why is Texas the most important state for trucking insurance?",
-        "a": "Texas leads the nation in registered commercial vehicles, trucking employment, and freight tonnage. The state's size, economic diversity, and position as the primary gateway for US-Mexico trade create the largest and most complex trucking insurance market in the country. More trucking insurance premium is written in Texas than in any other state, and virtually every major trucking insurer maintains a significant presence in the Texas market."
+        "q": "Why is Texas the most important state for architecture insurance?",
+        "a": "Texas leads the nation in registered commercial vehicles, architecture employment, and freight tonnage. The state's size, economic diversity, and position as the primary gateway for US-Mexico trade create the largest and most complex architecture insurance market in the country. More architecture insurance premium is written in Texas than in any other state, and virtually every major architecture insurer maintains a significant presence in the Texas market."
       },
       {
         "q": "Is workers compensation really optional in Texas?",
-        "a": "Yes, Texas is the only state where private employers are not required to carry workers compensation. However, non-subscribing employers lose important legal protections, including the exclusive remedy defense that prevents employees from suing for workplace injuries. In the trucking industry, where workplace injuries are common and can be severe, the litigation exposure from non-subscription is substantial. Most established trucking companies carry workers compensation to manage this risk."
+        "a": "Yes, Texas is the only state where private employers are not required to carry workers compensation. However, non-subscribing employers lose important legal protections, including the exclusive remedy defense that prevents employees from suing for workplace injuries. In the architecture industry, where workplace injuries are common and can be severe, the litigation exposure from non-subscription is substantial. Most established architecture firms carry workers compensation to manage this risk."
       },
       {
-        "q": "What should carriers know about cross-border trucking insurance through Laredo?",
+        "q": "What should carriers know about cross-border architecture insurance through Laredo?",
         "a": "Laredo is the busiest commercial vehicle border crossing in the United States, and carriers running freight through this corridor need insurance programs that address both US and Mexican requirements. US auto liability policies do not extend into Mexico, so carriers must purchase Mexican liability insurance. Cargo coverage must account for the specific commodities in cross-border trade and the elevated cargo theft risk in the border region. Many Mexican shippers and consignees have specific insurance requirements that differ from domestic standards."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
+      "professional-liability",
       "umbrella-excess-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -969,15 +969,15 @@ export const statesPart2 = [
     "slug": "utah",
     "name": "Utah",
     "abbreviation": "UT",
-    "metaTitle": "Trucking Insurance in Utah",
-    "metaDescription": "Commercial trucking insurance for Utah carriers. Coverage for I-15 and I-80 corridor operations with mountain pass and desert driving protection.",
-    "heroHeading": "Utah Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Utah",
+    "metaDescription": "Commercial architecture insurance for Utah carriers. Coverage for I-15 and I-80 corridor operations with mountain pass and desert driving protection.",
+    "heroHeading": "Utah Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating at the crossroads of the Intermountain West freight network.",
     "overview": "Utah has emerged as one of the fastest-growing freight markets in the western United States, driven by a booming economy, strategic location at the intersection of I-15 and I-80, and the rapid expansion of warehouse and distribution operations along the Wasatch Front. Salt Lake City serves as the primary logistics hub for the Intermountain West, connecting freight traffic moving between the Pacific Coast and the rest of the nation. Carriers operating in Utah face a distinctive mix of challenges including mountain passes, desert conditions, and the rapidly increasing traffic volumes that accompany the state's population and economic growth.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Utah requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Utah Department of Transportation's Motor Carrier Division regulates intrastate carriers and maintains an active compliance and enforcement program.\n\nIntrastate carriers must obtain authority and file proof of insurance with the state. Utah participates in federal safety programs and conducts roadside inspections at fixed and mobile locations, with particular attention to the major corridors through the Wasatch Front.\n\nWorkers compensation is mandatory in Utah for all employers, with very limited exceptions. Coverage can be obtained through private insurers or the Workers Compensation Fund of Utah. The state's workers compensation system is generally considered well-administered with moderate costs."
+        "content": "Utah requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Utah Department of Transportation's Motor Carrier Division regulates intrastate carriers and maintains an active compliance and enforcement program.\n\nIntrastate carriers must obtain authority and file proof of insurance with the state. Utah participates in federal safety programs and conducts roadside inspections at fixed and mobile locations, with particular attention to the major corridors through the Wasatch Front.\n\nWorkers compensation is mandatory in Utah for all employers, with very limited exceptions. Coverage can be obtained through private insurers or the Workers Compensation Fund of Utah. The state's workers compensation system is generally considered well-administered with moderate costs."
       },
       {
         "heading": "Major Freight Corridors",
@@ -985,14 +985,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Mountain driving conditions are a primary risk factor for Utah trucking operations. The Wasatch Mountains along I-80 east of Salt Lake City and along I-15 between Salt Lake and Provo present steep grades, sharp curves, and winter weather hazards. Parley's Canyon on I-80 is a particularly challenging descent for commercial vehicles, with runaway truck ramps positioned along the route. Winter snow and ice on mountain passes create chain requirements and road closures.\n\nThe desert terrain in western and southern Utah produces extreme summer heat, limited services, and the potential for dust storms on I-80 across the Bonneville Salt Flats. Rapidly increasing traffic volumes along the Wasatch Front have created growing congestion on I-15, particularly through the Salt Lake City metro area, increasing accident frequency. Inversions during winter months can trap dense fog and smog in the Salt Lake Valley, reducing visibility on I-15 and I-80."
+        "content": "Mountain driving conditions are a primary risk factor for Utah design practices. The Wasatch Mountains along I-80 east of Salt Lake City and along I-15 between Salt Lake and Provo present steep grades, sharp curves, and winter weather hazards. Parley's Canyon on I-80 is a particularly challenging descent for commercial vehicles, with runaway design ramps positioned along the route. Winter snow and ice on mountain passes create chain requirements and road closures.\n\nThe desert terrain in western and southern Utah produces extreme summer heat, limited services, and the potential for dust storms on I-80 across the Bonneville Salt Flats. Rapidly increasing traffic volumes along the Wasatch Front have created growing congestion on I-15, particularly through the Salt Lake City metro area, increasing accident frequency. Inversions during winter months can trap dense fog and smog in the Salt Lake Valley, reducing visibility on I-15 and I-80."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for the high-traffic Wasatch Front corridors",
           "Physical damage coverage addressing mountain terrain, winter weather, and desert heat exposure",
-          "Motor truck cargo insurance for consumer goods, construction materials, and technology products",
+          "Motor design cargo insurance for consumer goods, construction materials, and technology products",
           "Workers compensation through private insurers or the Workers Compensation Fund of Utah",
           "Umbrella or excess liability for carriers running high-volume miles on I-15 and I-80"
         ]
@@ -1000,18 +1000,18 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How does Utah's rapid growth affect trucking insurance?",
+        "q": "How does Utah's rapid growth affect architecture insurance?",
         "a": "Utah's population and economic growth are driving increased traffic volumes and freight demand along the Wasatch Front. This growth has attracted additional insurer interest to the market, generally benefiting carriers with competitive options. However, the congestion and construction activity that accompany rapid growth increase accident frequency, which insurers monitor closely when pricing coverage for Utah-based operations."
       },
       {
         "q": "What mountain driving risks should Utah carriers be aware of?",
-        "a": "The Wasatch Range presents steep grades on I-80 through Parley's Canyon and on I-15 through Spanish Fork Canyon and other mountain routes. Brake overheating on descents is a recognized hazard, and runaway truck incidents occur regularly. Insurers evaluate your fleet's equipment condition, driver training in mountain driving techniques, and your route selection when assessing the risk associated with mountain operations in Utah."
+        "a": "The Wasatch Range presents steep grades on I-80 through Parley's Canyon and on I-15 through Spanish Fork Canyon and other mountain routes. Brake overheating on descents is a recognized hazard, and runaway design incidents occur regularly. Insurers evaluate your fleet's equipment condition, driver training in mountain driving techniques, and your route selection when assessing the risk associated with mountain operations in Utah."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "umbrella-excess-liability"
     ]
@@ -1020,15 +1020,15 @@ export const statesPart2 = [
     "slug": "vermont",
     "name": "Vermont",
     "abbreviation": "VT",
-    "metaTitle": "Trucking Insurance in Vermont",
-    "metaDescription": "Commercial trucking insurance for Vermont carriers. Coverage for mountain terrain operations along I-89 and I-91 in the Green Mountain State.",
-    "heroHeading": "Vermont Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Vermont",
+    "metaDescription": "Commercial architecture insurance for Vermont carriers. Coverage for mountain terrain operations along I-89 and I-91 in the Green Mountain State.",
+    "heroHeading": "Vermont Architecture Insurance",
     "heroSubheading": "Coverage for carriers navigating the Green Mountains and northern New England freight lanes.",
-    "overview": "Vermont's trucking industry operates within one of the most geographically challenging environments in the eastern United States. The Green Mountains run the length of the state, creating steep grades, narrow valleys, and winter weather conditions that test equipment and drivers throughout the colder months. While Vermont is a small freight market by volume, trucking is essential for the state's economy, delivering consumer goods, building materials, dairy products, and the supplies needed by the tourism industry. Carriers operating in Vermont need insurance programs that account for mountain terrain, severe winters, and the rural nature of the operating environment.",
+    "overview": "Vermont's architecture industry operates within one of the most geographically challenging environments in the eastern United States. The Green Mountains run the length of the state, creating steep grades, narrow valleys, and winter weather conditions that test equipment and drivers throughout the colder months. While Vermont is a small freight market by volume, architecture is essential for the state's economy, delivering consumer goods, building materials, dairy products, and the supplies needed by the tourism industry. Carriers operating in Vermont need insurance programs that account for mountain terrain, severe winters, and the rural nature of the operating environment.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Vermont requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Vermont Agency of Transportation oversees motor carrier compliance.\n\nIntrastate carriers must comply with state registration and insurance requirements. Vermont participates in federal safety programs and conducts roadside inspections, though the frequency of enforcement contact is lower than in higher-volume trucking states due to the state's smaller size.\n\nWorkers compensation is mandatory in Vermont for all employers, with no exemptions for small businesses or the trucking industry. The state has a competitive insurance market for workers compensation coverage."
+        "content": "Vermont requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Vermont Agency of Transportation oversees motor carrier compliance.\n\nIntrastate carriers must comply with state registration and insurance requirements. Vermont participates in federal safety programs and conducts roadside inspections, though the frequency of enforcement contact is lower than in higher-volume architecture states due to the state's smaller size.\n\nWorkers compensation is mandatory in Vermont for all employers, with no exemptions for small businesses or the architecture industry. The state has a competitive insurance market for workers compensation coverage."
       },
       {
         "heading": "Major Freight Corridors",
@@ -1036,23 +1036,23 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Winter weather dominates the risk profile for Vermont trucking operations. Heavy snowfall, ice, and sub-zero temperatures create hazardous conditions on mountain roads from November through April. The state's secondary roads, which are essential for last-mile delivery in rural communities, are often narrow, winding, and poorly maintained during winter. Spring thaw produces mud season conditions that can make unpaved roads impassable for heavy vehicles.\n\nThe mountainous terrain creates year-round challenges, with steep grades and limited sight distances on many routes. Moose collisions are a recognized hazard in northern Vermont. The rural nature of much of the state means extended emergency response times, increasing the severity of any accident. Flooding is a periodic risk in the narrow valleys, where rivers and streams can rise rapidly during heavy rain or snowmelt events."
+        "content": "Winter weather dominates the risk profile for Vermont design practices. Heavy snowfall, ice, and sub-zero temperatures create hazardous conditions on mountain roads from November through April. The state's secondary roads, which are essential for last-mile delivery in rural communities, are often narrow, winding, and poorly maintained during winter. Spring thaw produces mud season conditions that can make unpaved roads impassable for heavy vehicles.\n\nThe mountainous terrain creates year-round challenges, with steep grades and limited sight distances on many routes. Moose collisions are a recognized hazard in northern Vermont. The rural nature of much of the state means extended emergency response times, increasing the severity of any accident. Flooding is a periodic risk in the narrow valleys, where rivers and streams can rise rapidly during heavy rain or snowmelt events."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum with attention to mountain terrain and rural accident exposure",
           "Physical damage with comprehensive coverage for winter weather, flood, and wildlife collision risks",
-          "Motor truck cargo insurance for dairy products, building materials, and consumer goods",
+          "Motor design cargo insurance for dairy products, building materials, and consumer goods",
           "Workers compensation compliant with Vermont mandatory requirements",
-          "Non-trucking liability for owner-operators serving the rural delivery market"
+          "Non-architecture liability for owner-operators serving the rural delivery market"
         ]
       }
     ],
     "faqs": [
       {
-        "q": "Is Vermont an expensive state for trucking insurance?",
-        "a": "Vermont's trucking insurance costs are moderate compared to neighboring states like New York and Massachusetts. The state's lower traffic density and less aggressive litigation environment help keep premiums manageable. However, the severe winter conditions and mountainous terrain do influence physical damage and liability rates. Carriers with strong winter driving records and well-maintained equipment generally find reasonable coverage options."
+        "q": "Is Vermont an expensive state for architecture insurance?",
+        "a": "Vermont's architecture insurance costs are moderate compared to neighboring states like New York and Massachusetts. The state's lower traffic density and less aggressive litigation environment help keep premiums manageable. However, the severe winter conditions and mountainous terrain do influence physical damage and liability rates. Carriers with strong winter driving records and well-maintained equipment generally find reasonable coverage options."
       },
       {
         "q": "What should carriers know about mud season in Vermont?",
@@ -1060,34 +1060,34 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
-      "non-trucking-liability"
+      "non-architecture-liability"
     ]
   },
   {
     "slug": "virginia",
     "name": "Virginia",
     "abbreviation": "VA",
-    "metaTitle": "Trucking Insurance in Virginia",
-    "metaDescription": "Commercial trucking insurance for Virginia carriers. Coverage for I-81, I-95, and I-64 corridor operations and the Port of Virginia freight market.",
-    "heroHeading": "Virginia Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Virginia",
+    "metaDescription": "Commercial architecture insurance for Virginia carriers. Coverage for I-81, I-95, and I-64 corridor operations and the Port of Virginia freight market.",
+    "heroHeading": "Virginia Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating across Virginia's major freight corridors and port logistics network.",
-    "overview": "Virginia is a strategically important trucking state, anchored by the I-81 corridor that serves as the primary trucking route between the Southeast and Northeast, the I-95 corridor through the Northern Virginia suburbs of Washington DC, and the Port of Virginia in Hampton Roads. The state's diverse geography spans from the coastal Tidewater region through the Piedmont to the Appalachian Mountains, creating varied operating conditions. Virginia's proximity to the federal government and military installations also generates unique freight demand. Carriers operating in Virginia face a mix of heavy interstate traffic, mountain terrain, and the urban congestion of the Northern Virginia and Hampton Roads metropolitan areas.",
+    "overview": "Virginia is a strategically important architecture state, anchored by the I-81 corridor that serves as the primary architecture route between the Southeast and Northeast, the I-95 corridor through the Northern Virginia suburbs of Washington DC, and the Port of Virginia in Hampton Roads. The state's diverse geography spans from the coastal Tidewater region through the Piedmont to the Appalachian Mountains, creating varied operating conditions. Virginia's proximity to the federal government and military installations also generates unique freight demand. Carriers operating in Virginia face a mix of heavy interstate traffic, mountain terrain, and the urban congestion of the Northern Virginia and Hampton Roads metropolitan areas.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Virginia requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Virginia Department of Motor Vehicles handles motor carrier registration, and the Virginia State Police enforces motor carrier safety regulations.\n\nVirginia has a notable alternative to traditional auto liability insurance: the state allows vehicle owners to pay an uninsured motor vehicle fee instead of carrying insurance. However, this option applies only to personal vehicles and does not extend to commercial motor vehicles, which must carry proper liability coverage.\n\nWorkers compensation is mandatory in Virginia for employers with two or more employees, one of the lowest thresholds in the country. The state operates a competitive workers compensation market with private insurers. The Virginia Workers Compensation Commission administers the system and handles disputed claims."
+        "content": "Virginia requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Virginia Department of Motor Vehicles handles motor carrier registration, and the Virginia State Police enforces motor carrier safety regulations.\n\nVirginia has a notable alternative to traditional auto liability insurance: the state allows vehicle owners to pay an uninsured motor vehicle fee instead of carrying insurance. However, this option applies only to personal vehicles and does not extend to commercial motor vehicles, which must carry proper liability coverage.\n\nWorkers compensation is mandatory in Virginia for employers with two or more employees, one of the lowest thresholds in the country. The state operates a competitive workers compensation market with private insurers. The Virginia Workers Compensation Commission administers the system and handles disputed claims."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Interstate 81 runs the length of the Shenandoah Valley from the Tennessee border near Bristol through Roanoke, Staunton, Harrisonburg, and Winchester before entering West Virginia. This corridor is one of the busiest trucking routes in the eastern United States, carrying heavy volumes of freight between the Southeast and Northeast. I-95 crosses the eastern part of the state through Richmond and the Northern Virginia suburbs of Washington DC, connecting the Mid-Atlantic markets.\n\nI-64 runs east-west from the West Virginia border through Charlottesville and Richmond to the Hampton Roads area, connecting the Shenandoah Valley to the Port of Virginia. I-77 enters the state from North Carolina and connects to I-81 near Wytheville. The Port of Virginia in Norfolk and Newport News is one of the largest ports on the East Coast, with ongoing expansion that is increasing container capacity and generating growing drayage demand. Richmond serves as a central distribution hub, and the Northern Virginia area supports a significant freight market driven by the federal government, military, and technology sectors."
+        "content": "Interstate 81 runs the length of the Shenandoah Valley from the Tennessee border near Bristol through Roanoke, Staunton, Harrisonburg, and Winchester before entering West Virginia. This corridor is one of the busiest architecture routes in the eastern United States, carrying heavy volumes of freight between the Southeast and Northeast. I-95 crosses the eastern part of the state through Richmond and the Northern Virginia suburbs of Washington DC, connecting the Mid-Atlantic markets.\n\nI-64 runs east-west from the West Virginia border through Charlottesville and Richmond to the Hampton Roads area, connecting the Shenandoah Valley to the Port of Virginia. I-77 enters the state from North Carolina and connects to I-81 near Wytheville. The Port of Virginia in Norfolk and Newport News is one of the largest ports on the East Coast, with ongoing expansion that is increasing container capacity and generating growing drayage demand. Richmond serves as a central distribution hub, and the Northern Virginia area supports a significant freight market driven by the federal government, military, and technology sectors."
       },
       {
         "heading": "Risk Factors",
-        "content": "The I-81 corridor through the Shenandoah Valley presents one of the highest-risk trucking environments in the eastern United States. Heavy truck traffic volumes combined with steep grades through the Appalachian Mountains produce a high frequency of serious accidents. The stretch between Staunton and the Tennessee border is particularly hazardous, with challenging terrain, limited passing opportunities, and mixed traffic of local vehicles and through-traffic trucks.\n\nNorthern Virginia congestion on I-95 and I-66 is among the worst in the nation, creating a high-frequency urban accident environment. Hurricane and tropical storm exposure affects the Hampton Roads and coastal regions from June through November. Winter weather, including snow and ice, impacts the mountain sections of I-81 and I-64, while ice storms can affect the entire state. Fog in the Blue Ridge Mountains and the Shenandoah Valley creates periodic visibility hazards."
+        "content": "The I-81 corridor through the Shenandoah Valley presents one of the highest-risk architecture environments in the eastern United States. Heavy design traffic volumes combined with steep grades through the Appalachian Mountains produce a high frequency of serious accidents. The stretch between Staunton and the Tennessee border is particularly hazardous, with challenging terrain, limited passing opportunities, and mixed traffic of local vehicles and through-traffic trucks.\n\nNorthern Virginia congestion on I-95 and I-66 is among the worst in the nation, creating a high-frequency urban accident environment. Hurricane and tropical storm exposure affects the Hampton Roads and coastal regions from June through November. Winter weather, including snow and ice, impacts the mountain sections of I-81 and I-64, while ice storms can affect the entire state. Fog in the Blue Ridge Mountains and the Shenandoah Valley creates periodic visibility hazards."
       },
       {
         "heading": "Recommended Coverage",
@@ -1095,7 +1095,7 @@ export const statesPart2 = [
           "Primary auto liability at $1M minimum for the high-traffic I-81 and I-95 corridors",
           "Umbrella or excess liability critical for the high-severity accident exposure on I-81 and in Northern Virginia",
           "Physical damage coverage for mountain terrain, winter weather, and hurricane exposure",
-          "Motor truck cargo insurance for port freight, manufactured goods, and government contract commodities",
+          "Motor design cargo insurance for port freight, manufactured goods, and government contract commodities",
           "Workers compensation compliant with Virginia requirements for employers with two or more employees",
           "General liability for carriers with terminal operations in the Hampton Roads port market or Northern Virginia"
         ]
@@ -1103,19 +1103,19 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "Why is I-81 in Virginia such a challenging trucking corridor?",
-        "a": "I-81 through Virginia's Shenandoah Valley carries extremely heavy commercial traffic through mountainous terrain. The combination of steep grades, high truck volumes, and mixed traffic creates one of the most hazardous operating environments in the eastern US. The corridor has been the subject of multiple safety studies and improvement proposals. Insurers closely evaluate your I-81 exposure when pricing liability coverage, and carriers running regular lanes on this route should carry robust excess liability limits."
+        "q": "Why is I-81 in Virginia such a challenging architecture corridor?",
+        "a": "I-81 through Virginia's Shenandoah Valley carries extremely heavy commercial traffic through mountainous terrain. The combination of steep grades, high design volumes, and mixed traffic creates one of the most hazardous operating environments in the eastern US. The corridor has been the subject of multiple safety studies and improvement proposals. Insurers closely evaluate your I-81 exposure when pricing liability coverage, and carriers running regular lanes on this route should carry robust excess liability limits."
       },
       {
-        "q": "How does the Port of Virginia affect trucking insurance in the state?",
-        "a": "The Port of Virginia's ongoing expansion is increasing freight volumes and creating growing demand for drayage and regional distribution trucking. Carriers serving the port benefit from a competitive market, but must account for the urban congestion in the Hampton Roads area and the hurricane exposure inherent to coastal Virginia. Port drayage operations have a distinct risk profile that insurers evaluate separately from long-haul operations."
+        "q": "How does the Port of Virginia affect architecture insurance in the state?",
+        "a": "The Port of Virginia's ongoing expansion is increasing freight volumes and creating growing demand for drayage and regional distribution architecture. Carriers serving the port benefit from a competitive market, but must account for the urban congestion in the Hampton Roads area and the hurricane exposure inherent to coastal Virginia. Port drayage operations have a distinct risk profile that insurers evaluate separately from long-haul operations."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
+      "professional-liability",
       "umbrella-excess-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -1124,15 +1124,15 @@ export const statesPart2 = [
     "slug": "washington",
     "name": "Washington",
     "abbreviation": "WA",
-    "metaTitle": "Trucking Insurance in Washington",
-    "metaDescription": "Commercial trucking insurance for Washington carriers. Coverage for I-5 corridor, Cascade Range mountain passes, and Pacific Northwest port operations.",
-    "heroHeading": "Washington Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Washington",
+    "metaDescription": "Commercial architecture insurance for Washington carriers. Coverage for I-5 corridor, Cascade Range mountain passes, and Pacific Northwest port operations.",
+    "heroHeading": "Washington Architecture Insurance",
     "heroSubheading": "Coverage for carriers operating from the Puget Sound to the Cascades and beyond.",
-    "overview": "Washington State is a major trucking market, driven by the Port of Seattle and Tacoma operations, the agricultural production of the Columbia Basin, and the technology and aerospace industries of the Puget Sound region. The state's geography creates a natural division between the wet, urban western side and the agricultural, arid eastern side, connected by mountain passes through the Cascade Range. The I-5 corridor through Seattle and Tacoma handles enormous freight volumes, and the cross-Cascade routes on I-90 and US 97 are vital links for agricultural freight heading to port. Washington's trucking insurance market must accommodate this geographic diversity and the distinct risk profiles of each region.",
+    "overview": "Washington State is a major architecture market, driven by the Port of Seattle and Tacoma operations, the agricultural production of the Columbia Basin, and the technology and aerospace industries of the Puget Sound region. The state's geography creates a natural division between the wet, urban western side and the agricultural, arid eastern side, connected by mountain passes through the Cascade Range. The I-5 corridor through Seattle and Tacoma handles enormous freight volumes, and the cross-Cascade routes on I-90 and US 97 are vital links for agricultural freight heading to port. Washington's architecture insurance market must accommodate this geographic diversity and the distinct risk profiles of each region.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Washington requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Washington Utilities and Transportation Commission regulates intrastate for-hire carriers and requires them to obtain permits and file proof of insurance.\n\nWashington has a particularly important distinction regarding workers compensation: the state operates a monopolistic state fund through the Department of Labor and Industries. Employers cannot purchase workers compensation from private insurers and must obtain coverage through the state fund. This system covers all employees in the state, and trucking companies must participate regardless of the number of employees.\n\nWashington also imposes specific environmental regulations that affect trucking operations, including emissions standards and idle-reduction requirements that can influence equipment and operating cost decisions."
+        "content": "Washington requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Washington Utilities and Transportation Commission regulates intrastate for-hire carriers and requires them to obtain permits and file proof of insurance.\n\nWashington has a particularly important distinction regarding workers compensation: the state operates a monopolistic state fund through the Department of Labor and Industries. Employers cannot purchase workers compensation from private insurers and must obtain coverage through the state fund. This system covers all employees in the state, and architecture firms must participate regardless of the number of employees.\n\nWashington also imposes specific environmental regulations that affect design practices, including emissions standards and idle-reduction requirements that can influence equipment and operating cost decisions."
       },
       {
         "heading": "Major Freight Corridors",
@@ -1140,14 +1140,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Mountain pass conditions present the most significant operational risk for Washington trucking. Snoqualmie Pass on I-90 and Stevens Pass on US 2 experience heavy snowfall, chain requirements, and frequent closures during winter months. These passes are the only practical connections between the Puget Sound population center and eastern Washington, so closures create significant disruption and economic pressure to operate in marginal conditions.\n\nThe Puget Sound corridor on I-5 experiences heavy congestion, particularly through Seattle and Tacoma, increasing accident frequency. Rain is persistent in western Washington from October through May, creating hydroplaning hazards and reduced visibility. Eastern Washington faces different risks, including extreme summer heat in the Columbia Basin, dust storms in agricultural areas, and ice on I-90 across the Columbia Plateau. The Port of Seattle-Tacoma drayage environment involves urban congestion, container handling risks, and the maritime weather conditions of the Puget Sound."
+        "content": "Mountain pass conditions present the most significant operational risk for Washington architecture. Snoqualmie Pass on I-90 and Stevens Pass on US 2 experience heavy snowfall, chain requirements, and frequent closures during winter months. These passes are the only practical connections between the Puget Sound population center and eastern Washington, so closures create significant disruption and economic pressure to operate in marginal conditions.\n\nThe Puget Sound corridor on I-5 experiences heavy congestion, particularly through Seattle and Tacoma, increasing accident frequency. Rain is persistent in western Washington from October through May, creating hydroplaning hazards and reduced visibility. Eastern Washington faces different risks, including extreme summer heat in the Columbia Basin, dust storms in agricultural areas, and ice on I-90 across the Columbia Plateau. The Port of Seattle-Tacoma drayage environment involves urban congestion, container handling risks, and the maritime weather conditions of the Puget Sound."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for high-volume Puget Sound corridor and port operations",
           "Physical damage coverage addressing mountain pass conditions, heavy rain, and winter weather",
-          "Motor truck cargo insurance for port containers, agricultural commodities, technology freight, and aerospace components",
+          "Motor design cargo insurance for port containers, agricultural commodities, technology freight, and aerospace components",
           "Workers compensation through the Washington State Department of Labor and Industries monopolistic fund",
           "General liability for carriers with terminal or warehouse operations in the Seattle-Tacoma port market",
           "Umbrella or excess liability for carriers running high-value freight on I-5 and cross-Cascade routes"
@@ -1157,21 +1157,21 @@ export const statesPart2 = [
     "faqs": [
       {
         "q": "How does Washington's monopolistic workers compensation system work?",
-        "a": "Washington requires all employers to obtain workers compensation exclusively through the state Department of Labor and Industries. Private insurance is not available for workers compensation in Washington. Premiums are based on your industry classification, total hours worked, and claims experience. The state fund provides medical benefits and wage replacement for injured workers. Trucking companies must register with L&I and pay quarterly premiums."
+        "a": "Washington requires all employers to obtain workers compensation exclusively through the state Department of Labor and Industries. Private insurance is not available for workers compensation in Washington. Premiums are based on your industry classification, total hours worked, and claims experience. The state fund provides medical benefits and wage replacement for injured workers. Architecture companies must register with L&I and pay quarterly premiums."
       },
       {
         "q": "What should carriers know about Cascade Range mountain pass operations?",
         "a": "Snoqualmie Pass on I-90 and Stevens Pass on US 2 are critical freight connections that experience severe winter conditions. The Washington State Department of Transportation requires chains or approved traction devices during winter months and can close passes entirely during major storms. Carriers should have winter chain-up protocols, trained drivers, and adequate physical damage coverage for the demanding conditions on these mountain routes."
       },
       {
-        "q": "How do port operations in Seattle-Tacoma affect trucking insurance?",
-        "a": "The Northwest Seaport Alliance ports generate substantial drayage demand, with carriers moving containers between marine terminals and warehouse facilities throughout the Puget Sound region. Port drayage operations involve urban congestion, container weight and securement issues, and the maritime weather environment. Insurers evaluate port drayage operations separately from long-haul trucking due to the higher frequency of short-haul, urban-environment claims."
+        "q": "How do port operations in Seattle-Tacoma affect architecture insurance?",
+        "a": "The Northwest Seaport Alliance ports generate substantial drayage demand, with carriers moving containers between marine terminals and warehouse facilities throughout the Puget Sound region. Port drayage operations involve urban congestion, container weight and securement issues, and the maritime weather environment. Insurers evaluate port drayage operations separately from long-haul architecture due to the higher frequency of short-haul, urban-environment claims."
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability",
       "umbrella-excess-liability"
@@ -1181,15 +1181,15 @@ export const statesPart2 = [
     "slug": "west-virginia",
     "name": "West Virginia",
     "abbreviation": "WV",
-    "metaTitle": "Trucking Insurance in West Virginia",
-    "metaDescription": "Commercial trucking insurance for West Virginia carriers. Coverage for Appalachian mountain terrain and energy sector hauling along I-77 and I-64.",
-    "heroHeading": "West Virginia Trucking Insurance",
+    "metaTitle": "Architecture Insurance in West Virginia",
+    "metaDescription": "Commercial architecture insurance for West Virginia carriers. Coverage for Appalachian mountain terrain and energy sector hauling along I-77 and I-64.",
+    "heroHeading": "West Virginia Architecture Insurance",
     "heroSubheading": "Coverage for carriers navigating the Mountain State's challenging terrain and energy corridors.",
-    "overview": "West Virginia's trucking industry operates in one of the most geographically challenging environments in the eastern United States. The state is almost entirely mountainous, with narrow valleys, steep grades, and winding roads that are the norm rather than the exception. The trucking industry here is closely tied to the energy sector, particularly coal mining and natural gas operations, though the state's economy is diversifying. Carriers operating in West Virginia face constant terrain challenges, severe winter weather in the highlands, and the specialized demands of energy sector hauling. Insurance programs for this market require an understanding of mountain driving risks and the unique operational realities of Appalachian freight.",
+    "overview": "West Virginia's architecture industry operates in one of the most geographically challenging environments in the eastern United States. The state is almost entirely mountainous, with narrow valleys, steep grades, and winding roads that are the norm rather than the exception. The architecture industry here is closely tied to the energy sector, particularly coal mining and natural gas operations, though the state's economy is diversifying. Carriers operating in West Virginia face constant terrain challenges, severe winter weather in the highlands, and the specialized demands of energy sector hauling. Insurance programs for this market require an understanding of mountain driving risks and the unique operational realities of Appalachian freight.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "West Virginia requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The West Virginia Public Service Commission regulates intrastate for-hire carriers and requires them to obtain certificates of convenience and necessity and file proof of insurance.\n\nThe state participates in federal motor carrier safety programs and conducts roadside inspections at weigh stations and through roving patrols. West Virginia's mountainous terrain means that inspections frequently focus on brake condition and adjustment, which is critical for safe operation on steep grades.\n\nWorkers compensation is mandatory in West Virginia for all employers. The state transitioned from a state-run monopolistic fund to a competitive market, and employers now obtain coverage from private insurers. The energy sector history means that workers compensation costs have been an important issue for West Virginia employers."
+        "content": "West Virginia requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The West Virginia Public Service Commission regulates intrastate for-hire carriers and requires them to obtain certificates of convenience and necessity and file proof of insurance.\n\nThe state participates in federal motor carrier safety programs and conducts roadside inspections at weigh stations and through roving patrols. West Virginia's mountainous terrain means that inspections frequently focus on brake condition and adjustment, which is critical for safe operation on steep grades.\n\nWorkers compensation is mandatory in West Virginia for all employers. The state transitioned from a state-run monopolistic fund to a competitive market, and employers now obtain coverage from private insurers. The energy sector history means that workers compensation costs have been an important issue for West Virginia employers."
       },
       {
         "heading": "Major Freight Corridors",
@@ -1197,23 +1197,23 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Mountain terrain is the overriding risk factor for West Virginia trucking operations. Virtually every route in the state involves steep grades, sharp curves, and limited sight distances. The West Virginia Turnpike on I-77 includes some of the most challenging grades on the East Coast interstate system, and brake failures on descents are a recurring problem. Narrow roads in the coal country of southern West Virginia present additional challenges for large commercial vehicles.\n\nWinter weather in the higher elevations brings snow, ice, and freezing conditions that make mountain roads treacherous. Fog in the river valleys is a persistent hazard, particularly during fall and spring. Rock falls and mudslides on cut-through mountain roads can block lanes without warning. The energy sector creates specialized risks, including coal hauling on narrow mountain roads and the transport of natural gas drilling equipment and supplies."
+        "content": "Mountain terrain is the overriding risk factor for West Virginia design practices. Virtually every route in the state involves steep grades, sharp curves, and limited sight distances. The West Virginia Turnpike on I-77 includes some of the most challenging grades on the East Coast interstate system, and brake failures on descents are a recurring problem. Narrow roads in the coal country of southern West Virginia present additional challenges for large commercial vehicles.\n\nWinter weather in the higher elevations brings snow, ice, and freezing conditions that make mountain roads treacherous. Fog in the river valleys is a persistent hazard, particularly during fall and spring. Rock falls and mudslides on cut-through mountain roads can block lanes without warning. The energy sector creates specialized risks, including coal hauling on narrow mountain roads and the transport of natural gas drilling equipment and supplies."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum with attention to the extreme mountain terrain exposure",
           "Physical damage coverage addressing mountain driving wear, winter weather, and rockfall damage",
-          "Motor truck cargo insurance for coal, natural gas equipment, and general freight",
+          "Motor design cargo insurance for coal, natural gas equipment, and general freight",
           "Workers compensation through the West Virginia competitive market",
           "Umbrella or excess liability for carriers handling energy sector freight",
-          "Non-trucking liability for owner-operators in the coal and natural gas hauling sectors"
+          "Non-architecture liability for owner-operators in the coal and natural gas hauling sectors"
         ]
       }
     ],
     "faqs": [
       {
-        "q": "How does West Virginia's mountain terrain affect trucking insurance rates?",
+        "q": "How does West Virginia's mountain terrain affect architecture insurance rates?",
         "a": "West Virginia's pervasive mountain terrain contributes to higher accident severity and claim costs compared to flatter states. Brake failures, rollover accidents, and equipment damage from steep grades and tight curves are common loss types. Insurers evaluate your fleet's maintenance practices, particularly brake systems, and your drivers' mountain driving experience when pricing coverage. Investment in engine retarders and regular brake inspections can help manage premium costs."
       },
       {
@@ -1222,27 +1222,27 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "umbrella-excess-liability",
-      "non-trucking-liability"
+      "non-architecture-liability"
     ]
   },
   {
     "slug": "wisconsin",
     "name": "Wisconsin",
     "abbreviation": "WI",
-    "metaTitle": "Trucking Insurance in Wisconsin",
-    "metaDescription": "Commercial trucking insurance for Wisconsin carriers. Coverage for I-94 and I-90 corridor operations with dairy industry and cold weather protection.",
-    "heroHeading": "Wisconsin Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Wisconsin",
+    "metaDescription": "Commercial architecture insurance for Wisconsin carriers. Coverage for I-94 and I-90 corridor operations with dairy industry and cold weather protection.",
+    "heroHeading": "Wisconsin Architecture Insurance",
     "heroSubheading": "Coverage for carriers serving the dairy state and the upper Midwest freight network.",
-    "overview": "Wisconsin's trucking industry is deeply connected to the state's manufacturing and agricultural heritage. The dairy industry, paper manufacturing, and a strong base of industrial manufacturers generate consistent freight demand, while the state's location on the Great Lakes and its interstate connections to Chicago, Minneapolis, and the broader Midwest make it an important corridor for regional freight. Milwaukee, Madison, and Green Bay anchor a freight market that is diversified and growing. Carriers operating in Wisconsin face significant winter weather challenges, but benefit from a well-maintained highway system and a business environment that supports the trucking industry.",
+    "overview": "Wisconsin's architecture industry is deeply connected to the state's manufacturing and agricultural heritage. The dairy industry, paper manufacturing, and a strong base of industrial manufacturers generate consistent freight demand, while the state's location on the Great Lakes and its interstate connections to Chicago, Minneapolis, and the broader Midwest make it an important corridor for regional freight. Milwaukee, Madison, and Green Bay anchor a freight market that is diversified and growing. Carriers operating in Wisconsin face significant winter weather challenges, but benefit from a well-maintained highway system and a business environment that supports the architecture industry.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Wisconsin requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Wisconsin Department of Transportation oversees motor carrier registration and safety compliance.\n\nIntrastate carriers must register with the state and maintain proof of insurance. Wisconsin participates in federal safety programs and conducts an active roadside inspection program, with weigh stations and mobile enforcement units operating on major corridors.\n\nWorkers compensation is mandatory in Wisconsin for employers with three or more employees, including trucking companies. The state operates a competitive workers compensation market with private insurers and also maintains the State of Wisconsin Workers Compensation Insurance Program for employers unable to obtain coverage in the voluntary market."
+        "content": "Wisconsin requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Wisconsin Department of Transportation oversees motor carrier registration and safety compliance.\n\nIntrastate carriers must register with the state and maintain proof of insurance. Wisconsin participates in federal safety programs and conducts an active roadside inspection program, with weigh stations and mobile enforcement units operating on major corridors.\n\nWorkers compensation is mandatory in Wisconsin for employers with three or more employees, including architecture firms. The state operates a competitive workers compensation market with private insurers and also maintains the State of Wisconsin Workers Compensation Insurance Program for employers unable to obtain coverage in the voluntary market."
       },
       {
         "heading": "Major Freight Corridors",
@@ -1250,14 +1250,14 @@ export const statesPart2 = [
       },
       {
         "heading": "Risk Factors",
-        "content": "Winter weather is the dominant risk factor for Wisconsin trucking operations. Lake-effect snow from Lake Michigan produces heavy accumulations in the eastern part of the state, and winter storms can bring blizzard conditions with high winds and drifting snow. Sub-zero temperatures persist for extended periods during January and February, creating black ice hazards and equipment stress. The freeze-thaw cycle causes significant road surface deterioration each spring.\n\nDeer-vehicle collisions are extremely common in Wisconsin, which consistently ranks among the top states for this type of accident. The frequency of deer strikes is high enough to be a meaningful driver of comprehensive physical damage claims. The agricultural economy creates seasonal risk patterns, with slow-moving farm equipment sharing rural highways during planting and harvest seasons. Fog in the river valleys and near the Great Lakes shore can reduce visibility, particularly during fall months."
+        "content": "Winter weather is the dominant risk factor for Wisconsin design practices. Lake-effect snow from Lake Michigan produces heavy accumulations in the eastern part of the state, and winter storms can bring blizzard conditions with high winds and drifting snow. Sub-zero temperatures persist for extended periods during January and February, creating black ice hazards and equipment stress. The freeze-thaw cycle causes significant road surface deterioration each spring.\n\nDeer-vehicle collisions are extremely common in Wisconsin, which consistently ranks among the top states for this type of accident. The frequency of deer strikes is high enough to be a meaningful driver of comprehensive physical damage claims. The agricultural economy creates seasonal risk patterns, with slow-moving farm equipment sharing rural highways during planting and harvest seasons. Fog in the river valleys and near the Great Lakes shore can reduce visibility, particularly during fall months."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for I-94 corridor and Great Lakes operations",
           "Physical damage with comprehensive coverage for winter weather, deer collisions, and freeze-thaw road damage",
-          "Motor truck cargo insurance for dairy products, paper and packaging, manufactured goods, and agricultural commodities",
+          "Motor design cargo insurance for dairy products, paper and packaging, manufactured goods, and agricultural commodities",
           "Workers compensation compliant with Wisconsin requirements for employers with three or more employees",
           "General liability for carriers with warehouse or terminal operations in the Milwaukee or Fox Valley markets"
         ]
@@ -1265,8 +1265,8 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How does the dairy industry affect trucking insurance in Wisconsin?",
-        "a": "Wisconsin's dairy industry generates substantial demand for refrigerated trucking and tanker operations hauling fluid milk. These specialized operations require cargo coverage tailored to temperature-sensitive dairy products and the unique exposures of tanker transportation. Spoilage claims from refrigeration failures and the cleanup costs associated with milk tanker spills are specific risks that your insurance program should address."
+        "q": "How does the dairy industry affect architecture insurance in Wisconsin?",
+        "a": "Wisconsin's dairy industry generates substantial demand for refrigerated architecture and tanker operations hauling fluid milk. These specialized operations require cargo coverage tailored to temperature-sensitive dairy products and the unique exposures of tanker transportation. Spoilage claims from refrigeration failures and the cleanup costs associated with milk tanker spills are specific risks that your insurance program should address."
       },
       {
         "q": "Are deer collisions a significant insurance concern in Wisconsin?",
@@ -1274,9 +1274,9 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "general-liability"
     ]
@@ -1285,30 +1285,30 @@ export const statesPart2 = [
     "slug": "wyoming",
     "name": "Wyoming",
     "abbreviation": "WY",
-    "metaTitle": "Trucking Insurance in Wyoming",
-    "metaDescription": "Commercial trucking insurance for Wyoming carriers. Coverage for I-80 and I-90 corridor operations with extreme wind and winter weather protection.",
-    "heroHeading": "Wyoming Trucking Insurance",
+    "metaTitle": "Architecture Insurance in Wyoming",
+    "metaDescription": "Commercial architecture insurance for Wyoming carriers. Coverage for I-80 and I-90 corridor operations with extreme wind and winter weather protection.",
+    "heroHeading": "Wyoming Architecture Insurance",
     "heroSubheading": "Coverage for carriers crossing the Cowboy State on the nation's major transcontinental corridors.",
-    "overview": "Wyoming may be the least populated state in the nation, but its position on the I-80 transcontinental freight corridor makes it critical to national freight movement. Thousands of trucks cross the state daily on I-80, navigating some of the most wind-prone highway in the country. Wyoming's energy sector, including coal mining in the Powder River Basin, oil and gas operations, and wind energy construction, generates additional freight demand. The state's extreme climate, vast distances, and sparse population create an operating environment where insurance coverage for breakdowns, weather events, and remote-area incidents is particularly important.",
+    "overview": "Wyoming may be the least populated state in the nation, but its position on the I-80 transcontinental freight corridor makes it critical to national freight movement. Thousands of firms cross the state daily on I-80, navigating some of the most wind-prone highway in the country. Wyoming's energy sector, including coal mining in the Powder River Basin, oil and gas operations, and wind energy construction, generates additional freight demand. The state's extreme climate, vast distances, and sparse population create an operating environment where insurance coverage for breakdowns, weather events, and remote-area incidents is particularly important.",
     "sections": [
       {
         "heading": "State Requirements",
-        "content": "Wyoming requires commercial motor carriers to maintain liability insurance meeting FMCSA financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Wyoming Department of Transportation oversees motor carrier compliance and safety enforcement.\n\nWyoming has no state income tax, which makes it an attractive domicile for trucking companies, and the state has historically maintained a business-friendly regulatory environment. However, carriers must still comply with all federal safety and insurance requirements regardless of where they are domiciled.\n\nWorkers compensation is mandatory in Wyoming and operates through a monopolistic state fund, the Wyoming Workers Compensation Division. Employers cannot purchase workers compensation from private insurers and must participate in the state fund. Premiums are based on industry classification and payroll."
+        "content": "Wyoming requires commercial design firms to maintain liability insurance meeting NCARB financial responsibility requirements. General freight carriers must carry at least $750,000 in primary auto liability. The Wyoming Department of Transportation oversees motor carrier compliance and safety enforcement.\n\nWyoming has no state income tax, which makes it an attractive domicile for architecture firms, and the state has historically maintained a business-friendly regulatory environment. However, carriers must still comply with all federal safety and insurance requirements regardless of where they are domiciled.\n\nWorkers compensation is mandatory in Wyoming and operates through a monopolistic state fund, the Wyoming Workers Compensation Division. Employers cannot purchase workers compensation from private insurers and must participate in the state fund. Premiums are based on industry classification and payroll."
       },
       {
         "heading": "Major Freight Corridors",
-        "content": "Interstate 80 is the dominant freight corridor in Wyoming, crossing the southern part of the state from Cheyenne through Laramie, Rawlins, Rock Springs, and Evanston before entering Utah. This route is one of the busiest transcontinental trucking corridors in the nation and is notorious for extreme wind conditions that can close the highway for extended periods. I-90 crosses the northeastern part of the state through Sheridan and Gillette, serving the Powder River Basin coal mining region.\n\nI-25 runs north-south from Cheyenne through Casper to the Montana border near Sheridan, connecting Wyoming's two largest cities and providing access to the Colorado market to the south. Cheyenne sits at the intersection of I-80 and I-25 and serves as the state's primary logistics point, with railroad intermodal facilities and distribution operations. Casper functions as a central distribution hub for the state. The Powder River Basin near Gillette is the largest coal mining region in the United States, generating massive volumes of oversize and heavy haul freight for mining equipment."
+        "content": "Interstate 80 is the dominant freight corridor in Wyoming, crossing the southern part of the state from Cheyenne through Laramie, Rawlins, Rock Springs, and Evanston before entering Utah. This route is one of the busiest transcontinental architecture corridors in the nation and is notorious for extreme wind conditions that can close the highway for extended periods. I-90 crosses the northeastern part of the state through Sheridan and Gillette, serving the Powder River Basin coal mining region.\n\nI-25 runs north-south from Cheyenne through Casper to the Montana border near Sheridan, connecting Wyoming's two largest cities and providing access to the Colorado market to the south. Cheyenne sits at the intersection of I-80 and I-25 and serves as the state's primary logistics point, with railroad intermodal facilities and distribution operations. Casper functions as a central distribution hub for the state. The Powder River Basin near Gillette is the largest coal mining region in the United States, generating massive volumes of oversize and heavy haul freight for mining equipment."
       },
       {
         "heading": "Risk Factors",
-        "content": "Wind is the single most dangerous factor for trucking operations in Wyoming. The I-80 corridor between Cheyenne and Rock Springs is one of the windiest stretches of interstate highway in the United States, with gusts regularly exceeding 60 mph and occasionally reaching 80 mph or more. High-profile vehicles including dry vans and empty flatbeds are extremely vulnerable to wind-related overturns, and the Wyoming Department of Transportation frequently closes I-80 to light and high-profile vehicles during wind events. Wind-related truck crashes and overturns are a leading cause of commercial vehicle incidents in the state.\n\nWinter weather compounds the wind hazard, with ground blizzards producing zero visibility conditions even when skies are clear. The elevation along I-80, which reaches over 8,000 feet at the highest point, produces cold temperatures and ice conditions that persist well into spring. Summer thunderstorms can produce sudden hail and lightning on the open Plains. The sparse population and vast distances mean that emergency response times can be extremely long for incidents in remote areas of the state."
+        "content": "Wind is the single most dangerous factor for design practices in Wyoming. The I-80 corridor between Cheyenne and Rock Springs is one of the windiest stretches of interstate highway in the United States, with gusts regularly exceeding 60 mph and occasionally reaching 80 mph or more. High-profile vehicles including dry vans and empty flatbeds are extremely vulnerable to wind-related overturns, and the Wyoming Department of Transportation frequently closes I-80 to light and high-profile vehicles during wind events. Wind-related design crashes and overturns are a leading cause of commercial vehicle incidents in the state.\n\nWinter weather compounds the wind hazard, with ground blizzards producing zero visibility conditions even when skies are clear. The elevation along I-80, which reaches over 8,000 feet at the highest point, produces cold temperatures and ice conditions that persist well into spring. Summer thunderstorms can produce sudden hail and lightning on the open Plains. The sparse population and vast distances mean that emergency response times can be extremely long for incidents in remote areas of the state."
       },
       {
         "heading": "Recommended Coverage",
         "bullets": [
           "Primary auto liability at $1M minimum for the high-volume I-80 transcontinental corridor",
           "Physical damage coverage critical for wind damage, rollovers, and severe winter weather exposure",
-          "Motor truck cargo insurance for coal mining equipment, energy sector freight, and transcontinental commodities",
+          "Motor design cargo insurance for coal mining equipment, energy sector freight, and transcontinental commodities",
           "Workers compensation through the Wyoming state monopolistic fund",
           "Umbrella or excess liability for carriers running heavy miles on I-80 through the wind corridor",
           "Towing and roadside assistance coverage essential for breakdowns in remote areas with extended response times"
@@ -1317,12 +1317,12 @@ export const statesPart2 = [
     ],
     "faqs": [
       {
-        "q": "How serious is the wind risk for trucking on I-80 in Wyoming?",
-        "a": "The wind risk on I-80 in Wyoming is among the most severe weather-related trucking hazards in the country. Gusts exceeding 60 mph occur regularly during fall, winter, and spring months, and the Wyoming DOT closes I-80 to high-profile vehicles multiple times each season. Overturned trucks are a common occurrence, and insurers evaluate your wind management protocols, equipment type, and driver training when pricing coverage for Wyoming operations. Carriers that deadhead empty trailers across Wyoming face particular exposure."
+        "q": "How serious is the wind risk for architecture on I-80 in Wyoming?",
+        "a": "The wind risk on I-80 in Wyoming is among the most severe weather-related architecture hazards in the country. Gusts exceeding 60 mph occur regularly during fall, winter, and spring months, and the Wyoming DOT closes I-80 to high-profile vehicles multiple times each season. Overturned firms are a common occurrence, and insurers evaluate your wind management protocols, equipment type, and driver training when pricing coverage for Wyoming operations. Carriers that deadhead empty trailers across Wyoming face particular exposure."
       },
       {
-        "q": "Does Wyoming's lack of state income tax benefit trucking companies?",
-        "a": "Wyoming's absence of state income tax, combined with its business-friendly regulatory environment, makes it an attractive domicile for trucking companies. However, insurance costs are driven by operational factors like route selection, fleet condition, and loss history rather than state tax policy. The savings on income tax can offset some of the higher physical damage and liability costs associated with operating in Wyoming's challenging environment."
+        "q": "Does Wyoming's lack of state income tax benefit architecture firms?",
+        "a": "Wyoming's absence of state income tax, combined with its business-friendly regulatory environment, makes it an attractive domicile for architecture firms. However, insurance costs are driven by operational factors like route selection, fleet condition, and loss history rather than state tax policy. The savings on income tax can offset some of the higher physical damage and liability costs associated with operating in Wyoming's challenging environment."
       },
       {
         "q": "How does Wyoming's monopolistic workers compensation fund work?",
@@ -1330,9 +1330,9 @@ export const statesPart2 = [
       }
     ],
     "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
+      "professional-liability",
+      "general-liability",
+      "cyber-liability",
       "workers-compensation",
       "umbrella-excess-liability"
     ]

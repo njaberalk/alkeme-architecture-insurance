@@ -3,12 +3,12 @@ import Link from 'next/link';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 const featuredResources = [
-  { slug: 'trucking-insurance-cost', title: 'How Much Does Trucking Insurance Cost?', category: 'Guide', desc: 'Average costs by fleet size, pricing factors, and strategies to reduce your premiums.' },
-  { slug: 'fmcsa-insurance-requirements', title: 'FMCSA Insurance Requirements', category: 'Guide', desc: 'Federal minimum limits, MCS-90 endorsements, BMC filings, and compliance checklist.' },
-  { slug: 'new-authority-insurance', title: 'Insurance for New Trucking Authority', category: 'Guide', desc: 'What new carriers need before their first dispatch and how to get covered.' },
-  { slug: 'commercial-auto-vs-trucking-insurance', title: 'Commercial Auto vs Trucking Insurance', category: 'Comparison', desc: 'Key differences and when you need specialized trucking coverage.' },
-  { slug: 'lower-trucking-insurance-premiums', title: 'How to Lower Your Premiums', category: 'Guide', desc: 'Practical strategies for reducing your trucking insurance costs.' },
-  { slug: 'trucking-insurance-glossary', title: 'Trucking Insurance Glossary', category: 'Reference', desc: '40+ key terms every carrier should know, explained clearly.' },
+  { slug: 'architecture-insurance-cost', title: 'How Much Does Architecture Insurance Cost?', category: 'Guide', desc: 'Average costs by firm size, pricing factors, and strategies to reduce your premiums.' },
+  { slug: 'professional-liability-guide', title: 'Professional Liability (E&O) Guide', category: 'Guide', desc: 'Claims-made coverage, limits, tail coverage, and what every firm needs to know.' },
+  { slug: 'project-specific-insurance-guide', title: 'Project-Specific Insurance Guide', category: 'Guide', desc: 'When dedicated project coverage makes sense and how to structure it.' },
+  { slug: 'contract-risk-transfer', title: 'Contract Risk Transfer Guide', category: 'Guide', desc: 'Standard of care, limitation of liability, and indemnification for architects.' },
+  { slug: 'bim-technology-liability', title: 'BIM & Technology Liability Guide', category: 'Guide', desc: 'How digital design tools affect your professional liability exposure.' },
+  { slug: 'architecture-insurance-glossary', title: 'Architecture Insurance Glossary', category: 'Reference', desc: '40+ key terms every firm principal should know, explained clearly.' },
 ];
 
 export default function ResourcesSection() {
@@ -23,10 +23,10 @@ export default function ResourcesSection() {
             Resources
           </p>
           <h2 className="text-brand font-bold leading-[1.3] tracking-tight mb-5" style={{ fontSize: 'clamp(2.2rem, 4vw, 2.6rem)' }}>
-            Trucking Insurance Guides & Tools
+            Architecture Insurance Guides & Tools
           </h2>
           <p className="text-brand" style={{ fontSize: '1rem', lineHeight: '1.6' }}>
-            Expert resources to help you understand your coverage options, reduce costs, and stay compliant.
+            Expert resources to help you understand your coverage options, manage risk, and protect your practice.
           </p>
         </div>
 

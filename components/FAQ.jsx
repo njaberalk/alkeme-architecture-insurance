@@ -3,12 +3,12 @@ import { useState, useRef, useEffect } from 'react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 const faqs = [
-  { q: 'What insurance does a trucking company need?', a: 'At minimum, most trucking operations require primary auto liability, physical damage, and cargo coverage. Depending on your operation, you may also need general liability, workers\' compensation, non-trucking liability, trailer interchange, and umbrella/excess coverage. We help you identify exactly what your operation requires based on your authority type, cargo, and operating radius.' },
-  { q: 'Do you insure both owner-operators and fleets?', a: 'Yes. We work with independent owner-operators running a single unit as well as fleets of all sizes — from small operations with a handful of trucks to large carriers with hundreds of power units. Our coverage programs are scaled and customized to match the size and complexity of each operation.' },
-  { q: 'Can you help with contract and compliance requirements?', a: 'Absolutely. We understand the insurance requirements that shippers, brokers, and regulatory bodies impose on carriers. We can help ensure your certificates of insurance, policy endorsements, and filing requirements align with your contractual obligations and FMCSA standards.' },
-  { q: 'How quickly can I get a quote?', a: 'In most cases, we can provide an initial quote within 24 hours of receiving your completed information. For more complex accounts or large fleets, the process may take slightly longer to ensure we explore the best options across our carrier network.' },
-  { q: 'Do you offer cargo and physical damage coverage?', a: 'Yes. Motor truck cargo coverage protects the goods you haul, while physical damage coverage protects your trucks and trailers. We can tailor both coverages to your specific cargo types, vehicle values, and deductible preferences.' },
-  { q: 'Can coverage be customized for my operation?', a: 'Every policy we place is built around your specific operation. We consider your equipment, routes, cargo types, loss history, and business goals to design a program that provides the right coverage at a competitive price — not a generic package.' },
+  { q: 'What insurance does an architecture firm need?', a: 'At minimum, most architecture firms need professional liability (E&O), general liability, and workers\' compensation. Depending on your practice, you may also need commercial property, cyber liability, commercial auto, umbrella coverage, and employment practices liability. We help you identify exactly what your firm requires based on your project types, firm size, and contractual obligations.' },
+  { q: 'Do you work with firms of all sizes?', a: 'Yes. We work with sole practitioners running a one-person studio as well as large multi-office firms with hundreds of employees. Our coverage programs are scaled and customized to match the size and complexity of each practice.' },
+  { q: 'Can you help with contract and COI requirements?', a: 'Absolutely. We understand the insurance requirements that project owners, developers, and general contractors impose on design firms. We can help ensure your certificates of insurance, additional insured endorsements, and policy provisions align with your contractual obligations.' },
+  { q: 'How quickly can I get a quote?', a: 'In most cases, we can provide an initial quote within 24 to 48 hours of receiving your completed information. For more complex accounts or large firms, the process may take slightly longer to ensure we explore the best options across our carrier network.' },
+  { q: 'Do you offer professional liability and general liability?', a: 'Yes. Professional liability protects against claims of design errors and omissions, while general liability covers third-party bodily injury and property damage. Both are essential for architecture firms, and we tailor each policy to your specific practice type and project exposure.' },
+  { q: 'Can coverage be customized for my practice?', a: 'Every program we place is built around your specific practice. We consider your project types, firm size, revenue, claims history, and business goals to design a program that provides the right coverage at a competitive price — not a generic package.' },
 ];
 
 function FaqItem({ faq, isOpen, onClick }) {
@@ -40,7 +40,6 @@ function FaqItem({ faq, isOpen, onClick }) {
           </svg>
         </div>
       </button>
-      {/* Animated content - height 0 to auto matching alkeme faq_content-wrap */}
       <div
         ref={contentRef}
         style={{
@@ -66,7 +65,7 @@ export default function FAQ() {
         <div ref={headerRef} className="text-center mb-14 fade-in-view">
           <p className="text-blue uppercase tracking-[0.15em] font-bold mb-4" style={{ fontSize: '0.85rem' }}>Frequently Asked Questions</p>
           <h2 className="text-brand font-bold leading-[1.3] tracking-tight" style={{ fontSize: 'clamp(2.2rem, 4vw, 2.6rem)' }}>
-            Common Questions About Trucking Insurance
+            Common Questions About Architecture Insurance
           </h2>
         </div>
 
