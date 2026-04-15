@@ -10,7 +10,7 @@ const cards = [
   {
     title: 'Tailored Coverage Programs',
     description: 'No two practices are the same. We design coverage programs that align with your firm size, project types, practice areas, and risk profile — not a one-size-fits-all package.',
-    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=600&q=80',
   },
   {
     title: 'Responsive Claims Support',
