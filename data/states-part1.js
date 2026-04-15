@@ -1,1360 +1,1001 @@
 export const statesPart1 = [
   {
-    "slug": "alabama",
-    "name": "Alabama",
-    "abbreviation": "AL",
-    "metaTitle": "Architecture Insurance in Alabama",
-    "metaDescription": "Commercial architecture insurance for Alabama firms. Coverage for I-65 and I-20 corridors, port design from Mobile, and Southeast regional hauling operations.",
-    "heroHeading": "Alabama Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating in and through the Heart of Dixie.",
-    "overview": "Alabama sits at the crossroads of several major Southeast design corridors, with I-65 running north-south through Birmingham and Montgomery and I-20 connecting Atlanta to Mississippi. The Port of Mobile adds a significant volume of containerized and bulk cargo to the state's architecture demand. Carriers based in Alabama face a mix of urban congestion in the Birmingham metro, rural two-lane exposure, and Gulf Coast weather risks that demand a well-structured insurance program.",
-    "sections": [
+    slug: 'alabama',
+    name: 'Alabama',
+    abbreviation: 'AL',
+    metaTitle: 'Architecture Insurance in Alabama',
+    metaDescription: 'Architecture insurance for Alabama firms. Professional liability, licensure requirements, and coverage for design practices across the Heart of Dixie.',
+    heroHeading: 'Alabama Architecture Insurance',
+    heroSubheading: 'Coverage for architecture firms operating in and through the Heart of Dixie.',
+    overview: 'Alabama\'s architecture market is anchored by healthcare systems, university campuses, military installations, and a revitalizing urban core in Birmingham. The state board oversees licensure for architects practicing in Alabama, and firms must maintain professional liability coverage appropriate for their project types. Alabama\'s contributory negligence standard creates a distinctive legal environment for professional liability claims that architects should understand.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Alabama design firms must satisfy NCARB financial responsibility requirements, with minimums of $750,000 for general design, $1,000,000 for hazardous materials transport, and $5,000,000 for certain bulk hazmat loads. The Alabama Public Service Commission oversees intrastate firms and requires proof of insurance before granting operating authority.\n\nAlabama follows a fault-based auto liability system with a contributory negligence standard, one of only a few states that bars recovery if the claimant is even one percent at fault. While this can benefit firms in litigation, it also means juries may award larger damages when the commercial driver is clearly liable. Carriers should maintain limits well above the federal minimum given the trend toward nuclear verdicts in the Southeast."
+        heading: 'Licensure Requirements',
+        content: 'The Alabama Board of Architects regulates the practice of architecture in the state. Alabama requires completion of an NAAB-accredited degree, passing all divisions of the ARE (Architect Registration Examination), and completion of the AXP (Architectural Experience Program) for initial licensure. Alabama participates in NCARB certification reciprocity, allowing architects licensed in other states to obtain Alabama registration through their NCARB certificate. Continuing education is required for license renewal, with 12 hours of continuing education required annually including a health, safety, and welfare component. Firms must register with the board and designate a licensed architect as the responsible party for architectural services.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-65 is Alabama's primary north-south artery, carrying heavy design between Nashville and Mobile with major interchange points in Birmingham, Montgomery, and the Decatur-Huntsville corridor. I-20 runs east-west through Birmingham, linking Atlanta's distribution hubs to Mississippi and points west. I-10 crosses the southern tip of the state along the Gulf Coast, connecting Mobile to Pensacola and New Orleans.\n\nThe Port of Mobile is a growing deep-water port handling containers, steel, coal, and forest products. Birmingham serves as a regional distribution center with multiple intermodal yards, and Huntsville's logistics sector has expanded rapidly alongside its aerospace and defense industries. US-431 and US-280 carry significant design traffic through rural corridors where two-lane roads and limited shoulders increase risk."
+        heading: 'Building Code Framework',
+        content: 'Alabama has adopted the International Building Code with state-specific amendments. The Alabama Building Commission oversees commercial building code enforcement, while residential construction follows the International Residential Code. Local jurisdictions may adopt additional requirements. Alabama\'s Gulf Coast region falls within wind-speed zones that require enhanced structural design for hurricane resistance. Seismic design provisions apply in northern Alabama near the New Madrid Seismic Zone. The state\'s adoption of energy codes has progressed, with most jurisdictions referencing the International Energy Conservation Code. Architects practicing in Alabama must stay current on both state-level code amendments and local jurisdiction requirements.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Gulf Coast hurricanes and tropical storms are the most significant seasonal risk for Alabama firms, particularly those operating south of Montgomery. Heavy rain, flooding, and wind damage can shut down I-10 and I-65 south of Birmingham for extended periods. Tornado activity across central Alabama during spring also creates sudden severe weather exposure.\n\nBirmingham's hilly terrain and aging infrastructure present urban driving challenges, while rural routes in the Black Belt region often lack adequate shoulders and lighting. Summer heat accelerates tire blowouts and pavement deterioration. Alabama consistently ranks among the higher states for fatal design crashes per mile driven, making safety programs and adequate liability limits essential."
+        heading: 'Risk Factors',
+        content: 'Gulf Coast hurricanes and tropical storms present the most significant weather-related design challenge for Alabama architects, particularly for projects south of Montgomery. Tornado activity across central Alabama during spring creates severe weather exposure. Birmingham\'s hilly terrain and humid subtropical climate generate moisture intrusion and building envelope challenges. Alabama\'s contributory negligence standard means that if a claimant is even one percent at fault, they cannot recover damages. While this can benefit architects in defense, when liability is clearly the architect\'s, plaintiff attorneys pursue aggressively with larger damage requests.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given Alabama's contributory negligence standard and verdict trends",
-          "Physical damage coverage for heat-related mechanical failures and Gulf Coast storm damage",
-          "Motor design cargo insurance with spoilage endorsement for temperature-sensitive loads moving through the Port of Mobile",
-          "Non-architecture liability for owner-operators during off-dispatch periods",
-          "Umbrella or excess liability to protect against nuclear verdicts in Birmingham and Mobile metro courts"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability (E&O) at $1,000,000 or higher given Alabama\'s contributory negligence standard',
+          'General liability for construction administration and client site visits',
+          'Cyber liability for protecting project files and client data',
+          'Workers compensation for firm employees',
+          'Umbrella or excess liability to protect against significant verdicts when liability is clear'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Does Alabama require any insurance beyond federal NCARB minimums?",
-        "a": "Alabama's Public Service Commission requires intrastate firms to file proof of insurance, and the state enforces its own registration process. While the minimum limits generally mirror federal requirements, firms hauling within Alabama only should verify current PSC filing requirements. Interstate firms must maintain NCARB-mandated coverage levels."
-      },
-      {
-        "q": "How does Alabama's contributory negligence rule affect architecture claims?",
-        "a": "Alabama is one of only a handful of states following pure contributory negligence, meaning a claimant who is even slightly at fault cannot recover damages. This can reduce claim frequency for firms, but when liability is clear, plaintiff attorneys often pursue larger awards. Carriers should maintain strong limits and robust safety programs."
-      },
-      {
-        "q": "What weather risks should Alabama architecture firms plan for?",
-        "a": "Hurricane season from June through November poses the greatest threat, especially for routes along I-10 and I-65 south of Montgomery. Tornado activity peaks in March through May across central Alabama. Carriers should have severe weather protocols and ensure physical damage policies cover windstorm and flood damage to parked equipment."
-      }
+    faqs: [
+      { q: 'Does Alabama require architects to carry professional liability insurance?', a: 'Alabama does not mandate professional liability insurance by statute, but most project owners, particularly government agencies and institutional clients, require proof of E&O coverage as a condition of contract. Practicing without professional liability insurance exposes the firm\'s assets directly to claims.' },
+      { q: 'How does Alabama\'s contributory negligence rule affect architecture claims?', a: 'Alabama is one of only a handful of states following pure contributory negligence, meaning a claimant who is even slightly at fault cannot recover damages. This can reduce claim frequency for architects, but when liability is clear, plaintiff attorneys often pursue larger awards. Firms should maintain strong documentation and quality control practices.' },
+      { q: 'What continuing education does Alabama require for architects?', a: 'Alabama requires 12 hours of continuing education annually for license renewal, including content focused on health, safety, and welfare. The Alabama Board of Architects accepts AIA and NCARB-approved continuing education programs.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess']
   },
   {
-    "slug": "alaska",
-    "name": "Alaska",
-    "abbreviation": "AK",
-    "metaTitle": "Architecture Insurance in Alaska",
-    "metaDescription": "Commercial architecture insurance for Alaska firms. Coverage for extreme weather operations, the Dalton Highway, remote haul routes.",
-    "heroHeading": "Alaska Architecture Insurance",
-    "heroSubheading": "Specialized coverage for firms operating in America's last frontier.",
-    "overview": "Architecture in Alaska demands a fundamentally different insurance approach than the lower 48. Limited road networks, extreme cold, remote operations, and long distances between services create exposures that standard policies may not adequately address. Whether hauling supplies up the Dalton Highway to Prudhoe Bay or distributing goods across the Anchorage-Fairbanks corridor, Alaska firms need policies built for harsh conditions and high per-mile costs.",
-    "sections": [
+    slug: 'alaska',
+    name: 'Alaska',
+    abbreviation: 'AK',
+    metaTitle: 'Architecture Insurance in Alaska',
+    metaDescription: 'Architecture insurance for Alaska firms. Coverage for extreme climate design, remote project administration, and specialized building challenges.',
+    heroHeading: 'Alaska Architecture Insurance',
+    heroSubheading: 'Specialized coverage for firms operating in America\'s last frontier.',
+    overview: 'Architecture in Alaska demands a fundamentally different approach than the lower 48. Limited transportation networks, extreme cold, permafrost, seismic risk, and remote project locations create design challenges that standard professional liability policies may not adequately address. Firms working in Alaska need insurance programs built for high per-project costs, extended construction timelines, and the unique building science demands of arctic and subarctic environments.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Alaska firms operating interstate must meet standard NCARB financial responsibility requirements. For intrastate operations, the Alaska Department of Transportation and Public Facilities requires design firms to maintain liability insurance with minimum limits that align with federal standards. Carriers must file proof of insurance with the state before receiving intrastate operating authority.\n\nAlaska follows a pure comparative fault system, meaning damages are apportioned based on each party's percentage of fault. This generally favors balanced claims outcomes, but the remoteness of accident locations and the high cost of emergency response in Alaska can drive claim severity well above lower-48 averages. Tow and recovery costs alone can exceed $50,000 for incidents on remote highways."
+        heading: 'Licensure Requirements',
+        content: 'The Alaska Board of Registration for Architects, Engineers, and Land Surveyors oversees architect licensure. Alaska requires an NAAB-accredited degree, ARE completion, and AXP experience for initial licensure. The state participates in NCARB reciprocity. Alaska requires 24 professional development hours biennially for license renewal. Given the state\'s unique construction environment, many Alaska architects develop specialized expertise in cold-climate building science, seismic design, and remote construction logistics that is not typically covered in standard architectural education.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "The Parks Highway (Route 3) connects Anchorage to Fairbanks and carries the majority of interior design. The Dalton Highway (Route 11) extends 414 miles from Fairbanks to Deadhorse near Prudhoe Bay, serving the oil fields with fuel, equipment, and supplies in some of the most challenging driving conditions in North America. The Seward Highway (Route 1) connects Anchorage to the port at Seward, while the Glenn Highway links Anchorage to the agricultural Matanuska Valley and Tok.\n\nAnchorage is Alaska's primary distribution hub, with the Port of Anchorage handling the vast majority of consumer goods entering the state. Fairbanks serves as the staging point for North Slope operations. The Alaska Highway connects the state to the Canadian road network and the lower 48, though most design enters by barge or ship."
+        heading: 'Building Code Framework',
+        content: 'Alaska adopts the International Building Code with significant state-specific amendments addressing cold climate construction, seismic design, and snow loads. The state falls within some of the highest seismic design categories in the country, particularly along the southern coast and Aleutian chain. Snow load requirements in many Alaska communities exceed those in the lower 48. Permafrost conditions in interior and northern Alaska require specialized foundation design that standard codes do not fully address. Energy code requirements emphasize thermal performance given the extreme heating demands. Local jurisdictions, particularly Anchorage and Fairbanks, may adopt additional requirements.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Extreme cold is the dominant risk factor, with winter temperatures dropping below minus 40 degrees along the Dalton Highway. Ice roads, limited daylight from November through February, and blowing snow create hazardous driving conditions for months at a time. Moose and caribou collisions are frequent and can cause severe vehicle damage and driver injury.\n\nRemote operations mean that accident response times can stretch to hours, and towing costs are extraordinarily high. Many Alaska highways lack cell service, guardrails, and paved shoulders. Spring breakup season brings weight restrictions and road closures as frost heaves damage road surfaces. Avalanche zones along mountain passes add seasonal route closures that can strand equipment for days."
+        heading: 'Risk Factors',
+        content: 'Extreme cold is the dominant design risk, with winter temperatures dropping below minus 40 degrees in interior communities. Permafrost thawing due to climate change is creating foundation challenges on previously stable sites. Alaska\'s seismic activity, including the potential for magnitude 9+ earthquakes along the Cascadia-Alaska subduction zone, demands rigorous lateral force design. Remote project locations mean construction administration involves significant travel and limited site access. Towing and emergency response costs for construction site incidents can be extraordinarily high. The limited pool of contractors and materials suppliers in many Alaska communities adds construction coordination complexity.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits reflecting the high cost of remote accident response and medical evacuation",
-          "Physical damage coverage with agreed-value endorsements given the high replacement cost of cold-weather-equipped trucks",
-          "Motor design cargo insurance with delay coverage for loads stranded by road closures or weather",
-          "Comprehensive coverage including animal collision, which is a frequent and costly peril in Alaska",
-          "Towing and recovery coverage with elevated limits to account for remote highway recovery operations",
-          "Workers compensation with coverage for cold-weather injuries and remote-site operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting high per-project construction costs in remote Alaska',
+          'General liability with coverage for remote site visits and extended travel',
+          'Cyber liability for project data protection',
+          'Business interruption coverage for weather-related office closures',
+          'Professional liability addressing seismic and permafrost design exposure'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is architecture insurance more expensive in Alaska?",
-        "a": "Alaska premiums reflect the extreme operating environment: high towing and recovery costs in remote areas, expensive vehicle repairs due to cold-weather wear, limited competition among insurers willing to write Alaska risks, and the elevated cost of medical treatment and evacuation when accidents occur far from hospitals."
-      },
-      {
-        "q": "Are there special insurance requirements for Dalton Highway operations?",
-        "a": "There are no separate state insurance mandates specifically for the Dalton Highway, but firms should ensure their policies do not exclude unpaved or restricted-access roads. Many standard policies contain exclusions that could leave Dalton Highway operations uncovered. Confirm with your insurer that your policy covers operations on this route."
-      },
-      {
-        "q": "Does Alaska require uninsured motorist coverage for commercial trucks?",
-        "a": "Alaska requires uninsured and underinsured motorist coverage for personal auto policies but does not mandate it for commercial vehicles. However, given the high incidence of uninsured drivers in rural areas, firms should strongly consider adding this coverage to their commercial auto policies."
-      }
+    faqs: [
+      { q: 'What makes architecture insurance different in Alaska?', a: 'Alaska\'s extreme climate, seismic risk, remote locations, and high construction costs create a unique professional liability environment. Per-project exposure is often higher than similar building types in the lower 48 due to material shipping costs, specialized construction methods, and the consequences of design errors in extreme conditions.' },
+      { q: 'How does permafrost affect architecture professional liability?', a: 'Permafrost thawing is an accelerating concern. Architects who specify foundation systems that fail to account for changing permafrost conditions face significant E&O exposure. Climate change is making historical geotechnical data less reliable, requiring more conservative design assumptions.' },
+      { q: 'Does Alaska require professional liability insurance for architects?', a: 'Alaska does not mandate E&O insurance by statute, but the unique risks of Alaska practice make it essential. Government agencies and most institutional clients require proof of coverage. Given the high costs of construction failure in remote locations, carrying adequate professional liability protection is a fundamental business necessity.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "arizona",
-    "name": "Arizona",
-    "abbreviation": "AZ",
-    "metaTitle": "Architecture Insurance in Arizona",
-    "metaDescription": "Commercial architecture insurance for Arizona firms. Coverage for I-10 and I-40 cross-country corridors, Phoenix metro design, and desert climate operations.",
-    "heroHeading": "Arizona Architecture Insurance",
-    "heroSubheading": "Coverage for firms navigating the Southwest's busiest design lanes.",
-    "overview": "Arizona is a critical link in the national design network, with I-10 and I-40 carrying massive volumes of cross-country design traffic through the state. The Phoenix metropolitan area has emerged as one of the fastest-growing distribution and fulfillment markets in the country, while the Nogales port of entry is the primary gateway for fresh produce imports from Mexico. Arizona firms operate in extreme desert heat that punishes equipment and creates unique safety challenges.",
-    "sections": [
+    slug: 'arizona',
+    name: 'Arizona',
+    abbreviation: 'AZ',
+    metaTitle: 'Architecture Insurance in Arizona',
+    metaDescription: 'Architecture insurance for Arizona firms. Coverage for desert climate design, seismic considerations, and the booming Phoenix and Tucson markets.',
+    heroHeading: 'Arizona Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Grand Canyon State.',
+    overview: 'Arizona is one of the fastest-growing states in the country, and its architecture market reflects that growth with massive volumes of residential, commercial, and industrial construction. The desert climate creates distinctive design challenges around heat mitigation, water conservation, and material durability. Phoenix and Tucson together support a large and diverse architecture community working on everything from semiconductor fabrication facilities to desert-responsive residential design.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Arizona firms operating interstate must maintain NCARB-mandated liability coverage, with minimums of $750,000 for general design and higher limits for hazardous materials. The Arizona Department of Transportation requires intrastate for-hire firms to file proof of financial responsibility, with minimum liability limits of $300,000 for vehicles under 26,001 pounds and $750,000 for heavier vehicles.\n\nArizona uses a pure comparative fault system for auto liability claims, allowing injured parties to recover damages reduced by their percentage of fault. The state has seen a notable increase in architecture litigation severity, particularly in Maricopa County, where plaintiff-friendly jury pools have produced several large verdicts against design firms in recent years."
+        heading: 'Licensure Requirements',
+        content: 'The Arizona Board of Technical Registration oversees architect licensure. Arizona requires an NAAB-accredited degree, ARE completion, and AXP experience for initial registration. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially, with specific requirements for health, safety, and welfare content. Arizona\'s board also regulates the use of the title "architect" and the practice of architecture, with enforcement actions for unlicensed practice.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-10 crosses southern Arizona from the California border at Ehrenberg through Phoenix and Tucson to the New Mexico line, serving as a primary East-West transcontinental design route. I-40 crosses northern Arizona through Flagstaff and Kingman, carrying heavy volumes between California and the Midwest. I-17 connects Phoenix to Flagstaff and the I-40 corridor, climbing over 5,000 feet through mountainous terrain.\n\nThe Phoenix metro area is home to dozens of major distribution centers for national retailers, e-commerce fulfillment operations, and semiconductor manufacturers. The Maricopa Association of Governments region generates enormous local architecture demand. The Nogales port of entry handles over 60 percent of fresh produce imports from Mexico during winter months, creating heavy refrigerated design traffic on I-19 and I-10 north to Phoenix and beyond."
+        heading: 'Building Code Framework',
+        content: 'Arizona adopts the International Building Code at the state level, but local jurisdictions have significant authority to adopt amendments. Phoenix and Tucson maintain their own amended codes with additional requirements for energy efficiency and water conservation. Arizona\'s moderate seismic risk requires design provisions in most of the state. The desert climate demands expertise in thermal design, with extreme summer temperatures affecting HVAC sizing, material selection, and building envelope performance. Water conservation requirements are increasingly stringent, reflecting the state\'s arid climate and groundwater management priorities.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Extreme heat is Arizona's defining risk factor, with summer temperatures routinely exceeding 110 degrees in the Phoenix metro and along the I-10 corridor. Heat causes tire blowouts, brake fade, engine overheating, and pavement deterioration. Dust storms, known as haboobs, can reduce visibility to near zero on desert highways with no warning, causing multi-vehicle pileups.\n\nI-17 between Phoenix and Flagstaff features steep grades, sharp curves, and dramatic elevation changes that challenge loaded trucks. Monsoon season from July through September brings flash flooding that can wash out low-water crossings and flood underpasses. High-speed rural interstates with long straightaways contribute to fatigue-related accidents, and the Tucson-to-Phoenix stretch of I-10 is consistently one of the most dangerous design corridors in the Southwest."
+        heading: 'Risk Factors',
+        content: 'Extreme heat is the primary environmental design challenge, with Phoenix summer temperatures exceeding 115 degrees. UV radiation accelerates material degradation, making specification errors around material durability a leading source of claims. Water scarcity drives strict conservation requirements that affect plumbing, landscape, and irrigation design. Arizona\'s legal environment is moderate for professional liability, with a comparative fault standard and an eight-year statute of repose for construction defects. The state\'s rapid growth creates construction labor shortages and schedule pressure that increase the risk of design errors across the market.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 minimum given Maricopa County verdict trends",
-          "Physical damage with comprehensive coverage for dust storm and monsoon flood damage",
-          "Motor design cargo with temperature deviation coverage for perishable loads from Nogales",
-          "Bobtail and non-architecture liability for owner-operators in the Phoenix drayage market",
-          "Umbrella or excess liability to protect against escalating Arizona jury verdicts"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability addressing extreme climate design specifications and material durability',
+          'General liability for construction administration across sprawling metro areas',
+          'Cyber liability for protecting tech sector, data center, and semiconductor client data',
+          'Workers compensation for firm employees',
+          'Professional liability for water conservation and sustainable design compliance'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "What are the biggest insurance cost drivers for Arizona architecture firms?",
-        "a": "Heat-related mechanical claims, dust storm and monsoon weather damage, the high frequency of tire blowouts on desert interstates, and increasing litigation severity in Maricopa County courts all contribute to elevated premiums for Arizona-based firms. Maintaining strong safety records and investing in heat-mitigation equipment can help control costs."
-      },
-      {
-        "q": "Do Arizona intrastate firms need different insurance than interstate firms?",
-        "a": "Arizona intrastate firms must file proof of insurance with ADOT and meet state-specific minimum limits. For vehicles over 26,001 pounds, the state minimum mirrors the federal $750,000 requirement. Lighter vehicles may qualify for lower limits, but firms should assess whether minimums provide adequate protection for their specific operations."
-      },
-      {
-        "q": "How do dust storms affect architecture insurance claims in Arizona?",
-        "a": "Dust storms cause multi-vehicle accidents with severe injuries and extensive property damage. Comprehensive physical damage coverage is essential for dust storm exposure. Carriers should also train drivers on dust storm protocols, including pulling off the highway and turning off headlights to avoid attracting following vehicles into the dust cloud."
-      }
+    faqs: [
+      { q: 'What is Arizona\'s statute of repose for architecture claims?', a: 'Arizona has an eight-year statute of repose for construction defect claims, meaning architects can face claims for up to eight years after substantial completion. Firms should maintain professional liability coverage or tail coverage through this full period for each completed project.' },
+      { q: 'How does the desert climate affect professional liability exposure?', a: 'Extreme heat and UV exposure accelerate material degradation, creating higher risk of claims related to premature building envelope failure, roofing system problems, and thermal expansion damage. Architects must specify materials tested for desert conditions and document selection rationale.' },
+      { q: 'Does Arizona require professional liability insurance for architects?', a: 'Arizona does not mandate professional liability insurance by statute. However, most commercial and institutional clients require proof of coverage, and the state\'s construction defect exposure makes E&O insurance essential for prudent practice.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "arkansas",
-    "name": "Arkansas",
-    "abbreviation": "AR",
-    "metaTitle": "Architecture Insurance in Arkansas",
-    "metaDescription": "Commercial architecture insurance for Arkansas firms. Coverage for I-40 and I-30 corridors, the Fort Smith design hub, and regional flatbed and poultry hauling.",
-    "heroHeading": "Arkansas Architecture Insurance",
-    "heroSubheading": "Coverage for firms in one of America's most important architecture states.",
-    "overview": "Arkansas punches well above its weight in the architecture industry. The state is home to several of the nation's largest firms, and its central location makes it a natural crossroads for design moving between the Midwest, Southeast, and Texas. I-40 bisects the state east to west through Little Rock, while I-30 connects to Dallas and I-49 links the Northwest Arkansas boom region to Fort Smith and points south. The poultry and agriculture industries generate substantial specialized hauling demand.",
-    "sections": [
+    slug: 'arkansas',
+    name: 'Arkansas',
+    abbreviation: 'AR',
+    metaTitle: 'Architecture Insurance in Arkansas',
+    metaDescription: 'Architecture insurance for Arkansas firms. Coverage for design practices in the Natural State, from Little Rock to the Ozarks.',
+    heroHeading: 'Arkansas Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing across the Natural State.',
+    overview: 'Arkansas supports a concentrated architecture market centered in Little Rock with regional practices serving the entire state. The Fay Jones School of Architecture at the University of Arkansas in Fayetteville is the state\'s premier design program, and the northwest Arkansas corridor anchored by Walmart, Tyson, and J.B. Hunt provides significant commercial design demand alongside the institutional work available in the capital.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Arkansas design firms must meet NCARB financial responsibility requirements for interstate operations. The Arkansas Department of Transportation oversees intrastate carrier registration and requires proof of liability insurance. Intrastate firms must maintain minimum coverage consistent with federal standards based on vehicle weight and cargo type.\n\nArkansas uses a modified comparative fault system with a 50 percent bar, meaning a claimant more than 50 percent at fault cannot recover damages. The state's architecture-heavy economy means that juries are often more familiar with the industry than in other states, which can cut both ways in litigation. The state has relatively moderate verdict trends compared to neighboring Texas and Tennessee."
+        heading: 'Licensure Requirements',
+        content: 'The Arkansas State Board of Architects oversees licensure. Arkansas requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 12 hours annually. The board enforces practice standards and investigates complaints related to architectural services. Arkansas\'s licensing framework is straightforward, and NCARB certificate holders can obtain reciprocal registration efficiently.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-40 is Arkansas's main east-west corridor, running from the Memphis metropolitan area through Little Rock to Fort Smith and the Oklahoma border. This route carries enormous design volumes connecting the Mid-South to the Southern Plains. I-30 runs southwest from Little Rock to Texarkana and on to Dallas, serving as a major link between Arkansas and Texas. I-49 runs north-south through the booming Northwest Arkansas region, connecting Bentonville, Fayetteville, and Fort Smith.\n\nNorthwest Arkansas is home to Walmart's global headquarters in Bentonville and the massive vendor and logistics ecosystem that surrounds it. J.B. Hunt, ABF Freight, and USA Truck are all headquartered in the state, making Arkansas one of the densest concentrations of architecture industry activity in the nation. The Port of Little Rock on the Arkansas River handles barge-to-design transload operations."
+        heading: 'Building Code Framework',
+        content: 'Arkansas adopts the International Building Code with state amendments. The Arkansas Fire Prevention Code Board oversees commercial building code adoption, while local jurisdictions enforce residential codes. Not all Arkansas jurisdictions have adopted building codes, particularly in rural areas, which creates uneven regulatory requirements across the state. The northwest Arkansas region follows Fayetteville, Rogers, and Bentonville municipal codes. Energy code adoption has progressed in urban areas, with most cities referencing the IECC. Tornado-resistant design is a critical consideration statewide.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Arkansas sits in a transition zone between the flat Mississippi Delta and the rugged Ozark and Ouachita mountain ranges. Winding mountain roads in the northwest and west create challenging terrain for loaded trucks, while Delta roads in the east are prone to flooding during spring rains. Tornado Alley extends into western Arkansas, and severe thunderstorms with large hail are common from March through June.\n\nIce storms are a significant winter hazard, particularly in the Ozark region where freezing rain can shut down I-49 and mountain routes for days. The I-40 bridge over the Mississippi River at Memphis is one of the most critical chokepoints in the national design network, and closures or restrictions create major cascading delays for Arkansas-based firms."
+        heading: 'Risk Factors',
+        content: 'Tornado exposure is significant across much of Arkansas, particularly in the central and northern regions. The state\'s humid subtropical climate creates moisture management challenges for building envelope design. The New Madrid Seismic Zone affects northeastern Arkansas, requiring seismic design provisions in that region. Northwest Arkansas\'s karst topography creates foundation and drainage design challenges. Arkansas follows a comparative fault standard, and the legal environment for professional negligence is moderate. The smaller state market means firms often handle diverse project types across wide geographic areas.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with adequate limits for operations spanning Arkansas, Texas, and Tennessee corridors",
-          "Physical damage coverage with hail and ice storm protection for the Ozark region",
-          "Motor design cargo insurance tailored to poultry, agriculture, and retail distribution loads",
-          "Occupational accident coverage for the large owner-operator population in the state",
-          "General liability for firms with yard operations and transloading facilities"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for institutional and commercial design projects',
+          'General liability for construction administration across the state',
+          'Cyber liability for client data protection',
+          'Workers compensation for firm employees',
+          'Professional liability addressing tornado-zone and seismic design considerations'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why are so many architecture firms based in Arkansas?",
-        "a": "Arkansas's central location provides efficient access to major design markets in every direction. The state's relatively low cost of living, business-friendly regulatory environment, and the Walmart supply chain ecosystem in Northwest Arkansas have attracted both large practices and thousands of small firms. This concentration creates a competitive insurance market for Arkansas-based operations."
-      },
-      {
-        "q": "What specialized coverage do Arkansas poultry haulers need?",
-        "a": "Poultry haulers should carry motor design cargo insurance with livestock or live animal endorsements, which cover mortality during transit. Refrigerated loads of processed poultry require temperature deviation coverage. Given the high frequency of short-haul runs between farms, processing plants, and cold storage facilities, adequate physical damage and liability coverage for constant stop-and-go operations is also important."
-      },
-      {
-        "q": "How do ice storms impact architecture insurance in Arkansas?",
-        "a": "Northwest Arkansas and the Ozark region experience significant ice storms that cause multi-day road closures, vehicle damage from ice accumulation, and a spike in collision claims. Carriers should ensure comprehensive physical damage policies cover ice and freezing rain damage. Business interruption from road closures is a secondary concern that some firms address through contingent cargo or delay coverage."
-      }
+    faqs: [
+      { q: 'What continuing education does Arkansas require?', a: 'Arkansas requires 12 hours of continuing education annually for license renewal. The board accepts AIA, NCARB, and other approved continuing education programs with health, safety, and welfare content.' },
+      { q: 'How does the northwest Arkansas market compare to Little Rock?', a: 'Northwest Arkansas, driven by Walmart, Tyson, and J.B. Hunt corporate investments and the Crystal Bridges Museum, has become a major architecture market that rivals Little Rock in project volume. The region attracts national firms alongside strong local practices.' },
+      { q: 'Does Arkansas require professional liability insurance?', a: 'Arkansas does not mandate E&O insurance by statute. However, most institutional and commercial clients require proof of coverage, and the Fay Jones School\'s emphasis on professional practice encourages students to understand insurance fundamentals.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "occupational-accident"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "california",
-    "name": "California",
-    "abbreviation": "CA",
-    "metaTitle": "Architecture Insurance in California",
-    "metaDescription": "Commercial architecture insurance for California firms. Coverage for port drayage, I-5 corridor operations, CARB compliance.",
-    "heroHeading": "California Architecture Insurance",
-    "heroSubheading": "Coverage for firms in the largest and most regulated architecture market in the nation.",
-    "overview": "California is the single most important state in American architecture. The ports of Los Angeles and Long Beach handle roughly 40 percent of all containerized imports entering the United States, generating an enormous drayage and distribution architecture market. I-5 runs the length of the state, the Central Valley produces a massive volume of agricultural design, and the state's regulatory environment sets the standard for emissions, safety, and labor requirements that often spread to other states. Insurance costs in California are among the highest in the nation, reflecting heavy litigation, dense traffic, and strict regulatory oversight.",
-    "sections": [
+    slug: 'california',
+    name: 'California',
+    abbreviation: 'CA',
+    metaTitle: 'Architecture Insurance in California',
+    metaDescription: 'Architecture insurance for California firms. Coverage for seismic design, Title 24 compliance, and practice in the nation\'s largest design market.',
+    heroHeading: 'California Architecture Insurance',
+    heroSubheading: 'Coverage for firms in the nation\'s largest architecture market.',
+    overview: 'California is the largest architecture market in the United States, with more licensed architects than any other state. The combination of seismic design requirements, Title 24 energy standards, CALGreen sustainability code, California Coastal Commission oversight, and one of the most litigious construction defect environments in the country creates a demanding professional liability landscape. Firms practice in a regulatory environment that is more complex than virtually any other state.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "California imposes some of the most stringent architecture regulations in the country. Beyond NCARB federal requirements, the California Department of Motor Vehicles requires design firms to register through the Motor Carrier Permit program and maintain proof of liability insurance. The minimum liability requirement for intrastate firms operating vehicles over 10,000 pounds is $750,000, matching the federal standard.\n\nCalifornia's regulatory landscape extends well beyond insurance. The California Air Resources Board requires firms operating in the state to meet strict emissions standards, and the state has mandated a transition to zero-emission firms for drayage operations. AB5, the state's worker classification law, has significant implications for owner-operators and the insurance structures that cover them. California uses a pure comparative fault system, and the state's courts are known for producing some of the largest architecture verdicts in the country."
+        heading: 'Licensure Requirements',
+        content: 'The California Architects Board (CAB) oversees licensure under the Department of Consumer Affairs. California requires passing the ARE and completing the AXP, but notably does not require an NAAB-accredited degree for licensure — it accepts a combination of education and experience. California participates in NCARB reciprocity, but its unique education pathway means some California-licensed architects may not qualify for NCARB certification without additional education. The state requires 5 hours of continuing education per renewal cycle, focused on disability access and coursework on the prevention of workplace harassment. California\'s licensure process has historically been among the most flexible in terms of educational pathways to practice.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-5 runs over 800 miles from the Mexican border through San Diego, Los Angeles, the Central Valley, Sacramento, and on to Oregon. It is the West Coast's primary design spine. I-10 connects the ports of Los Angeles and Long Beach eastward through the Inland Empire and on to Arizona. I-710, known as the Long Beach Freeway, is the most heavily truck-trafficked highway in the nation, carrying containers from the ports to inland distribution centers.\n\nThe Inland Empire region east of Los Angeles has become the largest warehouse and distribution market in North America, with over one billion square feet of logistics space. CA-99 parallels I-5 through the Central Valley, carrying agricultural design from one of the most productive farming regions in the world. The San Francisco Bay Area and its ports generate additional design demand, with I-580 and I-880 serving as key East Bay design routes."
+        heading: 'Building Code Framework',
+        content: 'California adopts the California Building Code (CBC), which is based on the IBC but with extensive state amendments. Title 24 encompasses energy standards (Part 6), the California Green Building Standards Code (CALGreen, Part 11), structural requirements including seismic provisions (Part 2), and accessibility standards (Part 2, Chapter 11B). The California Coastal Commission has jurisdiction over projects within the coastal zone. CEQA (California Environmental Quality Act) adds environmental review requirements to many projects. Seismic design requirements are the most stringent in the country, with the state\'s fault systems creating design categories that demand sophisticated structural coordination. Local jurisdictions may adopt additional requirements beyond the statewide code.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Traffic congestion in the Los Angeles basin is the primary daily risk for California firms. The I-710, I-405, and I-10 corridors in Southern California produce extraordinarily high accident frequency due to the combination of heavy design traffic and dense passenger vehicle volumes. Rear-end collisions in stop-and-go traffic are the most common claim type.\n\nWildfires create seasonal road closures and air quality hazards, particularly along mountain passes and in Northern California. The Grapevine section of I-5 through the Tehachapi Mountains features steep grades and is frequently closed by snow and ice in winter. Earthquake risk adds a catastrophic exposure that is unique among major architecture states. Cargo theft in Southern California is among the highest in the nation, concentrated around the ports and Inland Empire warehouse districts."
+        heading: 'Risk Factors',
+        content: 'Seismic risk is the defining professional liability consideration for California architects. Errors in lateral force calculations, soft-story retrofit specifications, or foundation anchorage can generate claims reaching into the millions. Wildfire risk in the urban-wildland interface zones affects design requirements for fire-resistant construction. California\'s ten-year statute of repose for construction defects, combined with warranty assignability and an aggressive plaintiff bar, creates one of the most demanding litigation environments in the country. The housing crisis and policy responses including ADU legislation and density bonus programs create new project types with evolving regulatory requirements. Moisture management is critical in the Pacific Northwest coast region, while desert heat challenges affect inland markets.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher, with many shippers requiring $2,000,000 or more for California operations",
-          "Umbrella or excess liability given California's consistently high verdict environment",
-          "Motor design cargo insurance with theft coverage and higher limits for high-value port design",
-          "Physical damage with comprehensive wildfire and earthquake coverage",
-          "Pollution liability for firms hauling hazmat through California's strictly regulated environment",
-          "Workers compensation compliant with California's employer-friendly regulatory framework"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting California\'s seismic design exposure and litigation environment',
+          'General liability for construction administration across diverse project types',
+          'Cyber liability for protecting design documents and client data',
+          'Employment practices liability given California\'s strict labor laws',
+          'Umbrella or excess liability given California\'s plaintiff-friendly construction defect environment'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is architecture insurance so expensive in California?",
-        "a": "California premiums reflect the state's dense traffic and high accident frequency, a litigation environment that produces some of the largest verdicts in the nation, strict CARB emissions and safety regulations, high vehicle repair and medical costs, and elevated cargo theft rates. The combination of these factors makes California consistently the most expensive state for architecture insurance."
-      },
-      {
-        "q": "How does AB5 affect architecture insurance in California?",
-        "a": "AB5 reclassified many owner-operators as employees rather than independent contractors. This affects insurance structures because firms who use owner-operators as employees must provide workers compensation coverage and include those drivers under the company's commercial auto policy rather than requiring them to carry their own coverage. The ongoing legal challenges to AB5 in the architecture context mean firms should consult with both legal counsel and their insurance broker."
-      },
-      {
-        "q": "What insurance do I need for port drayage in California?",
-        "a": "Port drayage operations require primary auto liability, motor design cargo insurance with container coverage, and physical damage coverage. Many port terminals and BCOs require minimum liability limits of $1,000,000 or more. Pollution liability may be required for hazmat containers. Drayage firms must also comply with CARB design and equipment regulations to maintain port access."
-      }
+    faqs: [
+      { q: 'How does California\'s construction defect law affect architecture insurance?', a: 'California\'s combination of a ten-year statute of repose, warranty assignability, and an aggressive plaintiff bar creates the most demanding construction defect environment in the country. Condominium projects are particularly exposed. Professional liability premiums in California reflect this legal environment.' },
+      { q: 'What is Title 24, and how does it affect architects?', a: 'Title 24 is California\'s building standards code, encompassing energy efficiency, green building, structural, and accessibility requirements. Parts 6 (energy) and 11 (CALGreen) add compliance obligations beyond what architects face in most other states. Non-compliance creates both code violation and professional liability exposure.' },
+      { q: 'Does California require professional liability insurance for architects?', a: 'California does not mandate E&O insurance by statute, but the CAB requires architects to disclose on their license renewal whether they carry professional liability insurance. This disclosure is public information. The overwhelming majority of commercial and institutional clients require proof of coverage as a contract condition.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "cyber-liability",
-      "umbrella-excess",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess']
   },
   {
-    "slug": "colorado",
-    "name": "Colorado",
-    "abbreviation": "CO",
-    "metaTitle": "Architecture Insurance in Colorado",
-    "metaDescription": "Commercial architecture insurance for Colorado firms. Coverage for I-70 mountain corridor operations, Front Range design, and high-altitude driving risks.",
-    "heroHeading": "Colorado Architecture Insurance",
-    "heroSubheading": "Coverage for firms navigating the Rockies and the Front Range design market.",
-    "overview": "Colorado presents a unique combination of high-altitude mountain driving, rapidly growing Front Range urban design demand, and critical east-west interstate corridors. I-70 through the Rocky Mountains is one of the most challenging design routes in the country, while I-25 along the Front Range connects a booming distribution market from Fort Collins through Denver to Pueblo. Colorado's growing population and expanding e-commerce fulfillment sector continue to drive architecture demand higher.",
-    "sections": [
+    slug: 'colorado',
+    name: 'Colorado',
+    abbreviation: 'CO',
+    metaTitle: 'Architecture Insurance in Colorado',
+    metaDescription: 'Architecture insurance for Colorado firms. Coverage for high-altitude design, construction defect exposure, and the booming Front Range market.',
+    heroHeading: 'Colorado Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Centennial State.',
+    overview: 'Colorado\'s architecture market is powered by the Front Range corridor from Fort Collins through Denver to Colorado Springs. The state\'s construction defect litigation history, high-altitude climate challenges, and ambitious green building requirements create a professional liability environment that demands careful attention from every architecture firm. Denver, Boulder, and the mountain resort communities collectively support one of the most active design markets in the Mountain West.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Colorado requires interstate firms to meet NCARB financial responsibility standards. The Colorado Public Utilities Commission regulates intrastate for-hire firms and requires liability coverage minimums of $750,000 for vehicles over 26,001 pounds. The PUC also requires cargo insurance for for-hire firms transporting property.\n\nColorado uses a modified comparative fault system with a 50 percent threshold. The state has seen a significant increase in architecture litigation severity, particularly in the Denver metro area. High-profile mountain corridor accidents, including the 2019 I-70 runaway design incident in Lakewood that resulted in a 110-year prison sentence before it was commuted, have heightened public awareness and potentially influenced jury attitudes toward architecture defendants."
+        heading: 'Licensure Requirements',
+        content: 'The Colorado State Board of Licensure for Architects, Professional Engineers, and Professional Land Surveyors oversees architect registration. Colorado requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Colorado does not require continuing education for license renewal, making it one of the few states without a mandatory CE requirement. However, architects are expected to maintain professional competency, and many voluntarily pursue continuing education through AIA Colorado and other providers.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-70 is Colorado's critical east-west corridor, crossing the Continental Divide through the Eisenhower Tunnel at over 11,000 feet. West of Denver, I-70 features steep grades, sharp curves, and chain law requirements that make it one of the most operationally challenging design routes in North America. I-25 runs north-south along the Front Range through Fort Collins, Denver, Colorado Springs, and Pueblo, carrying the bulk of the state's regional design.\n\nDenver has emerged as a major distribution hub, with significant warehouse and fulfillment center development in the Commerce City, Aurora, and Brighton areas. I-76 connects Denver to the Nebraska border and the agricultural plains of northeastern Colorado. US-50 and US-160 serve western and southern Colorado's energy, mining, and agricultural sectors. The state's growing renewable energy industry is creating new demand for oversize and specialized hauling."
+        heading: 'Building Code Framework',
+        content: 'Colorado does not have a statewide building code for all building types. Jurisdictions adopt codes locally, with most referencing the IBC with local amendments. Denver, Boulder, and Fort Collins have adopted aggressive green building and energy code requirements that exceed standard ICC provisions. Denver\'s Green Code and electrification requirements are among the most stringent in the Mountain West. High-altitude design considerations including UV radiation, snow loads, and wide diurnal temperature swings affect building performance throughout the state. Mountain communities adopt additional requirements for wildfire-resistant construction and snow load design.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Mountain driving on I-70 west of Denver is the defining risk for Colorado design practices. Steep downgrades, particularly the 7 percent grade on the east side of the Eisenhower Tunnel and the descent into Idaho Springs, have produced numerous runaway design incidents. Winter conditions bring chain requirements, road closures, and avalanche control operations that can strand equipment for hours.\n\nThe Front Range is susceptible to sudden severe thunderstorms with large hail from April through August, causing significant vehicle and cargo damage. Winter blizzards can close I-25 and I-70 for extended periods. High altitude affects engine performance and braking systems, particularly for firms not equipped for mountain operations. The rapid growth of Denver-area traffic has increased congestion-related accident frequency along the I-25 and I-70 interchange area."
+        heading: 'Risk Factors',
+        content: 'Colorado\'s construction defect litigation environment has been a primary concern for the architecture and construction industry. Legislative reforms have addressed some condominium defect claim abuses, but the legal landscape remains complex. The high-altitude climate creates intense UV radiation, extreme temperature swings, heavy snow loads, and low humidity that challenge building envelope and roofing system performance. Wildfire risk in the foothills and mountain communities has intensified, creating fire-resistant design obligations. Colorado follows a comparative fault standard with a six-year statute of repose plus a two-year discovery rule for construction defect claims.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with elevated limits given mountain corridor accident severity",
-          "Physical damage coverage with hail and winter storm protection",
-          "Motor design cargo insurance with delay coverage for weather-related road closures",
-          "Towing and recovery coverage with higher limits for mountain recovery operations",
-          "Excess liability to protect against high-severity mountain accident claims"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting Colorado construction defect exposure',
+          'General liability for construction administration across urban and mountain projects',
+          'Cyber liability for protecting design documents and client data',
+          'Workers compensation for firm employees',
+          'Professional liability addressing green building compliance and high-altitude design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Does Colorado have special insurance requirements for mountain corridor operations?",
-        "a": "Colorado does not impose separate insurance requirements for mountain routes, but the PUC requires adequate coverage for all routes operated. Carriers running I-70 through the mountains should ensure their policies do not exclude high-altitude or chain-law routes and should carry elevated towing and recovery limits given the extreme cost of mountain recoveries."
-      },
-      {
-        "q": "How does Colorado's chain law affect architecture insurance?",
-        "a": "Colorado's chain law requires commercial vehicles to carry and use chains or approved traction devices on I-70 in the mountains during winter conditions. Failure to comply can result in fines and, if an accident occurs, can complicate insurance claims. Carriers should ensure drivers are trained on chain installation and that policies cover chain-related vehicle damage."
-      },
-      {
-        "q": "What makes Denver a growing design market?",
-        "a": "Denver's central location, growing population, and expanding e-commerce sector have attracted major distribution center investments from national retailers and logistics companies. The city's position as a gateway between the Midwest and West Coast markets makes it a natural hub. This growth has increased demand for architecture insurance in the Front Range region."
-      }
+    faqs: [
+      { q: 'How does Colorado\'s construction defect law affect architecture insurance?', a: 'Colorado has experienced significant construction defect litigation, particularly around condominium projects. Legislative reforms have provided some relief, but architects remain exposed. Insurers price Colorado professional liability with this litigation history in mind, and firms should carry limits that reflect the ongoing exposure.' },
+      { q: 'Does Colorado require continuing education for architects?', a: 'Colorado is one of the few states that does not require continuing education for architect license renewal. However, maintaining professional competency is an ethical obligation, and most Colorado architects pursue CE voluntarily. AIA Colorado offers extensive programming.' },
+      { q: 'What wildfire design requirements affect Colorado architects?', a: 'Mountain and foothill communities increasingly require fire-resistant construction including ignition-resistant materials, defensible space, and ember-resistant assemblies. The 2021 Marshall Fire in Boulder County intensified focus on wildfire-resistant design in the Front Range.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "connecticut",
-    "name": "Connecticut",
-    "abbreviation": "CT",
-    "metaTitle": "Architecture Insurance in Connecticut",
-    "metaDescription": "Commercial architecture insurance for Connecticut firms. Coverage for I-95 Northeast Corridor operations, New England distribution.",
-    "heroHeading": "Connecticut Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating in the Northeast's critical design corridor.",
-    "overview": "Connecticut occupies a strategic position in the Northeast design network, with I-95 carrying enormous design volumes between New York City and Boston through the state. The tight urban and suburban geography, aging infrastructure, and heavy traffic density create a challenging operating environment. Connecticut's high cost of living translates to elevated repair costs, medical expenses, and litigation values that drive insurance premiums above the national average.",
-    "sections": [
+    slug: 'connecticut',
+    name: 'Connecticut',
+    abbreviation: 'CT',
+    metaTitle: 'Architecture Insurance in Connecticut',
+    metaDescription: 'Architecture insurance for Connecticut firms. Coverage for design practices in the Constitution State\'s institutional and residential markets.',
+    heroHeading: 'Connecticut Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing across the Constitution State.',
+    overview: 'Connecticut supports an architecture market driven by prestigious educational institutions, healthcare systems, financial services corporate facilities, and a historic residential building stock that generates significant renovation and preservation work. The state\'s position between New York and Boston creates a high-cost market where project values and professional liability exposure tend to exceed national averages.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Connecticut requires interstate firms to maintain NCARB-mandated financial responsibility coverage. The Connecticut Department of Motor Vehicles oversees intrastate carrier registration and requires proof of liability insurance. Connecticut's minimum liability requirements for commercial vehicles align with federal standards for heavy trucks.\n\nConnecticut follows a modified comparative fault system with a 51 percent bar. The state's courts have historically produced moderate to high verdicts in architecture cases, and the dense population means accidents frequently involve multiple vehicles and claimants. Connecticut also requires commercial vehicles to carry uninsured and underinsured motorist coverage, adding to policy costs."
+        heading: 'Licensure Requirements',
+        content: 'The Connecticut Board of Examiners for Architects oversees licensure under the Department of Consumer Protection. Connecticut requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education is not currently mandated by the state for license renewal, though many Connecticut architects pursue CE through AIA Connecticut and NCARB programs voluntarily.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 runs through the southern portion of Connecticut from the New York border through Stamford, Bridgeport, New Haven, and on to the Rhode Island line. It is the backbone of Northeast Corridor design movement and one of the most congested design routes in the country. I-91 runs north-south through Hartford and the Connecticut River Valley, connecting to Springfield and points north in Massachusetts. I-84 crosses the state from Danbury through Hartford to the Massachusetts border.\n\nThe Hartford area serves as a regional distribution point, with several major logistics facilities along the I-91 corridor. The Port of New Haven handles petroleum products, building materials, and other bulk cargo. Bridgeport and Stamford's proximity to New York City generates significant last-mile and regional delivery demand. Connecticut's Merritt Parkway prohibits commercial vehicles, funneling all design traffic onto I-95 and increasing congestion."
+        heading: 'Building Code Framework',
+        content: 'Connecticut adopts the State Building Code based on the IBC with Connecticut-specific amendments. The Office of the State Building Inspector oversees code adoption and enforcement. Connecticut\'s coastal construction requirements address hurricane wind loads and flood zone design along Long Island Sound. The state\'s historic building stock creates frequent interactions between building code requirements and historic preservation standards. Energy code requirements follow the IECC with state amendments that push toward higher performance standards.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "I-95 congestion is the dominant risk factor, with stop-and-go traffic producing high rates of rear-end collisions and multi-vehicle accidents. The aging infrastructure includes narrow lane widths, limited shoulders, and structurally deficient bridges that restrict design movements. The Gold Star Memorial Bridge over the Thames River and the Q Bridge in New Haven are persistent bottleneck points.\n\nNor'easters and winter storms bring heavy snow and ice that shut down highways and create treacherous driving conditions. Connecticut's proximity to the coast exposes firms to coastal flooding and occasional hurricane impacts. The state's dense population means even minor design accidents frequently involve pedestrians, cyclists, or multiple passenger vehicles, increasing claim complexity and costs."
+        heading: 'Risk Factors',
+        content: 'Connecticut\'s high cost of living and construction costs drive up project values and professional liability exposure. Coastal properties along Long Island Sound face hurricane and nor\'easter wind loads that require enhanced structural design. The state\'s dense older building stock creates renovation challenges including asbestos, lead paint, and structural deterioration. Connecticut follows a modified comparative negligence standard and has a seven-year statute of repose for construction defect claims. The concentration of wealthy residential clients increases the potential for high-value claims when design issues arise in custom home and renovation projects.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given the density of multi-vehicle accidents on I-95",
-          "Uninsured and underinsured motorist coverage as required by Connecticut law",
-          "Physical damage with winter storm and flood coverage for coastal operations",
-          "Motor design cargo insurance for high-value retail and consumer goods distribution",
-          "Excess liability for firms regularly operating in the New York and Boston metro areas"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting high Connecticut project values',
+          'General liability for construction administration on institutional and residential projects',
+          'Cyber liability for protecting client data in financial services and institutional sectors',
+          'Workers compensation for firm employees',
+          'Professional liability for coastal and historic renovation design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Does Connecticut require uninsured motorist coverage for commercial trucks?",
-        "a": "Yes, Connecticut requires uninsured and underinsured motorist coverage on commercial vehicle policies. This is one of a relatively small number of states that mandate this coverage for commercial vehicles, and it adds to overall policy costs but provides important protection on heavily trafficked corridors where uninsured drivers are present."
-      },
-      {
-        "q": "How does I-95 congestion affect architecture insurance costs in Connecticut?",
-        "a": "The extreme congestion on I-95 through Connecticut produces high accident frequency, which directly impacts loss ratios and premium calculations. Carriers operating primarily on I-95 through the Stamford-to-New Haven corridor typically face higher rates than those operating on less congested routes within the state."
-      },
-      {
-        "q": "Are there design restrictions on Connecticut highways?",
-        "a": "Yes, the Merritt Parkway and several other Connecticut roads prohibit commercial vehicles, concentrating design traffic on I-95 and other designated routes. Weight and height restrictions on certain bridges and overpasses also affect routing. Carriers should ensure drivers are familiar with these restrictions to avoid violations and infrastructure damage claims."
-      }
+    faqs: [
+      { q: 'What is Connecticut\'s statute of repose for architecture claims?', a: 'Connecticut has a seven-year statute of repose for construction defect claims. Architects face potential liability for up to seven years after substantial completion, making it important to maintain coverage through this period.' },
+      { q: 'How does Connecticut\'s coastal location affect architecture insurance?', a: 'Long Island Sound exposure creates hurricane and nor\'easter wind load requirements. Architects must design to enhanced wind-resistance standards for coastal properties, and errors in wind load design can generate significant claims after major storms.' },
+      { q: 'What institutional clients drive Connecticut architecture demand?', a: 'Yale, UConn, Wesleyan, Trinity, and other universities, along with major healthcare systems and financial services companies, generate substantial institutional design demand. These clients typically require high professional liability limits as a contract condition.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "delaware",
-    "name": "Delaware",
-    "abbreviation": "DE",
-    "metaTitle": "Architecture Insurance in Delaware",
-    "metaDescription": "Commercial architecture insurance for Delaware firms. Coverage for I-95 corridor, Port of Wilmington design, and Mid-Atlantic regional distribution operations.",
-    "heroHeading": "Delaware Architecture Insurance",
-    "heroSubheading": "Coverage for firms in the Mid-Atlantic's strategic small-state design hub.",
-    "overview": "Despite its small size, Delaware plays an outsized role in Mid-Atlantic design movement. I-95 carries heavy design traffic through the state between the Baltimore-Washington metro and the Philadelphia-New Jersey corridor. The Port of Wilmington is a major import point for fresh fruit, juice concentrate, and automobiles. Delaware's business-friendly corporate environment and lack of sales tax attract distribution operations that generate steady architecture demand.",
-    "sections": [
+    slug: 'delaware',
+    name: 'Delaware',
+    abbreviation: 'DE',
+    metaTitle: 'Architecture Insurance in Delaware',
+    metaDescription: 'Architecture insurance for Delaware firms. Coverage for design practices in the First State\'s corporate, institutional, and coastal markets.',
+    heroHeading: 'Delaware Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the First State.',
+    overview: 'Delaware\'s small size belies a sophisticated architecture market shaped by corporate headquarters attracted by the state\'s business-friendly legal environment, the University of Delaware, healthcare systems, and beach community development along the Atlantic coast. Wilmington\'s proximity to Philadelphia creates a connected regional design market.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Delaware requires interstate firms to maintain NCARB financial responsibility coverage. The Delaware Department of Transportation oversees commercial vehicle operations within the state. Delaware's minimum auto liability limits for commercial vehicles follow federal standards for firms operating under USDOT authority.\n\nDelaware uses a modified comparative fault system with a 51 percent bar. The state's small geography means that most architecture accidents occurring in Delaware are litigated in a limited number of courts, primarily in New Castle County, which handles the majority of the state's commercial vehicle accident cases. Verdict trends have been moderate compared to neighboring Pennsylvania and New Jersey."
+        heading: 'Licensure Requirements',
+        content: 'The Delaware Board of Architects oversees licensure under the Division of Professional Regulation. Delaware requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education is required, with 24 hours biennially for license renewal. Delaware\'s compact size means many firms also maintain licenses in neighboring Maryland and Pennsylvania.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 passes through the northern tip of Delaware, crossing the Delaware Memorial Bridge into New Jersey and running through Wilmington. This short stretch carries some of the highest design volumes on the East Coast. I-495 provides a bypass around Wilmington for through traffic. US-13 runs the length of the Delmarva Peninsula through Dover and southern Delaware, carrying agricultural and poultry design.\n\nThe Port of Wilmington, operated by GT USA Wilmington, specializes in fresh fruit imports, juice concentrate, and roll-on roll-off automobile cargo. The port's proximity to I-95 makes it an efficient distribution point for the entire Northeast. Dover and southern Delaware serve the poultry industry, with processing plants from Perdue and Mountaire generating design traffic on US-13 and connecting routes. The Delaware Turnpike (I-95) connects to the New Jersey Turnpike, creating a continuous toll corridor."
+        heading: 'Building Code Framework',
+        content: 'Delaware adopts the International Building Code through the Delaware State Fire Prevention Commission. Local jurisdictions enforce the state code with limited local amendments. Delaware\'s Atlantic coast communities fall within hurricane wind-speed zones requiring enhanced design. Flood zone requirements along the coast and tidal waterways affect elevation and construction specifications. The state\'s proximity to the Chesapeake Bay watershed influences stormwater management requirements.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "The concentrated design traffic on I-95 through New Castle County creates high accident frequency in a very short corridor. The Delaware Memorial Bridge is a major bottleneck that produces congestion-related incidents. Toll plaza approaches on the Delaware Turnpike are high-risk zones for rear-end collisions.\n\nCoastal storms and nor'easters bring flooding to low-lying areas of southern Delaware and can impact port operations in Wilmington. Fog along the Delaware River and Bay creates visibility hazards during fall and spring months. The small state geography means Delaware firms frequently operate across state lines into Pennsylvania, New Jersey, and Maryland, requiring policies that reflect multi-state exposure."
+        heading: 'Risk Factors',
+        content: 'Delaware\'s coastal communities face hurricane and nor\'easter exposure requiring wind-resistant and flood-resistant design. The state\'s corporate concentration creates clients with sophisticated legal resources. Delaware follows a modified comparative negligence standard. The state\'s small size means a limited pool of local experts and jurors who may be familiar with construction issues. Sea-level rise is an escalating concern for coastal projects. The I-95 corridor through Wilmington creates dense urban design challenges.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability reflecting multi-state operations in the high-cost Philadelphia-Baltimore corridor",
-          "Physical damage with flood coverage for coastal and river-adjacent operations",
-          "Motor design cargo insurance for perishable design from the Port of Wilmington",
-          "General liability for firms with warehouse and transloading operations",
-          "Umbrella liability for exposure to Pennsylvania and New Jersey litigation venues"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for corporate, institutional, and coastal design',
+          'General liability for construction administration',
+          'Cyber liability for corporate client data protection',
+          'Workers compensation for firm employees',
+          'Professional liability addressing coastal flood and wind design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "How does Delaware's small size affect architecture insurance?",
-        "a": "Delaware's compact geography means firms based in the state almost always operate across state lines, exposing them to the insurance requirements and litigation environments of neighboring Pennsylvania, New Jersey, and Maryland. Policies should be structured to cover multi-state operations, and rates often reflect the higher-cost neighboring jurisdictions."
-      },
-      {
-        "q": "What insurance do Port of Wilmington drayage firms need?",
-        "a": "Port drayage firms need primary auto liability, motor design cargo insurance covering containerized design, and physical damage coverage. Refrigerated cargo coverage with temperature deviation endorsements is important given the port's focus on fresh fruit imports. Many shipping lines require minimum liability limits of $1,000,000 for port access."
-      },
-      {
-        "q": "Does Delaware have tolls that affect design practices?",
-        "a": "Yes, the Delaware Turnpike (I-95) charges tolls for commercial vehicles, and the Delaware Memorial Bridge toll adds costs for cross-river operations. While tolls do not directly affect insurance requirements, the congestion around toll plazas increases accident frequency and should be factored into risk management planning."
-      }
+    faqs: [
+      { q: 'What continuing education does Delaware require?', a: 'Delaware requires 24 hours of continuing education biennially for architect license renewal. Programs must include health, safety, and welfare content. The board accepts AIA and NCARB-approved programs.' },
+      { q: 'How does Delaware\'s corporate environment affect architecture?', a: 'Many corporations incorporate in Delaware and some maintain significant physical facilities there. These corporate clients often require high professional liability limits and sophisticated contract terms, reflecting their legal sophistication.' },
+      { q: 'Do Delaware firms need licenses in neighboring states?', a: 'Firms working across the Delaware-Maryland-Pennsylvania tri-state area typically need licenses in each state. All participate in NCARB reciprocity, but each maintains separate registration and CE requirements.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "general-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "florida",
-    "name": "Florida",
-    "abbreviation": "FL",
-    "metaTitle": "Architecture Insurance in Florida",
-    "metaDescription": "Commercial architecture insurance for Florida firms. Coverage for I-95 and I-75 corridors, port design, hurricane exposure.",
-    "heroHeading": "Florida Architecture Insurance",
-    "heroSubheading": "Coverage for firms in one of America's most demanding architecture insurance markets.",
-    "overview": "Florida is one of the most challenging states for architecture insurance due to the combination of severe weather exposure, dense urban traffic, a plaintiff-friendly litigation environment, and the sheer volume of design moving through the state. Multiple deep-water ports, a massive consumer economy, and the state's position as a gateway for Latin American trade generate enormous architecture demand. Insurance costs in Florida consistently rank among the highest in the nation.",
-    "sections": [
+    slug: 'florida',
+    name: 'Florida',
+    abbreviation: 'FL',
+    metaTitle: 'Architecture Insurance in Florida',
+    metaDescription: 'Architecture insurance for Florida firms. Coverage for hurricane-zone design, High Velocity Hurricane Zone requirements, and the Sunshine State\'s booming market.',
+    heroHeading: 'Florida Architecture Insurance',
+    heroSubheading: 'Coverage for firms in one of the nation\'s most demanding design environments.',
+    overview: 'Florida is one of the largest and most complex architecture insurance markets in the country. The combination of the Florida Building Code\'s stringent wind-resistance requirements, High Velocity Hurricane Zone standards in Miami-Dade and Broward counties, the state\'s no-fault legal framework, and one of the most litigious construction environments in the nation creates professional liability exposure that demands robust coverage and careful risk management.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Florida requires interstate firms to maintain NCARB financial responsibility minimums. The Florida Department of Transportation requires intrastate firms to register and maintain liability coverage. Florida is a no-fault state for personal auto insurance, but commercial vehicle liability claims are handled on a fault basis, with pure comparative negligence applying to architecture accident cases.\n\nFlorida's litigation environment is widely considered one of the most plaintiff-friendly in the country. The state has been ground zero for nuclear verdicts in architecture cases, with several jury awards exceeding $100 million in recent years. Third-party litigation financing and aggressive personal injury attorney advertising contribute to a claims environment that demands robust liability limits and proactive risk management."
+        heading: 'Licensure Requirements',
+        content: 'The Florida Board of Architecture and Interior Design oversees licensure under the Department of Business and Professional Regulation. Florida requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially, with specific mandates for courses on the Florida Building Code, Florida laws and rules, and advanced building code topics. Florida is one of the few states that requires specific coursework on its own building code as a condition of renewal.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 runs the full length of Florida's Atlantic coast from Jacksonville through Daytona Beach, the Space Coast, Fort Lauderdale, and Miami. I-75 enters the state from Georgia, passes through Gainesville and Tampa, then crosses the Everglades via Alligator Alley to connect with Fort Lauderdale and Miami. I-4 connects Tampa to Orlando and Daytona Beach, crossing the center of the state through one of the most dangerous highway stretches in America.\n\nThe Port of Miami, Port Everglades in Fort Lauderdale, and JAXPORT in Jacksonville are major container ports generating drayage demand. Tampa's port focuses on bulk and petroleum products. Orlando's massive tourism economy drives refrigerated food distribution and construction materials hauling. The Florida Turnpike supplements I-95 as a north-south design route. US-27 carries agricultural design through the interior."
+        heading: 'Building Code Framework',
+        content: 'The Florida Building Code (FBC) is one of the most stringent building codes in the United States, particularly for wind resistance. The High Velocity Hurricane Zone (HVHZ) provisions in Miami-Dade and Broward counties impose the most demanding product testing, installation, and inspection requirements in the country. The FBC requires impact-resistant glazing or shutters in wind-borne debris regions. Flood-resistant construction standards incorporate FEMA flood map requirements with Florida-specific enhancements. The Florida Building Commission updates the code on a three-year cycle, requiring architects to track changes constantly. Energy code requirements under the Florida Energy Conservation Code are part of the FBC.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Hurricane season from June through November is the most significant catastrophic risk for Florida design practices. Storms can destroy parked equipment, shut down port operations, and close major highways for days. Even tropical storms bring flooding and wind damage that produce substantial physical damage claims. The state averages the most lightning strikes per square mile in the country, creating an additional weather hazard.\n\nI-4 between Tampa and Orlando is consistently ranked among the most dangerous highways in America for fatal crashes. South Florida's combination of aggressive driving culture, high tourist traffic, and dense urban design operations produces extremely high accident frequency. Cargo theft in the Miami and Fort Lauderdale area is among the worst in the nation, and insurance fraud rings targeting commercial vehicles are a persistent problem in South Florida."
+        heading: 'Risk Factors',
+        content: 'Hurricane exposure is the dominant professional liability risk for Florida architects. Post-hurricane claims investigations identify design deficiencies in wind load calculations, product specifications, and building envelope detailing. The Surfside condominium collapse intensified scrutiny of structural design oversight in high-rise residential projects. Florida is among the most litigious states for construction-related claims, with no caps on professional negligence damages. The state\'s no-fault auto insurance system and high litigation rates contribute to an insurance environment that drives costs. Sea-level rise and chronic tidal flooding affect coastal project design. Florida follows a comparative negligence standard with a four-year statute of limitations for professional negligence and a ten-year statute of repose for construction defects.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 minimum, with many Florida markets requiring $2,000,000 or higher",
-          "Umbrella or excess liability as the most critical coverage given Florida's nuclear verdict environment",
-          "Physical damage with named-storm, flood, and comprehensive wind coverage",
-          "Motor design cargo insurance with theft coverage and higher deductibles in South Florida",
-          "Pollution liability for firms hauling through environmentally sensitive Everglades and coastal areas",
-          "Workers compensation covering heat-related illness and hurricane evacuation scenarios"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting hurricane-zone and high-rise design exposure',
+          'General liability for coastal and high-rise construction administration',
+          'Cyber liability for protecting client data across residential, commercial, and institutional sectors',
+          'Umbrella or excess coverage given Florida\'s litigation environment',
+          'Business interruption coverage for hurricane-related disruptions'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why are Florida architecture insurance premiums so high?",
-        "a": "Florida combines a plaintiff-friendly litigation environment with nuclear verdict exposure, high accident frequency on congested corridors like I-4 and I-95, significant hurricane and flood risk, elevated cargo theft rates in South Florida, and one of the highest rates of insurance fraud in the country. These factors create an extremely challenging underwriting environment that drives premiums well above the national average."
-      },
-      {
-        "q": "How should Florida architecture firms prepare for hurricane season?",
-        "a": "Carriers should develop written hurricane preparedness plans that include equipment relocation protocols, driver safety procedures, and communication plans. Insurance policies should include comprehensive wind and flood coverage without named-storm exclusions. Physical damage policies should cover equipment at any location, not just the terminal address, since firms may need to be relocated inland during storms."
-      },
-      {
-        "q": "What is driving nuclear verdicts in Florida architecture cases?",
-        "a": "Florida's pure comparative negligence standard, strong personal injury attorney presence, third-party litigation financing, and jury attitudes toward commercial architecture firms all contribute. Carriers should invest in dashcam technology, electronic logging compliance, thorough driver screening, and proactive safety programs to create strong defense positions when claims arise."
-      }
+    faqs: [
+      { q: 'How does the Florida Building Code affect architecture insurance?', a: 'The FBC imposes rigorous wind-resistance requirements, and architects bear professional liability for wind load calculations, product specifications, and structural detailing. Post-hurricane claim investigations frequently identify design deficiencies. Florida-specific CE requirements ensure architects maintain code knowledge.' },
+      { q: 'What is the High Velocity Hurricane Zone?', a: 'The HVHZ covers Miami-Dade and Broward counties and imposes the most stringent product testing and installation requirements in the country. Architects in the HVHZ must specify products with Miami-Dade product approvals, not just Florida product approvals, adding compliance complexity and professional liability exposure.' },
+      { q: 'How has the Surfside collapse affected Florida architecture insurance?', a: 'The Surfside tragedy increased insurer scrutiny of structural design oversight, construction administration documentation, and building maintenance recommendations. Firms working on high-rise condominium projects face heightened underwriting review and should demonstrate robust quality control and structural engineering coordination.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "umbrella-excess",
-      "general-liability",
-      "cyber-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess']
   },
   {
-    "slug": "georgia",
-    "name": "Georgia",
-    "abbreviation": "GA",
-    "metaTitle": "Architecture Insurance in Georgia",
-    "metaDescription": "Commercial architecture insurance for Georgia firms. Coverage for Atlanta design hub operations, I-75 and I-85 corridors, and Port of Savannah drayage.",
-    "heroHeading": "Georgia Architecture Insurance",
-    "heroSubheading": "Coverage for firms in the Southeast's largest design hub.",
-    "overview": "Georgia anchors the Southeast design network, with Atlanta serving as one of the nation's most important distribution and intermodal hubs. The Port of Savannah is the fastest-growing container port in the country and the third-busiest overall, generating massive drayage and long-haul demand. Multiple major interstates converge in Georgia, and the state's carrier population has grown significantly to meet rising design volumes. Insurance considerations reflect Atlanta's notorious traffic congestion and a challenging litigation environment.",
-    "sections": [
+    slug: 'georgia',
+    name: 'Georgia',
+    abbreviation: 'GA',
+    metaTitle: 'Architecture Insurance in Georgia',
+    metaDescription: 'Architecture insurance for Georgia firms. Coverage for the Southeast\'s largest design market, centered on Atlanta.',
+    heroHeading: 'Georgia Architecture Insurance',
+    heroSubheading: 'Coverage for firms in the Empire State of the South.',
+    overview: 'Georgia is the Southeast\'s dominant architecture market, with Atlanta serving as the region\'s design capital. The state supports a massive construction industry driven by corporate relocations, healthcare system expansion, university campuses, and the nation\'s fastest-growing port at Savannah. Georgia\'s comparative negligence standard and trending verdict sizes create a professional liability environment that requires adequate coverage limits.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Georgia requires interstate firms to meet NCARB financial responsibility requirements. The Georgia Department of Public Safety, Motor Carrier Compliance Division, oversees intrastate carrier registration and requires proof of liability insurance. Georgia's minimum commercial vehicle liability limits follow federal standards, with $750,000 required for general design firms.\n\nGeorgia uses a modified comparative fault system with a 50 percent bar. The Fulton County and Gwinnett County courts in the Atlanta metro area have produced several notable large verdicts in architecture cases. Georgia's apportionment statute allows juries to consider the fault of all parties, which can benefit firms in multi-vehicle accident cases but has not prevented a trend toward increasing verdict severity in the Atlanta market."
+        heading: 'Licensure Requirements',
+        content: 'The Georgia Board of Architects and Interior Designers oversees licensure under the Secretary of State\'s office. Georgia requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education is required, with 24 hours biennially including health, safety, and welfare content. Georgia Tech\'s College of Design is the state\'s premier architecture program and a significant source of design talent for the Atlanta market.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-75 runs north-south through the center of Georgia from Chattanooga through Atlanta to Valdosta and the Florida border. I-85 enters from South Carolina, passes through Atlanta, and continues southwest to the Alabama border. These two interstates merge in downtown Atlanta to form the Downtown Connector, one of the most congested design corridors in the Southeast. I-20 crosses the state east-west through Atlanta, connecting Augusta to Birmingham.\n\nI-16 connects Savannah to Macon, serving as the primary route for Port of Savannah container traffic moving inland. I-95 runs along the coast through Savannah and Brunswick. The Port of Savannah handled over 5.5 million TEUs in recent years and has expanded its inland port operations in Cordele and northeast Georgia to distribute port design deeper into the state. Atlanta's Hartsfield-Jackson airport area is a major air cargo to design transshipment point."
+        heading: 'Building Code Framework',
+        content: 'Georgia adopts the International Building Code as the Georgia State Minimum Standard Codes through the Department of Community Affairs. Local jurisdictions enforce the state codes with limited authority for local amendments. The Georgia coast falls within hurricane wind-speed zones. Atlanta and other inland areas face tornado and severe thunderstorm design considerations. Georgia\'s energy code follows the IECC with state amendments. The state\'s rapid growth has led some jurisdictions to adopt additional development standards beyond the minimum codes.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Atlanta traffic congestion is the dominant risk factor, with the I-75/I-85 Downtown Connector and the I-285 perimeter loop generating extremely high accident frequency. The Spaghetti Junction interchange where I-85 meets I-285 is one of the most complex and dangerous interchanges for design traffic in the Southeast. Rush hour congestion extends for hours and miles beyond the city center.\n\nSevere thunderstorms with tornadoes and hail affect Georgia from March through June. Tropical storms moving inland from the Gulf or Atlantic can bring heavy flooding, particularly in southern Georgia. Fog is a significant hazard in the coastal plain and along I-16 between Macon and Savannah. The rapid growth of the Port of Savannah has increased design traffic on I-16 and I-95, routes that were not originally designed for current volume levels."
+        heading: 'Risk Factors',
+        content: 'Georgia\'s clay soils, particularly the red clay prevalent in the Piedmont region, create foundation design challenges that generate construction defect claims. Hot, humid summers challenge building envelope performance and drive moisture intrusion claims. Atlanta\'s aggressive construction timelines pressure architects to deliver documents quickly, increasing error risk. Georgia follows a modified comparative negligence standard with a 50% bar and an eight-year statute of repose for construction defect claims. Verdict trends in Georgia, particularly in Atlanta-area courts, have been increasing, making adequate coverage limits essential.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher for Atlanta metro operations",
-          "Umbrella or excess liability to protect against Fulton County verdict exposure",
-          "Motor design cargo insurance for containerized design from the Port of Savannah",
-          "Physical damage with hail and flood coverage for severe weather events",
-          "Non-architecture liability for the large owner-operator population serving Atlanta distribution centers"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting Atlanta\'s large project values and verdict trends',
+          'General liability for construction administration across the metro and state',
+          'Cyber liability for protecting corporate and institutional client data',
+          'Workers compensation for firm employees',
+          'Umbrella coverage given Georgia verdict trends in professional negligence cases'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "What insurance do I need for Port of Savannah drayage?",
-        "a": "Port drayage firms need primary auto liability at $1,000,000 minimum, motor design cargo insurance for containerized design, physical damage coverage, and often a MCS-90 endorsement. The Georgia Ports Authority and most shipping lines require specific certificate of insurance language. Overweight container permits for I-16 operations may require additional coverage verification."
-      },
-      {
-        "q": "How does Atlanta traffic affect architecture insurance rates?",
-        "a": "Carriers operating primarily in the Atlanta metro area face higher premiums due to the extremely high accident frequency on I-75, I-85, and I-285. Insurers evaluate the percentage of operations in the Atlanta metro when rating policies. Carriers with GPS data showing primarily rural or non-Atlanta routes may qualify for better rates."
-      },
-      {
-        "q": "Is Georgia a high-risk state for architecture litigation?",
-        "a": "Georgia has seen increasing architecture verdict severity, particularly in the Atlanta metro courts. Fulton County has produced several large architecture verdicts, and the trend is accelerating. Carriers should maintain liability limits of at least $1,000,000 and carry excess or umbrella coverage. Dashcam footage and electronic logging compliance are essential defense tools."
-      }
+    faqs: [
+      { q: 'What is Georgia\'s statute of repose for architecture claims?', a: 'Georgia has an eight-year statute of repose for construction defect claims. Architects face potential claims for up to eight years after substantial completion. Maintaining professional liability coverage through this period is essential.' },
+      { q: 'How do Georgia\'s clay soils affect architecture insurance?', a: 'Red clay soils expand and contract with moisture changes, causing foundation movement, structural cracking, and drainage problems. Foundation-related claims are among the most common construction defect allegations in Georgia. Architects should document geotechnical recommendations and foundation design decisions thoroughly.' },
+      { q: 'Does Georgia require professional liability insurance?', a: 'Georgia does not mandate E&O insurance by statute. However, most institutional, commercial, and government clients require proof of coverage. The state\'s litigation environment makes professional liability insurance essential for any firm of meaningful size.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "umbrella-excess",
-      "cyber-liability",
-      "general-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess']
   },
   {
-    "slug": "hawaii",
-    "name": "Hawaii",
-    "abbreviation": "HI",
-    "metaTitle": "Architecture Insurance in Hawaii",
-    "metaDescription": "Commercial architecture insurance for Hawaii firms. Coverage for island design operations, port drayage, and the unique challenges of insular architecture markets.",
-    "heroHeading": "Hawaii Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating in the nation's most isolated design market.",
-    "overview": "Architecture in Hawaii operates under fundamentally different conditions than the mainland. All design enters the islands by ship or air, making port drayage and local distribution the core of the architecture market. Operations are confined to individual islands with limited highway networks, short haul distances, and unique regulatory requirements. The isolated insurance market and high cost of vehicle repair and replacement contribute to elevated premiums relative to haul distances.",
-    "sections": [
+    slug: 'hawaii',
+    name: 'Hawaii',
+    abbreviation: 'HI',
+    metaTitle: 'Architecture Insurance in Hawaii',
+    metaDescription: 'Architecture insurance for Hawaii firms. Coverage for tropical climate design, volcanic considerations, and island practice.',
+    heroHeading: 'Hawaii Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Aloha State.',
+    overview: 'Hawaii\'s architecture market is shaped by its island geography, tropical climate, volcanic geology, and tourism-driven economy. The state\'s isolation increases construction costs significantly, and the limited land supply combined with strong environmental regulations creates a high-stakes design environment where errors can be exceptionally costly.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Hawaii requires commercial design firms to maintain liability insurance meeting both federal NCARB standards for any interstate authority and state requirements for intrastate operations. The Hawaii Public Utilities Commission regulates for-hire design firms and requires a Certificate of Public Convenience and Necessity along with proof of insurance.\n\nHawaii uses a modified comparative fault system with a 51 percent bar. The state's small, tight-knit communities and limited number of trial courts mean that architecture cases are handled by judges and juries who may have strong local perspectives. Repair costs and medical expenses in Hawaii significantly exceed mainland averages due to the cost of shipping parts and the limited supply of medical specialists."
+        heading: 'Licensure Requirements',
+        content: 'The Hawaii Board of Professional Engineers, Architects, Surveyors, and Landscape Architects oversees licensure. Hawaii requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education is not currently mandated by the state for license renewal. Hawaii\'s isolation means many projects are designed by both local and mainland firms, often in collaboration.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "Oahu carries the majority of Hawaii's design traffic, with H-1 connecting Pearl Harbor and the Port of Honolulu to Waikiki and eastern Honolulu. H-2 runs from Wahiawa to Pearl City, and H-3 connects Kaneohe to the H-1 corridor. The Port of Honolulu is the primary receiving point for containerized consumer goods entering the state.\n\nOn the Big Island, the Hawaii Belt Road (Route 19 and Route 11) circles the island and carries agricultural, construction, and tourism-related design. Maui's Hana Highway and Haleakala Highway serve the island's resorts and agricultural operations. Kahului Harbor on Maui and Nawiliwili Harbor on Kauai are secondary ports receiving inter-island barge shipments. Young Brothers operates the inter-island barge service that feeds local design practices on each island."
+        heading: 'Building Code Framework',
+        content: 'Hawaii adopts the International Building Code with significant state amendments addressing hurricane wind loads, volcanic hazards, and tropical construction. Hawaii\'s wind-speed zones require enhanced structural design for hurricane resistance throughout the islands. Volcanic hazard zones on the Big Island create unique design requirements including lava flow considerations and volcanic fog (vog) resistance. Salt-air corrosion affects material specifications for all island projects. Energy code requirements emphasize cooling efficiency and natural ventilation in the tropical climate.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Volcanic activity on the Big Island creates road closures, air quality hazards, and infrastructure damage. The 2018 Kilauea eruption destroyed roads and isolated communities, disrupting design operations for months. Tropical storms and hurricanes are periodic threats, though less frequent than on the mainland Gulf Coast. Heavy rainfall and flash flooding are common, particularly on windward coasts.\n\nNarrow, winding roads with steep grades and limited shoulders characterize much of Hawaii's rural highway network. Tourist traffic on scenic routes creates congestion and accident risk. Salt air corrosion accelerates vehicle deterioration, increasing physical damage claim frequency. The limited availability of replacement vehicles and parts means downtime from accidents or breakdowns is significantly longer than on the mainland."
+        heading: 'Risk Factors',
+        content: 'Hawaii\'s isolation increases all construction costs, making design errors proportionally more expensive. Hurricane and tsunami exposure require robust structural design. Volcanic activity on the Big Island creates unique design challenges. Salt-air corrosion accelerates material degradation on all islands. The high cost of living drives up claim values. Hawaii follows a modified comparative negligence standard. The limited local construction industry means material supply chain disruptions can delay projects and create documentation challenges for architects.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability reflecting Hawaii's high medical cost environment",
-          "Physical damage with agreed-value coverage given the high cost of vehicle replacement on the islands",
-          "Motor design cargo insurance for port drayage and inter-island design",
-          "Comprehensive coverage for volcanic activity, tropical storm, and flood exposure",
-          "Workers compensation compliant with Hawaii's state-specific requirements"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting Hawaii\'s high construction costs',
+          'General liability for construction administration on island projects',
+          'Cyber liability for client data protection',
+          'Workers compensation for firm employees',
+          'Professional liability addressing tropical climate and volcanic hazard design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is architecture insurance expensive in Hawaii?",
-        "a": "Hawaii premiums reflect the isolated market with fewer competing insurers, extremely high vehicle repair and replacement costs due to shipping, medical expenses well above mainland averages, and the logistical challenges of claims handling in an island environment. The limited pool of commercial auto insurers willing to write Hawaii policies further limits competitive pricing."
-      },
-      {
-        "q": "Can mainland architecture insurance policies cover Hawaii operations?",
-        "a": "Most mainland commercial auto policies do not automatically cover Hawaii operations because vehicles cannot be driven between the mainland and the islands. Hawaii operations typically require separate policies issued by firms licensed in the state. Some national insurers offer coordinated programs, but coverage must specifically include Hawaii territory."
-      },
-      {
-        "q": "What unique risks do Hawaii architecture firms face?",
-        "a": "Volcanic activity, saltwater corrosion, isolated operations with long parts-supply timelines, narrow mountain roads, tropical weather, and a limited pool of qualified commercial vehicle mechanics all create risks unique to Hawaii. Carriers should work with brokers experienced in the Hawaii market to ensure these exposures are properly covered."
-      }
+    faqs: [
+      { q: 'How does island isolation affect architecture insurance in Hawaii?', a: 'High construction costs due to material shipping, limited contractor pools, and elevated cost of living mean that design errors are more expensive to correct in Hawaii than comparable projects on the mainland. Professional liability limits should reflect these elevated project costs.' },
+      { q: 'What volcanic hazards affect Hawaii architecture?', a: 'Lava flow zones, volcanic gases (vog), and seismic activity associated with volcanism create unique design requirements on the Big Island. Architects must address these hazards in site selection, structural design, and material specifications.' },
+      { q: 'Does Hawaii require continuing education for architects?', a: 'Hawaii does not currently mandate continuing education for architect license renewal. However, maintaining professional competency through voluntary CE is essential given the state\'s unique design challenges.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "idaho",
-    "name": "Idaho",
-    "abbreviation": "ID",
-    "metaTitle": "Architecture Insurance in Idaho",
-    "metaDescription": "Commercial architecture insurance for Idaho firms. Coverage for I-84 and I-90 corridor operations, agricultural hauling, and mountain terrain driving risks.",
-    "heroHeading": "Idaho Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating across Idaho's diverse terrain and agricultural design lanes.",
-    "overview": "Idaho's architecture industry is shaped by its agricultural economy, long-haul corridors connecting the Pacific Northwest to the Mountain West, and challenging mountain terrain. I-84 crosses southern Idaho through Boise and Twin Falls, carrying design between Portland and Salt Lake City. The state's potato, dairy, and grain production generates significant refrigerated and bulk hauling demand. Idaho's growing population, particularly in the Boise metro area, is expanding the local distribution market.",
-    "sections": [
+    slug: 'idaho',
+    name: 'Idaho',
+    abbreviation: 'ID',
+    metaTitle: 'Architecture Insurance in Idaho',
+    metaDescription: 'Architecture insurance for Idaho firms. Coverage for the Gem State\'s rapidly growing Boise market and mountain community design.',
+    heroHeading: 'Idaho Architecture Insurance',
+    heroSubheading: 'Coverage for firms in the Gem State.',
+    overview: 'Idaho is one of the fastest-growing states in the country, and its architecture market has expanded significantly to meet demand from technology companies, healthcare systems, and residential development. Boise anchors the state\'s design community, while resort communities like Sun Valley and McCall create specialized mountain architecture practices.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Idaho requires interstate firms to meet NCARB financial responsibility requirements. The Idaho Transportation Department oversees motor carrier registration and requires proof of insurance for intrastate operations. Idaho's minimum liability requirements for commercial vehicles follow federal standards based on vehicle weight and cargo type.\n\nIdaho uses a modified comparative fault system with a 50 percent bar. The state's rural character and relatively small population mean that architecture litigation volume is lower than in more urban states, and verdict trends have been moderate. However, the severity of accidents on mountain roads and high-speed rural interstates can produce significant individual claims."
+        heading: 'Licensure Requirements',
+        content: 'The Idaho Board of Architectural Examiners oversees licensure. Idaho requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Idaho does not currently require continuing education for license renewal. The University of Idaho\'s architecture program in Moscow is the state\'s only architecture school.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-84 is Idaho's primary east-west corridor, entering from Oregon near Boise and running through Twin Falls, Burley, and Pocatello before crossing into Utah. This route carries heavy design volumes between the Pacific Northwest and the Intermountain West. I-86 connects I-84 at Pocatello to I-15 at Chubbuck, providing access to the north-south corridor running through eastern Idaho.\n\nI-90 crosses the Idaho panhandle through Coeur d'Alene, connecting Spokane, Washington to western Montana. I-15 runs through eastern Idaho from Montana through Idaho Falls and Pocatello to Utah, carrying design along the Intermountain corridor. US-95 is the primary north-south route through western Idaho, connecting the Boise area to the panhandle through rugged mountain terrain. The Boise metro area has seen significant distribution center development along the I-84 corridor."
+        heading: 'Building Code Framework',
+        content: 'Idaho adopts the International Building Code through the Idaho Division of Building Safety for commercial buildings. Residential construction follows the IRC. Local jurisdictions may adopt additional requirements. Boise and other growing communities have adopted energy code requirements. Seismic design provisions apply throughout the state, with active faults in the Snake River Plain and northern Idaho. Snow load requirements vary significantly from the high desert Treasure Valley to mountain communities. Wildfire-resistant construction standards affect projects in the urban-wildland interface.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Mountain terrain defines much of Idaho's architecture risk profile. Passes on US-95, US-12, and Highway 21 feature steep grades, tight switchbacks, and limited sight distances. Winter conditions bring heavy snow, ice, and road closures on mountain routes that can last for days. The Lookout Pass area on I-90 and the Malad Gorge area on I-84 are particularly challenging in winter.\n\nWildlife collisions are common throughout Idaho, with deer, elk, and moose creating significant hazards on rural highways. Wildfires during summer can close roads and damage equipment. The long, straight stretches of I-84 across the Snake River Plain contribute to fatigue-related accidents, particularly during nighttime hours. Agricultural equipment sharing rural roads creates slow-moving vehicle collision risks during harvest seasons."
+        heading: 'Risk Factors',
+        content: 'Rapid growth creates construction labor shortages and schedule pressure that increase error risk. Seismic risk from regional fault systems requires design provisions. Wildfire exposure in forested areas and foothills demands fire-resistant design. Wide temperature swings from hot summers to cold winters challenge building envelope performance. Idaho follows a comparative negligence standard with a six-year statute of repose for construction defect claims with a two-year discovery rule. Mountain community projects involve challenging terrain, snow loads, and remote construction administration.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits appropriate for mountain corridor accident severity",
-          "Physical damage with comprehensive coverage for wildlife collisions and winter weather damage",
-          "Motor design cargo insurance for agricultural and refrigerated loads",
-          "Towing and recovery coverage with elevated limits for mountain pass recoveries",
-          "Workers compensation for seasonal agricultural hauling workforce fluctuations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for tech campus, healthcare, and mountain community design',
+          'General liability for construction administration',
+          'Cyber liability for tech sector client data',
+          'Workers compensation for firm employees',
+          'Professional liability for seismic and wildfire-zone design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "What are the main insurance considerations for Idaho agricultural haulers?",
-        "a": "Agricultural haulers in Idaho should carry motor design cargo insurance covering potatoes, dairy products, grain, and other perishable commodities. Refrigerated breakdown coverage with spoilage endorsements is important for temperature-sensitive loads. Seasonal workforce fluctuations may require adjustable workers compensation policies. Many agricultural loads move on rural roads with higher accident rates per mile than interstates."
-      },
-      {
-        "q": "How does Idaho's mountain terrain affect architecture insurance?",
-        "a": "Mountain operations increase the severity of accidents when they occur, produce higher towing and recovery costs, and create winter weather exposure that leads to road closures and equipment damage. Carriers operating regularly on mountain routes like US-95 and Lookout Pass should ensure their policies cover mountainous terrain and carry adequate towing limits."
-      },
-      {
-        "q": "Is the Boise area growing as a design market?",
-        "a": "Yes, Boise has been one of the fastest-growing metro areas in the country, attracting distribution center investments and increasing local architecture demand. The I-84 corridor through the Treasure Valley has seen significant logistics development, creating new opportunities for firms and a more competitive local insurance market."
-      }
+    faqs: [
+      { q: 'How does Idaho\'s rapid growth affect architecture insurance?', a: 'Fast growth creates compressed timelines and labor shortages that elevate error risk. Firms should ensure professional liability limits keep pace with their expanding project portfolios. The influx of California and Pacific Northwest residents has increased design expectations and project complexity.' },
+      { q: 'Does Idaho require continuing education for architects?', a: 'Idaho does not currently require continuing education for architect license renewal. However, maintaining competency is essential, particularly as the state\'s building codes and growth patterns evolve rapidly.' },
+      { q: 'What seismic risks affect Idaho architecture?', a: 'Several active fault systems in Idaho create seismic design requirements. The state experienced a magnitude 6.5 earthquake near Stanley in 2020, reinforcing the importance of seismic design provisions for all Idaho projects.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "illinois",
-    "name": "Illinois",
-    "abbreviation": "IL",
-    "metaTitle": "Architecture Insurance in Illinois",
-    "metaDescription": "Commercial architecture insurance for Illinois firms. Coverage for Chicago design hub operations, I-80 and I-55 corridors, and intermodal drayage.",
-    "heroHeading": "Illinois Architecture Insurance",
-    "heroSubheading": "Coverage for firms in America's design crossroads.",
-    "overview": "Illinois is the hub of the nation's design network, with Chicago serving as the largest intermodal center and one of the busiest architecture markets in North America. Six major interstates converge in the Chicago metro, and the surrounding area contains an enormous concentration of warehouses, distribution centers, and intermodal yards. Downstate Illinois adds significant agricultural hauling demand. The state's litigation environment, particularly in Cook County, makes insurance a critical strategic consideration for Illinois-based firms.",
-    "sections": [
+    slug: 'illinois',
+    name: 'Illinois',
+    abbreviation: 'IL',
+    metaTitle: 'Architecture Insurance in Illinois',
+    metaDescription: 'Architecture insurance for Illinois firms. Coverage for practice in one of the world\'s great architecture cities and across the Prairie State.',
+    heroHeading: 'Illinois Architecture Insurance',
+    heroSubheading: 'Coverage for firms in one of the world\'s great architecture states.',
+    overview: 'Illinois is home to Chicago, one of the most important architecture cities in the world, and supports a massive design market driven by high-rise construction, institutional campuses, corporate headquarters, and infrastructure projects. The state\'s demanding building codes, harsh climate, and plaintiff-friendly legal environment make professional liability coverage essential for every architecture firm.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Illinois requires interstate firms to meet NCARB financial responsibility requirements. The Illinois Commerce Commission regulates intrastate for-hire firms and requires proof of liability insurance. Illinois imposes some requirements beyond the federal minimum, including mandatory uninsured motorist coverage on commercial vehicle policies.\n\nIllinois uses a modified comparative fault system with a 51 percent bar. Cook County, which encompasses Chicago, is widely regarded as one of the most plaintiff-friendly jurisdictions in the country for architecture cases. Nuclear verdicts exceeding $30 million have become increasingly common in Cook County courts, and the trend shows no signs of slowing. Carriers operating in the Chicago market must carry robust liability limits."
+        heading: 'Licensure Requirements',
+        content: 'The Illinois Department of Financial and Professional Regulation oversees architect licensure. Illinois requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially with health, safety, and welfare content. IIT\'s College of Architecture and the University of Illinois architecture programs are nationally ranked schools that contribute significantly to the state\'s design talent pool.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-90 and I-94 converge in Chicago, linking the city to Milwaukee, Minneapolis, and points west. I-80 crosses the southern Chicago suburbs and continues across Illinois to Iowa, serving as a primary east-west transcontinental route. I-55 runs from Chicago through Springfield and down to St. Louis. I-57 and I-39 provide north-south connections through the agricultural heartland of central Illinois.\n\nChicago is the nation's largest intermodal hub, with BNSF's Logistics Park and Union Pacific's Global IV facility driving massive container drayage volumes. The Will County logistics corridor south of Chicago, centered on Joliet and Elwood, has become one of the largest warehouse clusters in the country. O'Hare International Airport generates significant air cargo architecture demand. The I-80 and I-55 interchange area near Joliet is a critical design node with heavy design traffic around the clock."
+        heading: 'Building Code Framework',
+        content: 'Illinois adopts the International Building Code at the state level, but the City of Chicago maintains its own building code, the Chicago Building Code, which is separate from and in many respects more stringent than the IBC. Architects working in Chicago must comply with the Chicago code, while suburban and downstate projects follow the Illinois-adopted IBC. This dual-code environment creates complexity for firms working across the metro area. Chicago\'s fire safety, accessibility, and energy performance requirements are among the most detailed in the country. Illinois\'s adoption of energy codes has progressed, with most jurisdictions referencing the IECC.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Chicago metro congestion is the defining risk for Illinois design practices. The Dan Ryan Expressway, Stevenson Expressway, and Kennedy Expressway carry enormous design volumes through dense urban environments. The I-290 and I-294 interchanges are persistent accident hotspots. Urban driving in Chicago involves navigating older infrastructure with tight turns, low overpasses, and narrow side streets for deliveries.\n\nIllinois winters bring lake-effect snow in the Chicago area and ice storms downstate. Severe thunderstorms and tornadoes affect central and southern Illinois from April through June. The Cook County litigation environment is the single biggest insurance cost driver, with plaintiff attorneys specializing in architecture cases operating at an aggressive pace. Cargo theft in the Chicago metro area is significant, and staged accident fraud rings have historically targeted commercial vehicles in certain neighborhoods."
+        heading: 'Risk Factors',
+        content: 'Illinois is a high-litigation state, and Cook County juries have a reputation for substantial damage awards in professional negligence cases. Chicago\'s freeze-thaw cycle generates building envelope claims related to moisture intrusion, facade deterioration, and window-wall failures. Wind loads on tall buildings along the Lake Michigan lakefront require sophisticated structural coordination. The dual building code environment (Chicago code vs. state IBC) creates compliance complexity. Illinois follows a modified comparative negligence standard with a 50% bar and a ten-year statute of repose for construction defect claims.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 minimum, with $2,000,000 or higher strongly recommended for Chicago metro operations",
-          "Umbrella or excess liability as the most critical coverage layer given Cook County verdict exposure",
-          "Motor design cargo insurance for intermodal container design and high-value retail distribution",
-          "Physical damage with winter weather and hail coverage",
-          "Uninsured motorist coverage as required by Illinois law for commercial vehicles",
-          "General liability for firms with yard and warehouse operations in the Will County logistics corridor"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits appropriate for high-rise and institutional projects',
+          'General liability for complex urban construction administration',
+          'Cyber liability for protecting corporate and institutional client data',
+          'Workers compensation for firm employees',
+          'Umbrella coverage given Illinois litigation environment and Cook County verdict trends'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is Cook County considered high-risk for architecture insurance?",
-        "a": "Cook County has produced numerous nuclear verdicts in architecture cases, with jury awards regularly exceeding $10 million and sometimes surpassing $30 million or more. Plaintiff attorneys specializing in architecture litigation are concentrated in Chicago, and the jury pool tends to be sympathetic to injured individuals in cases involving large commercial vehicles. This litigation environment directly drives insurance costs for firms operating in the Chicago area."
-      },
-      {
-        "q": "What insurance do intermodal drayage firms in Chicago need?",
-        "a": "Intermodal drayage firms need primary auto liability at elevated limits, motor design cargo covering containerized design, physical damage, and bobtail or non-architecture liability. Many railroads and intermodal marketing companies require specific liability limits and additional insured endorsements. The short-haul, high-frequency nature of drayage operations produces elevated accident frequency that must be reflected in coverage levels."
-      },
-      {
-        "q": "Does Illinois require uninsured motorist coverage for trucks?",
-        "a": "Yes, Illinois requires uninsured motorist coverage on commercial auto policies. This is one of a limited number of states with this mandate for commercial vehicles. The requirement adds to policy costs but provides important protection given the rate of uninsured drivers in the Chicago metro area."
-      }
+    faqs: [
+      { q: 'Why does Chicago have its own building code separate from the state?', a: 'Chicago has maintained its own building code since before the IBC existed. While there have been efforts to align the Chicago code with the IBC, the two remain separate regulatory frameworks. Architects working in the city must comply with the Chicago Building Code, which includes unique fire safety, accessibility, and structural provisions.' },
+      { q: 'How does Illinois\'s litigation environment affect architecture insurance?', a: 'Illinois, particularly Cook County, is one of the most plaintiff-friendly jurisdictions in the country for professional negligence claims. High verdict amounts and aggressive plaintiff bar activity drive professional liability premiums higher than many other states. Firms should carry limits that reflect this exposure.' },
+      { q: 'What is Illinois\'s statute of repose?', a: 'Illinois has a ten-year statute of repose for construction defect claims, with a four-year statute of limitations from discovery. Architects face potential claims for up to ten years after substantial completion.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "umbrella-excess",
-      "cyber-liability",
-      "general-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess']
   },
   {
-    "slug": "indiana",
-    "name": "Indiana",
-    "abbreviation": "IN",
-    "metaTitle": "Architecture Insurance in Indiana",
-    "metaDescription": "Commercial architecture insurance for Indiana firms. Coverage for the Crossroads of America, I-65 and I-70 corridor operations.",
-    "heroHeading": "Indiana Architecture Insurance",
-    "heroSubheading": "Coverage for firms in the Crossroads of America.",
-    "overview": "Indiana rightfully claims the title Crossroads of America, with more interstate highway miles per square mile than any other state. I-65, I-70, I-69, and I-74 create a dense network that makes Indianapolis one of the most accessible design markets in the country. The state's central location, competitive operating costs, and strong manufacturing base support a thriving architecture industry. Indiana's relatively moderate litigation environment and insurer-friendly regulatory climate make it a favorable state for carrier operations compared to its neighbors.",
-    "sections": [
+    slug: 'indiana',
+    name: 'Indiana',
+    abbreviation: 'IN',
+    metaTitle: 'Architecture Insurance in Indiana',
+    metaDescription: 'Architecture insurance for Indiana firms. Coverage for design practices at the Crossroads of America.',
+    heroHeading: 'Indiana Architecture Insurance',
+    heroSubheading: 'Coverage for firms at the Crossroads of America.',
+    overview: 'Indiana supports a solid architecture market driven by healthcare systems, universities, manufacturing facilities, and a growing Indianapolis metro area. The state\'s central location, affordable business environment, and strong institutional client base create stable design demand across economic cycles.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Indiana requires interstate firms to meet NCARB financial responsibility requirements. The Indiana Department of Revenue oversees intrastate motor carrier registration, and firms must maintain proof of liability insurance. Indiana's minimum commercial vehicle liability requirements follow federal standards.\n\nIndiana uses a modified comparative fault system with a 51 percent bar. The state's courts have generally produced moderate verdict trends compared to neighboring Illinois and Ohio, though Marion County in Indianapolis has seen some larger awards in recent years. Indiana's relatively business-friendly legal environment helps keep insurance costs more manageable than in many surrounding states."
+        heading: 'Licensure Requirements',
+        content: 'The Indiana Board of Registration for Architects and Landscape Architects oversees licensure under the Professional Licensing Agency. Indiana requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially. Ball State University\'s College of Architecture and Planning is the state\'s primary architecture program.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-65 runs north-south through Indianapolis, connecting Chicago to Louisville and Nashville. I-70 runs east-west through Indianapolis, linking St. Louis to Columbus, Ohio, and the East Coast. The intersection of I-65 and I-70 in downtown Indianapolis is one of the busiest design interchanges in the Midwest. I-69 connects Indianapolis to Fort Wayne and continues into Michigan, while I-74 provides a southwest diagonal route toward Cincinnati.\n\nIndianapolis is a premier distribution hub, with major logistics facilities concentrated along the I-70 corridor in Plainfield, Whitestown, and Greenfield. The city's central location allows overnight design delivery to a majority of the U.S. population. Fort Wayne, South Bend, and Evansville serve as regional design nodes. The Indiana Toll Road (I-80/I-90) carries heavy through traffic across northern Indiana between Chicago and the Ohio Turnpike."
+        heading: 'Building Code Framework',
+        content: 'Indiana adopts the International Building Code as the Indiana Building Code through the Fire Prevention and Building Safety Commission. The state code applies uniformly across jurisdictions with limited local amendment authority. Indiana\'s energy code follows the IECC. The state\'s central location means architects must address freeze-thaw exposure, tornado risk, and occasional flooding in their designs. Indianapolis and other urban areas have adopted additional design standards for mixed-use and transit-oriented development.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "High design traffic density on Indiana's interstates is the primary risk factor, with design percentages on I-65 and I-70 regularly exceeding 30 percent of total traffic. The concentration of truck-to-design accidents is higher in Indiana than in most states due to this density. The I-465 loop around Indianapolis carries heavy design volumes and experiences frequent congestion-related incidents.\n\nIndiana winters bring freezing rain, snow, and fog that affect operations statewide. Lake-effect snow in the northern part of the state near South Bend can be severe. Severe thunderstorms and tornadoes occur from April through June, primarily in central and southern Indiana. Construction zones on the heavily trafficked interstate system create seasonal bottlenecks that increase accident frequency during the warmer months."
+        heading: 'Risk Factors',
+        content: 'Indiana\'s freeze-thaw climate challenges building envelope performance, and clay soils in many parts of the state create foundation design issues. Tornado risk is present across the state, with spring severe weather season creating wind-resistant design obligations for institutional and public buildings. Indiana follows a comparative fault standard with a ten-year statute of repose for construction defect claims. The legal environment is moderate compared to neighboring Illinois, contributing to more manageable professional liability costs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 for operations in the high-truck-traffic Indianapolis interchange area",
-          "Physical damage with winter weather and hail coverage",
-          "Motor design cargo insurance for manufacturing components and retail distribution design",
-          "Non-architecture liability for owner-operators in the Indianapolis drayage and distribution market",
-          "General liability for firms with warehouse and cross-dock operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for healthcare, institutional, and commercial design',
+          'General liability for construction administration',
+          'Cyber liability for healthcare and institutional client data',
+          'Workers compensation for firm employees'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is Indiana considered a good state for architecture firms?",
-        "a": "Indiana offers central location with overnight access to a majority of the U.S. population, competitive operating costs, a dense interstate highway network, moderate litigation environment, and a business-friendly regulatory climate. These factors make insurance and overall operating costs more manageable than in neighboring Illinois, Ohio, or Michigan."
-      },
-      {
-        "q": "What makes Indianapolis a top distribution hub?",
-        "a": "Indianapolis sits at the intersection of I-65 and I-70 and is within a day's drive of over 80 percent of U.S. businesses and population. This geographic advantage, combined with competitive real estate costs and a strong labor pool, has attracted massive distribution center development. FedEx operates its second-largest hub at Indianapolis International Airport, further strengthening the design ecosystem."
-      },
-      {
-        "q": "How does Indiana's high design traffic percentage affect insurance?",
-        "a": "Indiana's interstates carry some of the highest truck-to-total-traffic ratios in the country, meaning truck-to-design collisions are more common than in states with lower ratios. This affects both liability and physical damage claims frequency. Carriers should ensure adequate following-distance policies and invest in collision avoidance technology."
-      }
+    faqs: [
+      { q: 'What is Indiana\'s statute of repose for architecture claims?', a: 'Indiana has a ten-year statute of repose for construction defect claims. Architects face potential claims for up to ten years after substantial completion, making it important to maintain professional liability coverage through this period.' },
+      { q: 'What drives architecture demand in Indiana?', a: 'Healthcare systems, university campuses, manufacturing facilities, and Indianapolis metro development are the primary drivers. Indiana University Health, Purdue, IU, and Notre Dame generate significant institutional design demand.' },
+      { q: 'How does Indiana\'s legal environment compare to Illinois?', a: 'Indiana\'s legal environment is more moderate than neighboring Illinois, with lower verdict amounts and a less aggressive plaintiff bar. This contributes to more manageable professional liability insurance costs for Indiana firms.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "general-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "iowa",
-    "name": "Iowa",
-    "abbreviation": "IA",
-    "metaTitle": "Architecture Insurance in Iowa",
-    "metaDescription": "Commercial architecture insurance for Iowa firms. Coverage for I-80 transcontinental corridor, agricultural bulk hauling, and Midwest regional distribution.",
-    "heroHeading": "Iowa Architecture Insurance",
-    "heroSubheading": "Coverage for firms serving the agricultural heartland and transcontinental design lanes.",
-    "overview": "Iowa is a critical state in the national design network, with I-80 carrying heavy transcontinental design traffic across its width and the state's massive agricultural economy generating enormous demand for grain, livestock, and farm equipment hauling. Des Moines has grown into a regional distribution center, and the state's network of secondary highways carries agricultural design from farms to grain elevators, processing plants, and rail terminals. Iowa's moderate regulatory environment and central location support a robust carrier population.",
-    "sections": [
+    slug: 'iowa',
+    name: 'Iowa',
+    abbreviation: 'IA',
+    metaTitle: 'Architecture Insurance in Iowa',
+    metaDescription: 'Architecture insurance for Iowa firms. Coverage for design practices in the Hawkeye State\'s institutional and agricultural markets.',
+    heroHeading: 'Iowa Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing across the Hawkeye State.',
+    overview: 'Iowa\'s architecture market is centered on Des Moines and Iowa City, with institutional clients including the state\'s three major universities, healthcare systems, and the insurance industry providing stable design demand. The state\'s agricultural economy supports specialized facility design, and its central location creates a market that serves both local and regional clients.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Iowa requires interstate firms to meet NCARB financial responsibility requirements. The Iowa Department of Transportation oversees intrastate motor carrier registration and requires proof of liability insurance. Iowa's minimum commercial vehicle liability requirements follow federal standards based on cargo type and vehicle weight.\n\nIowa uses a modified comparative fault system with a 50 percent bar. The state's courts have historically produced moderate verdict trends, and the rural character of many architecture accident cases often results in practical, measured jury decisions. However, the Des Moines metro and eastern Iowa cities like Cedar Rapids and Davenport have seen some larger verdicts as litigation trends evolve."
+        heading: 'Licensure Requirements',
+        content: 'The Iowa Architectural Examining Board oversees licensure under the Professional Licensing and Regulation Bureau. Iowa requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially. Iowa State University\'s College of Design in Ames is the state\'s premier architecture program.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-80 crosses Iowa from the Quad Cities on the east to Council Bluffs on the west, carrying massive transcontinental design volumes. This route regularly ranks among the highest truck-traffic corridors in the Midwest. I-35 runs north-south through Des Moines, connecting Minneapolis to Kansas City. I-380 connects Cedar Rapids to Waterloo, and I-74 serves the Quad Cities area.\n\nDes Moines has developed into a significant distribution hub, with logistics facilities concentrated along the I-80 and I-35 corridors. The Quad Cities area on the Mississippi River handles barge-to-design transloading. Council Bluffs and Sioux City serve as gateways to Nebraska and South Dakota. Iowa's extensive grain elevator network and ethanol production facilities generate seasonal surges in bulk hauling demand that stretch the state's carrier capacity."
+        heading: 'Building Code Framework',
+        content: 'Iowa adopts the International Building Code as the Iowa State Building Code. The State Building Code Commissioner oversees adoption, and local jurisdictions enforce the code. Iowa\'s severe weather exposure requires tornado-resistant design for public buildings and storm shelters. The state\'s energy code follows the IECC. Flood-resistant design is critical along the Iowa, Des Moines, and Cedar Rivers, which have experienced major flooding events.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Severe winter weather is Iowa's primary risk factor, with blizzards, ice storms, and extreme cold affecting operations from November through March. Blowing snow on open prairie highways can reduce visibility to zero and cause massive chain-reaction pileups, particularly on I-80 in western Iowa. Spring flooding along the Missouri and Mississippi Rivers periodically closes highways and disrupts design movement.\n\nIowa sits squarely in Tornado Alley, with severe thunderstorms bringing tornadoes, damaging straight-line winds, and large hail from May through July. Agricultural equipment on rural highways creates collision risks during planting and harvest seasons. Deer collisions are among the highest in the nation, with fall months bringing a significant spike in animal-strike claims. The long, straight stretches of I-80 contribute to fatigue-related accidents."
+        heading: 'Risk Factors',
+        content: 'Iowa sits in Tornado Alley, and severe weather including tornadoes, large hail, and damaging winds creates building design challenges. River flooding has caused catastrophic damage in Iowa cities, making flood-resistant design essential for projects in floodplain areas. Iowa\'s fifteen-year statute of repose for construction defect claims is one of the longest in the country, extending professional liability exposure significantly. Harsh winters with heavy snow and ice affect building envelope and structural design.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with adequate limits for transcontinental I-80 corridor operations",
-          "Physical damage with comprehensive winter storm, hail, and flood coverage",
-          "Motor design cargo insurance for grain, livestock, and agricultural commodities",
-          "Comprehensive coverage for deer and wildlife collisions, which are frequent in Iowa",
-          "Workers compensation for seasonal agricultural hauling workforce needs"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for institutional and commercial design',
+          'General liability for construction administration',
+          'Cyber liability for insurance industry and institutional data',
+          'Workers compensation for firm employees',
+          'Professional liability addressing tornado, flood, and cold-climate design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "What special insurance do Iowa grain haulers need?",
-        "a": "Grain haulers should carry motor design cargo insurance specific to agricultural bulk commodities. Coverage should address in-transit spoilage from moisture or contamination, loading and unloading at elevators, and seasonal volume fluctuations. Many grain haulers operate with seasonal authority and need policies that can be adjusted for peak harvest demand from September through November."
-      },
-      {
-        "q": "How do Iowa winters affect architecture insurance claims?",
-        "a": "Iowa winters produce significant physical damage claims from ice and snow, collision claims from limited visibility pileups on prairie highways, and cargo damage from freezing. Carriers should ensure physical damage policies cover winter-specific perils and maintain aggressive winter driving protocols. Chain and tire traction requirements should be part of every driver training program."
-      },
-      {
-        "q": "Is Iowa a good state for architecture company headquarters?",
-        "a": "Iowa offers competitive operating costs, a central location on the I-80 transcontinental route, moderate litigation environment, and a business-friendly regulatory climate. Several mid-size and large firms are headquartered in Iowa, benefiting from these advantages and the state's strong workforce availability."
-      }
+    faqs: [
+      { q: 'What is Iowa\'s statute of repose for architecture claims?', a: 'Iowa has a fifteen-year statute of repose, one of the longest in the country. Architects face potential claims for up to fifteen years after substantial completion, making extended professional liability coverage or tail policies essential.' },
+      { q: 'How does flood risk affect Iowa architecture?', a: 'Major river flooding events have affected Iowa cities including Cedar Rapids, Iowa City, and Des Moines. Architects must verify FEMA flood zone designations and design to current base flood elevations. Post-flood code changes have strengthened requirements.' },
+      { q: 'What drives Iowa architecture demand?', a: 'The University of Iowa, Iowa State University, UNI, major healthcare systems, and the Des Moines insurance industry provide the most stable design demand. Agricultural facility design adds a specialized sector.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "kansas",
-    "name": "Kansas",
-    "abbreviation": "KS",
-    "metaTitle": "Architecture Insurance in Kansas",
-    "metaDescription": "Commercial architecture insurance for Kansas firms. Coverage for I-70 and I-35 crossroads, agricultural design, and Great Plains weather exposure.",
-    "heroHeading": "Kansas Architecture Insurance",
-    "heroSubheading": "Coverage for firms at the crossroads of the Great Plains design network.",
-    "overview": "Kansas sits at the intersection of two major design corridors, with I-70 running east-west and I-35 running north-south through the state. The agricultural economy drives enormous demand for grain, cattle, and farm equipment hauling, while the Kansas City metro area on the eastern border is one of the nation's most important design hubs. The state's position in the heart of Tornado Alley creates significant severe weather exposure that firms must account for in their insurance programs.",
-    "sections": [
+    slug: 'kansas',
+    name: 'Kansas',
+    abbreviation: 'KS',
+    metaTitle: 'Architecture Insurance in Kansas',
+    metaDescription: 'Architecture insurance for Kansas firms. Coverage for Sunflower State design practices in tornado-prone environments.',
+    heroHeading: 'Kansas Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Sunflower State.',
+    overview: 'Kansas supports an architecture market centered on Wichita and the Kansas City metro area, with institutional anchors including state universities, healthcare systems, and the aviation manufacturing industry. The state\'s position in the heart of Tornado Alley makes severe weather design a fundamental consideration for every project.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Kansas requires interstate firms to meet NCARB financial responsibility requirements. The Kansas Corporation Commission regulates intrastate for-hire design firms and requires proof of liability insurance. Kansas minimum liability requirements for commercial vehicles follow federal standards, with intrastate firms required to maintain at least $750,000 for vehicles over 10,001 pounds hauling non-hazardous design.\n\nKansas uses a modified comparative fault system with a 50 percent bar. The state's courts have generally produced moderate verdict trends, with the Wyandotte County and Johnson County courts in the Kansas City metro area handling the highest volume of architecture cases. The agricultural and transportation-centric economy means juries in outstate Kansas are often familiar with design practices."
+        heading: 'Licensure Requirements',
+        content: 'The Kansas State Board of Technical Professions oversees architect licensure. Kansas requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 30 hours biennially. Kansas State University\'s College of Architecture, Planning and Design in Manhattan is the state\'s architecture program.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-70 crosses the full width of Kansas from Kansas City through Topeka, Salina, and Hays to the Colorado border. The eastern portion carries heavy design volumes, while the western stretch serves agricultural and energy industry traffic. I-35 runs from the Oklahoma border through Wichita and on to Kansas City, connecting the Texas-to-Midwest design lane. The Kansas Turnpike overlaps portions of I-35 through Wichita.\n\nThe Kansas City metro area spans the Kansas-Missouri border and is one of the largest design hubs in the country, with major intermodal facilities, distribution centers, and the confluence of multiple Class I railroads. Wichita serves as a distribution center for south-central Kansas and the aircraft manufacturing industry. Dodge City and Garden City in western Kansas are major meatpacking centers generating significant refrigerated design traffic. I-135 connects Wichita to Salina through the agricultural heartland."
+        heading: 'Building Code Framework',
+        content: 'Kansas does not mandate a statewide building code for all jurisdictions. Cities and counties adopt codes locally, with most referencing the IBC. Wichita, Topeka, Lawrence, and Kansas City-area communities maintain adopted codes, but some rural jurisdictions do not have building codes. This creates an uneven regulatory landscape. Storm shelter requirements for schools and public buildings have been adopted following devastating tornado events. Energy code adoption varies by jurisdiction.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Kansas is in the core of Tornado Alley, with severe thunderstorms producing tornadoes, destructive hail, and straight-line winds from April through July. Hail damage to firms and cargo can be catastrophic during severe events, and tornadoes can destroy parked equipment at terminals and design stops. The flat terrain and lack of shelter on western Kansas highways leave firms exposed to severe weather with limited options.\n\nWinter conditions bring ice storms and blowing snow, particularly on the I-70 corridor in western Kansas where open prairie creates whiteout conditions. High crosswinds on exposed highways can overturn empty trailers and high-profile loads. The long distances between services in western Kansas mean that breakdowns and accidents in remote areas result in lengthy response times and high towing costs."
+        heading: 'Risk Factors',
+        content: 'Tornado exposure is the dominant design risk in Kansas. The state consistently ranks among the highest for tornado frequency and intensity. Architects must design for high wind loads and incorporate storm shelter provisions in institutional and public buildings. Expansive clay soils across much of the state create foundation challenges. Kansas follows a comparative fault standard with a ten-year statute of repose for construction defect claims. The aviation industry creates cyclical commercial demand.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with adequate limits for Kansas City metro and transcontinental corridor operations",
-          "Physical damage with comprehensive hail, wind, and tornado coverage",
-          "Motor design cargo insurance for grain, cattle, and meatpacking industry design",
-          "Inland marine or equipment coverage for agricultural hauling equipment",
-          "Towing and recovery coverage with elevated limits for remote western Kansas operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for institutional, aviation, and commercial design',
+          'General liability for construction administration',
+          'Cyber liability for aviation and institutional client data',
+          'Workers compensation for firm employees',
+          'Professional liability for tornado-resistant and storm shelter design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "How does tornado risk affect Kansas architecture insurance?",
-        "a": "Kansas firms face significant exposure to hail damage, wind damage to equipment, and tornado destruction of parked vehicles and terminal facilities. Comprehensive physical damage policies should specifically cover hail and windstorm without restrictive sub-limits. Carriers should have severe weather protocols and consider the location of terminals relative to tornado risk zones."
-      },
-      {
-        "q": "What insurance considerations apply to Kansas cattle haulers?",
-        "a": "Cattle haulers need motor design cargo insurance with livestock mortality coverage, which pays for animals killed or injured during transit. Coverage should include loading and unloading operations, which are high-risk periods for animal injury. Workers compensation should address the physical risks of cattle handling. The seasonal nature of cattle hauling may allow for adjustable policy terms."
-      },
-      {
-        "q": "Does the Kansas City metro affect insurance rates for Kansas firms?",
-        "a": "Yes, firms operating primarily in the Kansas City metro area face higher premiums due to urban traffic congestion, higher accident frequency, and exposure to courts in both Kansas and Missouri. Carriers based in rural Kansas with primarily agricultural or long-haul operations may qualify for lower rates due to reduced urban exposure."
-      }
+    faqs: [
+      { q: 'How does tornado risk affect architecture insurance in Kansas?', a: 'Kansas\'s Tornado Alley location elevates professional liability risk for wind-resistant design. Storm shelter and safe room requirements for schools and public buildings add design complexity. Post-tornado claims often focus on wind load calculations and building envelope specifications.' },
+      { q: 'Does Kansas have a statewide building code?', a: 'Kansas does not mandate a statewide building code for all jurisdictions. Cities and counties adopt codes locally. Architects must verify which code, if any, applies to each project location. This creates complexity but also means some projects have fewer code requirements than in states with mandatory statewide adoption.' },
+      { q: 'What drives architecture demand in Kansas?', a: 'Kansas State University, University of Kansas, Wichita State, healthcare systems, aviation manufacturing, and state government provide the most stable institutional demand. Kansas City metro area growth creates additional commercial and residential opportunities.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "kentucky",
-    "name": "Kentucky",
-    "abbreviation": "KY",
-    "metaTitle": "Architecture Insurance in Kentucky",
-    "metaDescription": "Commercial architecture insurance for Kentucky firms. Coverage for I-65 and I-75 corridor operations, Louisville design hub, and Appalachian coal hauling.",
-    "heroHeading": "Kentucky Architecture Insurance",
-    "heroSubheading": "Coverage for firms at the junction of the Midwest and Southeast design networks.",
-    "overview": "Kentucky occupies a strategic position where the Midwest meets the Southeast, with I-65, I-75, and I-64 converging to create a dense design corridor through the state. Louisville is a major logistics hub anchored by UPS's worldwide air hub at Louisville Muhammad Ali International Airport, and the state's bourbon, automotive, and coal industries generate specialized hauling demand. The transition from Bluegrass farmland to Appalachian mountain terrain creates diverse driving conditions that require a well-rounded insurance program.",
-    "sections": [
+    slug: 'kentucky',
+    name: 'Kentucky',
+    abbreviation: 'KY',
+    metaTitle: 'Architecture Insurance in Kentucky',
+    metaDescription: 'Architecture insurance for Kentucky firms. Coverage for design practices in the Bluegrass State.',
+    heroHeading: 'Kentucky Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Bluegrass State.',
+    overview: 'Kentucky\'s architecture market is anchored by Louisville and Lexington, with healthcare systems, universities, and the bourbon industry providing distinctive design demand. The state\'s karst topography creates unique foundation challenges, and the urban cores of both major cities have attracted significant revitalization investment.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Kentucky requires interstate firms to meet NCARB financial responsibility requirements. The Kentucky Transportation Cabinet oversees intrastate motor carrier operations and requires proof of insurance. Kentucky has historically required intrastate firms to maintain liability coverage consistent with federal minimums, and coal haulers operating on state roads must meet additional permitting and insurance requirements.\n\nKentucky uses a pure comparative fault system, allowing injured parties to recover damages reduced by their percentage of fault regardless of how much fault they bear. This is more plaintiff-friendly than the modified systems used by neighboring states. Kentucky courts have produced some notable architecture verdicts, and the state's juries tend to be sympathetic to injured individuals, particularly in coal country and rural areas."
+        heading: 'Licensure Requirements',
+        content: 'The Kentucky Board of Architects oversees licensure (formerly under the Board of Licensure for Engineers and Land Surveyors, now separate). Kentucky requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially. The University of Kentucky\'s College of Design provides the state\'s architecture program.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-65 runs through the center of Kentucky from Louisville to Bowling Green and on to Nashville. I-75 crosses eastern Kentucky from Covington through Lexington, Richmond, and Corbin to the Tennessee border, carrying heavy design volumes between the Ohio Valley and the Southeast. I-64 runs east-west from Louisville through Frankfort and Lexington to Ashland and the West Virginia border.\n\nLouisville is Kentucky's design powerhouse, anchored by UPS Worldport, which processes over 400,000 packages per hour and generates enormous ground transportation demand. The Louisville and Southern Indiana area also includes major automotive assembly plants for Ford and Toyota, creating steady demand for parts and finished vehicle hauling. The I-71 corridor between Louisville and Cincinnati carries heavy industrial and consumer design. Eastern Kentucky's coal fields generate design traffic on mountain roads feeding into rail terminals and barge loading facilities on the Ohio River."
+        heading: 'Building Code Framework',
+        content: 'Kentucky adopts the Kentucky Building Code based on the IBC through the Department of Housing, Buildings and Construction. The state code is mandatory for commercial buildings, while residential construction follows the IRC. Local jurisdictions enforce the state code. Kentucky\'s Ohio River communities face flood-zone design requirements. Louisville and Lexington have adopted additional sustainability and design guidelines. The state\'s karst limestone geology affects foundation design requirements in central Kentucky.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Eastern Kentucky's Appalachian terrain presents steep grades, winding roads, narrow lanes, and limited sight distances that challenge even experienced drivers. Coal design operations on mountain roads have historically produced high accident rates. Flash flooding in mountain hollows can wash out roads without warning. The transition from the flat Bluegrass region to mountain terrain means drivers face rapidly changing road conditions.\n\nKentucky weather ranges from ice storms in winter to severe thunderstorms with tornadoes in spring. Fog in river valleys and mountain areas is a significant visibility hazard, particularly in the morning hours. The I-65 and I-75 corridors through Kentucky carry heavy through-traffic from multiple states, and the junction areas around Louisville and Lexington produce high accident frequency. Kentucky's pure comparative fault system means firms face liability exposure even when the other party bears significant fault."
+        heading: 'Risk Factors',
+        content: 'Karst topography in central Kentucky creates sinkhole and foundation stability risks that architects must consider. The Ohio River floodplain affects Louisville-area projects. Kentucky\'s humid subtropical climate generates moisture management challenges. Tornado risk is present, particularly in western Kentucky as demonstrated by the devastating December 2021 outbreak. Kentucky follows a comparative negligence standard with an awareness of recent increases in claim frequency and severity.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given Kentucky's pure comparative fault standard",
-          "Physical damage with flood and ice storm coverage for mountain and valley operations",
-          "Motor design cargo insurance tailored to bourbon, automotive parts, and coal hauling",
-          "Excess liability for operations feeding into the Louisville and Lexington metro litigation venues",
-          "Occupational accident coverage for owner-operators in the coal hauling sector"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for healthcare, university, and bourbon industry design',
+          'General liability for construction administration',
+          'Cyber liability for institutional client data',
+          'Workers compensation for firm employees',
+          'Professional liability addressing karst terrain and flood-zone design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "What insurance do Kentucky coal haulers need?",
-        "a": "Coal haulers operating in eastern Kentucky need primary auto liability, physical damage covering mountain road operations, motor design cargo for coal commodities, and workers compensation addressing the physical demands and hazards of coal hauling. Kentucky may require additional surety or insurance for overweight coal permits. The challenging mountain terrain demands higher towing and recovery limits."
-      },
-      {
-        "q": "How does Kentucky's pure comparative fault affect architecture claims?",
-        "a": "Under pure comparative fault, an injured party can recover damages even if they are 99 percent at fault, with their recovery reduced by their fault percentage. This means firms may face payouts even in accidents where the other driver was primarily responsible. Dashcam evidence and thorough accident documentation are critical for Kentucky operations."
-      },
-      {
-        "q": "Why is Louisville important for architecture insurance?",
-        "a": "Louisville's role as the home of UPS Worldport creates massive ground transportation demand that makes the city one of the top architecture markets in the country. The concentration of logistics operations, combined with automotive manufacturing and bourbon industry hauling, creates a diverse and active design market. Insurance should reflect the urban congestion around the airport and interstate interchange areas."
-      }
+    faqs: [
+      { q: 'How does karst topography affect Kentucky architecture?', a: 'Central Kentucky\'s limestone geology creates sinkholes and underground drainage systems that affect foundation design. Architects must work with geotechnical engineers to assess site stability and specify appropriate foundation systems. Professional liability claims related to karst-caused foundation failure can be significant.' },
+      { q: 'What is unique about bourbon industry architecture in Kentucky?', a: 'The bourbon industry\'s expansion has created demand for distillery production facilities, visitor centers, barrel warehouses, and hospitality venues. These projects require specialized knowledge of industrial process design, fire safety for alcohol storage, and the aesthetic expectations of the bourbon tourism experience.' },
+      { q: 'What continuing education does Kentucky require?', a: 'Kentucky requires 24 hours of continuing education biennially for architect license renewal, including health, safety, and welfare content. The board accepts AIA and NCARB-approved programs.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "louisiana",
-    "name": "Louisiana",
-    "abbreviation": "LA",
-    "metaTitle": "Architecture Insurance in Louisiana",
-    "metaDescription": "Commercial architecture insurance for Louisiana firms. Coverage for Port of New Orleans design, I-10 and I-20 corridors, and Gulf Coast hurricane exposure.",
-    "heroHeading": "Louisiana Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating in the Gulf Coast's busiest port and energy corridor.",
-    "overview": "Louisiana's architecture industry is driven by the Port of New Orleans and the massive petrochemical corridor along the Mississippi River between Baton Rouge and New Orleans. The state is a critical gateway for international trade, energy industry logistics, and Gulf Coast design movement. Louisiana's notorious litigation environment, known colloquially as a judicial hellhole by the insurance industry, combined with severe hurricane exposure, makes it one of the most expensive and complex states for architecture insurance.",
-    "sections": [
+    slug: 'louisiana',
+    name: 'Louisiana',
+    abbreviation: 'LA',
+    metaTitle: 'Architecture Insurance in Louisiana',
+    metaDescription: 'Architecture insurance for Louisiana firms. Coverage for practice in one of the most litigious states in the nation.',
+    heroHeading: 'Louisiana Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Pelican State.',
+    overview: 'Louisiana presents one of the most challenging professional liability environments for architects in the United States. The state\'s intensely litigious legal culture, combined with hurricane and flood exposure, historic preservation requirements in New Orleans, and petrochemical industry design complexity, creates a layered risk profile that demands robust insurance coverage and careful documentation practices.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Louisiana requires interstate firms to meet NCARB financial responsibility requirements. The Louisiana Department of Transportation and Development oversees intrastate motor carrier operations. Louisiana has specific requirements for firms transporting oil field equipment and hazardous materials that may exceed federal minimums.\n\nLouisiana uses a pure comparative fault system, and its legal framework is based on civil law rather than common law, making it unique among U.S. states. The state's courts, particularly in New Orleans, Baton Rouge, and the River Parishes, have produced some of the largest architecture verdicts in the country. Direct action statutes allow plaintiffs to sue the insurance carrier directly, and Louisiana's litigation environment is consistently cited as among the most challenging for commercial vehicle defendants."
+        heading: 'Licensure Requirements',
+        content: 'The Louisiana State Board of Architectural Examiners oversees licensure. Louisiana requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 12 hours annually, with specific requirements for accessibility and life safety content. Tulane University\'s School of Architecture and Louisiana Tech\'s architecture program provide the state\'s design education.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-10 crosses southern Louisiana from the Texas border through Lake Charles, Baton Rouge, and New Orleans to the Mississippi border, forming the primary Gulf Coast design corridor. I-20 runs across northern Louisiana through Shreveport and Monroe, connecting Texas to Mississippi. I-49 provides a north-south route from Shreveport through Alexandria to Lafayette.\n\nThe Port of New Orleans and the Port of South Louisiana collectively handle more tonnage than almost any port complex in the world, driven by grain exports, petroleum products, and containerized cargo. The petrochemical corridor between Baton Rouge and New Orleans along the Mississippi River generates enormous tanker design and flatbed traffic serving refineries and chemical plants. Shreveport and the Haynesville Shale region generate oil field architecture demand in northwestern Louisiana. The Atchafalaya Basin and Mississippi River levee systems create complex routing challenges for firms."
+        heading: 'Building Code Framework',
+        content: 'Louisiana adopts the Louisiana State Uniform Construction Code based on the IBC through the State Uniform Construction Code Council. The code was significantly strengthened following Hurricane Katrina, with enhanced wind-resistance and flood-resistant construction requirements. New Orleans\'s historic districts add design review requirements administered by the Vieux Carre Commission (French Quarter) and other preservation bodies. Louisiana\'s energy code follows the IECC. The petrochemical corridor between Baton Rouge and New Orleans creates specialized industrial building code requirements.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Hurricane exposure is the dominant catastrophic risk, with the Gulf Coast and southern Louisiana facing direct hits from major storms. Hurricane Katrina, Rita, Gustav, Laura, and Ida demonstrated the devastating impact hurricanes have on architecture infrastructure, parked equipment, and the supply chain. The extended hurricane season from June through November requires continuous preparedness.\n\nThe litigation environment is Louisiana's most significant insurance cost driver. The state's direct action statute, pure comparative fault system, and plaintiff-friendly court venues have created what many in the insurance industry consider the single most challenging litigation state for architecture defendants. Flooding is a year-round risk in low-lying areas, and the I-10 elevated expressway over the Atchafalaya Basin is vulnerable to closure during high water events. Road conditions on many state highways are poor, with potholes and surface deterioration adding to vehicle damage claims."
+        heading: 'Risk Factors',
+        content: 'Louisiana is consistently ranked among the most litigious states for professional negligence claims, directly affecting insurance pricing. Hurricane exposure is extreme along the Gulf Coast, and post-Katrina building code strengthening has added design complexity. Flood risk is pervasive, with FEMA flood maps and elevation requirements affecting projects statewide. New Orleans\'s subsiding soils create ongoing foundation challenges. Historic preservation compliance in the French Quarter and other districts carries elevated professional liability exposure. Louisiana follows a comparative fault standard with a five-year peremptive period (similar to a statute of repose) for construction defect claims.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher, with many firms needing $2,000,000 for Louisiana operations",
-          "Umbrella or excess liability as the single most critical coverage given Louisiana's direct action statute and verdict history",
-          "Physical damage with comprehensive hurricane, flood, and named-storm coverage",
-          "Motor design cargo insurance for petrochemical, port design, and agricultural commodities",
-          "Pollution liability for firms serving the petrochemical corridor between Baton Rouge and New Orleans",
-          "Workers compensation covering heat-related illness and hurricane response operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits well above minimums given Louisiana\'s litigation environment',
+          'General liability for construction administration on historic, industrial, and institutional projects',
+          'Cyber liability for petrochemical and institutional client data',
+          'Workers compensation for firm employees',
+          'Umbrella or excess liability given Louisiana\'s aggressive litigation culture'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is Louisiana considered the worst state for architecture insurance costs?",
-        "a": "Louisiana combines a direct action statute that lets plaintiffs sue insurers directly, pure comparative fault, plaintiff-friendly court venues, severe hurricane exposure, poor road conditions, and high rates of uninsured motorists. This combination produces the most challenging architecture insurance environment in the country, with premiums often double or more compared to neighboring states."
-      },
-      {
-        "q": "What is Louisiana's direct action statute and how does it affect architecture insurance?",
-        "a": "Louisiana's direct action statute allows injury plaintiffs to sue the insurance company directly as a defendant alongside the motor carrier and driver. This means the jury knows there is insurance coverage and its limits, which studies suggest leads to higher verdict amounts. Carriers should carry robust excess liability and work with defense attorneys experienced in Louisiana practice."
-      },
-      {
-        "q": "How should Louisiana firms prepare for hurricane season?",
-        "a": "Carriers should maintain hurricane preparedness plans that include equipment relocation to inland locations, fuel reserves, driver safety protocols, and communication systems. Insurance policies should include comprehensive wind and flood coverage without named-storm exclusions or excessive hurricane deductibles. Physical damage policies should cover equipment at temporary relocation sites during storm events."
-      }
+    faqs: [
+      { q: 'How does Louisiana\'s litigation environment affect architecture insurance?', a: 'Louisiana\'s reputation as one of the most litigious states directly increases professional liability premiums. Frequent claims, aggressive plaintiff attorneys, and generous jury awards characterize the environment. Firms should carry robust limits and maintain meticulous documentation to support defense of claims.' },
+      { q: 'How did Hurricane Katrina change Louisiana building codes?', a: 'Post-Katrina code revisions significantly strengthened wind-resistance and flood-resistant construction requirements statewide. The Louisiana State Uniform Construction Code now imposes standards that make buildings more resilient but add design complexity and compliance obligations for architects.' },
+      { q: 'What is Louisiana\'s peremptive period for architecture claims?', a: 'Louisiana uses a five-year peremptive period (similar to a statute of repose) from substantial completion for construction defect claims. However, this can be extended in certain circumstances, and the litigious environment means claims are aggressively pursued within this window.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "umbrella-excess",
-      "general-liability",
-      "cyber-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability', 'umbrella-excess']
   },
   {
-    "slug": "maine",
-    "name": "Maine",
-    "abbreviation": "ME",
-    "metaTitle": "Architecture Insurance in Maine",
-    "metaDescription": "Commercial architecture insurance for Maine firms. Coverage for I-95 operations, timber and paper industry hauling, and severe winter weather exposure.",
-    "heroHeading": "Maine Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating in New England's northernmost design market.",
-    "overview": "Maine's architecture industry serves a combination of timber and forest products hauling, consumer goods distribution to rural communities, and cross-border design with Canada. The state's geography concentrates most design traffic on I-95 along the coast and I-295 through the Portland area, while a network of state highways and logging roads serves the vast interior. Severe winters, long distances between population centers, and limited road alternatives define the operating environment.",
-    "sections": [
+    slug: 'maine',
+    name: 'Maine',
+    abbreviation: 'ME',
+    metaTitle: 'Architecture Insurance in Maine',
+    metaDescription: 'Architecture insurance for Maine firms. Coverage for design practices in the Pine Tree State\'s coastal and institutional markets.',
+    heroHeading: 'Maine Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Pine Tree State.',
+    overview: 'Maine\'s architecture market is shaped by its coastal geography, tourism economy, institutional anchors, and a building stock that spans centuries. Portland has emerged as a nationally recognized design community, while the state\'s historic coastal towns and resort communities generate preservation, hospitality, and residential design work.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Maine requires interstate firms to meet NCARB financial responsibility requirements. The Maine Bureau of Motor Vehicles oversees commercial vehicle registration, and the Maine Department of Transportation regulates intrastate carrier operations. Maine requires commercial vehicles to carry liability insurance meeting federal minimums.\n\nMaine uses a modified comparative fault system with a 50 percent bar. The state's courts have generally produced moderate verdict trends, reflecting the rural character and smaller population. However, the high cost of medical treatment in Maine, where rural hospitals may require air evacuation to Portland or Boston for serious injuries, can increase claim severity even for accidents in low-traffic areas."
+        heading: 'Licensure Requirements',
+        content: 'The Maine Board of Licensure for Architects, Landscape Architects, and Interior Designers oversees architect registration. Maine requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 is Maine's primary design corridor, running from the New Hampshire border through Portland, Augusta, Bangor, and on to Houlton at the Canadian border. The Maine Turnpike comprises the southern portion of I-95 from Kittery to Augusta. I-295 provides a bypass around Portland and handles significant local distribution traffic. US-1 parallels the coast and carries design to coastal communities not served by the interstate.\n\nThe Port of Portland handles petroleum products, road salt, and some general cargo. Bangor serves as the distribution center for northern and eastern Maine. The timber and paper industries generate design traffic throughout the interior, with logging firms operating on a network of private woods roads and state highways. Cross-border design with New Brunswick, Canada moves through the Houlton and Calais border crossings. The state's proximity to the Canadian Maritimes creates seasonal demand for potato hauling from Aroostook County."
+        heading: 'Building Code Framework',
+        content: 'Maine adopts the Maine Uniform Building and Energy Code (MUBEC) based on the IBC. The code is mandatory for municipalities with populations over 4,000, but smaller communities may opt in. This creates uneven code enforcement across the state. Coastal wind-speed zones require enhanced design in some communities. Maine\'s severe winter climate demands attention to snow loads, ice damming, and thermal performance. Energy code requirements address the state\'s heating-dominated climate.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Severe winter weather is Maine's dominant risk factor, with heavy snowfall, ice storms, and extended periods of sub-zero temperatures affecting operations from November through April. Nor'easters can dump feet of snow and close highways for extended periods. Black ice is a persistent hazard on Maine highways, particularly on bridges and overpasses.\n\nMoose collisions are a serious and frequent danger on Maine highways, particularly on I-95 north of Bangor and on rural state highways during dusk and dawn hours. A moose-design collision typically results in catastrophic vehicle damage and can cause serious driver injuries. Logging design operations on narrow, unpaved roads create rollover risks and encounter hazards. The long distances between services and medical facilities in northern Maine mean extended response times and high towing costs for remote accidents."
+        heading: 'Risk Factors',
+        content: 'Severe winter weather with heavy snow, ice, and extreme cold challenges building envelope performance. Coastal exposure creates wind and moisture management requirements. Historic building renovation requires preservation expertise and carries elevated professional liability for damage to irreplaceable fabric. Maine follows a comparative negligence standard with a six-year statute of limitations for professional negligence. The seasonal tourism economy creates peaks in construction activity during warmer months.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability reflecting the high medical costs associated with remote accident locations requiring air evacuation",
-          "Physical damage with comprehensive winter storm, ice, and collision coverage",
-          "Motor design cargo insurance for timber, forest products, and petroleum distribution",
-          "Comprehensive coverage with generous limits for moose and wildlife collisions",
-          "Towing and recovery coverage for remote northern Maine operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for coastal, historic, and institutional design',
+          'General liability for construction administration',
+          'Cyber liability for client data protection',
+          'Workers compensation for firm employees',
+          'Professional liability for cold-climate and coastal design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "How do moose collisions affect architecture insurance in Maine?",
-        "a": "Moose-vehicle collisions are a significant and costly hazard in Maine. An adult moose can weigh over 1,000 pounds, and collisions often result in total vehicle loss and serious driver injuries. Comprehensive physical damage coverage should not exclude animal collisions, and firms should ensure adequate limits for complete vehicle replacement. Moose warning signs mark the highest-risk areas on I-95 and rural highways."
-      },
-      {
-        "q": "What special insurance do Maine logging design operators need?",
-        "a": "Logging design operators need liability coverage that includes operations on private woods roads, physical damage coverage for harsh terrain conditions, motor design cargo for timber and forest products, and workers compensation addressing the high-risk nature of logging operations. Some policies exclude operations on unpaved roads, so firms must verify coverage applies to their actual operating environment."
-      },
-      {
-        "q": "Does Maine's proximity to Canada affect architecture insurance needs?",
-        "a": "Carriers crossing into New Brunswick or Quebec need insurance that satisfies both U.S. and Canadian requirements. This typically means carrying a Canadian endorsement or separate Canadian policy. Cross-border design requires customs documentation and may involve different liability standards. Carriers should work with brokers experienced in cross-border operations."
-      }
+    faqs: [
+      { q: 'How does Maine\'s building code apply?', a: 'MUBEC is mandatory for municipalities with populations over 4,000 but optional for smaller communities. Architects must verify whether a project location has adopted the building code. In communities without code enforcement, the standard of care for professional liability purposes may still reference code standards.' },
+      { q: 'What climate challenges affect Maine architecture insurance?', a: 'Severe winter weather creates snow load, ice damming, and thermal performance challenges. Coastal moisture and wind exposure compound building envelope risk. Architects should demonstrate cold-climate building science expertise to secure favorable professional liability rates.' },
+      { q: 'What drives architecture demand in Maine?', a: 'Institutional clients including universities and hospitals, tourism-driven hospitality design, historic preservation, and Portland\'s growing urban market are primary demand drivers.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "maryland",
-    "name": "Maryland",
-    "abbreviation": "MD",
-    "metaTitle": "Architecture Insurance in Maryland",
-    "metaDescription": "Commercial architecture insurance for Maryland firms. Coverage for I-95 corridor, Port of Baltimore design, and Washington D.C. metro distribution operations.",
-    "heroHeading": "Maryland Architecture Insurance",
-    "heroSubheading": "Coverage for firms in the Baltimore-Washington design corridor.",
-    "overview": "Maryland's architecture industry is anchored by the Port of Baltimore, the I-95 Northeast Corridor, and the Baltimore-Washington metropolitan area's massive consumer and government logistics market. The state's position between the Northeast and Southeast design markets makes it a natural crossroads for long-haul firms. Dense urban traffic, toll facilities, and a challenging litigation environment create an insurance market that requires careful planning.",
-    "sections": [
+    slug: 'maryland',
+    name: 'Maryland',
+    abbreviation: 'MD',
+    metaTitle: 'Architecture Insurance in Maryland',
+    metaDescription: 'Architecture insurance for Maryland firms. Coverage for practice in the Old Line State\'s institutional and federal design market.',
+    heroHeading: 'Maryland Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Old Line State.',
+    overview: 'Maryland\'s architecture market benefits from proximity to Washington, D.C., creating access to federal government design work alongside the state\'s own institutional clients. Johns Hopkins University and Hospital, the University of Maryland system, and a strong defense sector provide a deep and diverse project base. Maryland\'s contributory negligence standard adds a distinctive legal dimension to professional liability practice.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Maryland requires interstate firms to meet NCARB financial responsibility requirements. The Maryland Public Service Commission regulates for-hire design firms operating within the state and requires proof of insurance. Maryland's minimum liability requirements for commercial vehicles follow federal standards, and the state requires cargo insurance for for-hire firms.\n\nMaryland uses a contributory negligence system, one of only a few states where a claimant who is even partially at fault is barred from recovery. This strict standard can benefit firms in litigation by providing a complete defense when the claimant contributed to the accident. However, when liability is clearly on the carrier, Maryland juries in Baltimore City and Prince George's County have produced substantial verdicts."
+        heading: 'Licensure Requirements',
+        content: 'The Maryland Board of Architects oversees licensure under the Department of Labor. Maryland requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially. The University of Maryland\'s School of Architecture, Planning and Preservation and Morgan State University\'s School of Architecture provide the state\'s design education.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 runs through Maryland from the Delaware border through Baltimore and on to Washington, D.C., carrying one of the heaviest truck-traffic volumes on the East Coast. The Fort McHenry Tunnel and the Key Bridge replacement corridor (following the 2024 Francis Scott Key Bridge collapse) are critical infrastructure points that affect design routing. I-695, the Baltimore Beltway, and I-495, the Capital Beltway, carry heavy design traffic around both metropolitan areas.\n\nThe Port of Baltimore specializes in roll-on roll-off automobile and machinery imports, making it the leading auto port in the country. The port also handles containers, forest products, and bulk commodities. I-70 enters Maryland from the west, connecting the state to the Midwest through the mountains of western Maryland. I-81 serves the Hagerstown area in the western panhandle, where several major distribution centers have located for access to the Mid-Atlantic market. US-50 connects the Eastern Shore and the Chesapeake Bay Bridge to the Baltimore-Washington corridor."
+        heading: 'Building Code Framework',
+        content: 'Maryland adopts the Maryland Building Performance Standards based on the IBC through the Department of Housing and Community Development. Local jurisdictions enforce the state code with limited amendment authority. Chesapeake Bay environmental regulations affect waterfront and watershed development. Baltimore City maintains its own permitting processes. Coastal wind-speed zones apply along the Eastern Shore and Chesapeake Bay. Energy code requirements follow the IECC with Maryland amendments.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "The I-95 corridor through Maryland is one of the most congested design routes in the country, with heavy design volumes competing with commuter traffic in the Baltimore and Washington metropolitan areas. The merging and weaving required at complex interchanges like the I-95/I-695 junction produces high accident frequency. Toll facilities on I-95 and the Bay Bridge create congestion bottlenecks.\n\nMaryland weather ranges from nor'easters and ice storms to occasional hurricane remnants that bring flooding. The Chesapeake Bay Bridge on US-50 is frequently closed to high-profile vehicles during high winds, disrupting Eastern Shore design movement. Urban delivery operations in Baltimore and the D.C. suburbs involve navigating narrow streets, low overpasses, and restricted design routes. Cargo theft in the Baltimore-Washington corridor is a significant concern for high-value design."
+        heading: 'Risk Factors',
+        content: 'Maryland is a contributory negligence state, meaning any claimant fault bars recovery entirely. This creates the same claim dynamics as North Carolina and Virginia — it can benefit architects in defense but means clear-liability cases attract aggressive pursuit. The D.C.-proximity market creates high project values and sophisticated clients. Chesapeake Bay environmental regulations add design compliance complexity. Baltimore\'s older building stock presents renovation challenges. Maryland follows the contributory negligence standard with a ten-year statute of repose for construction defect claims.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits reflecting the high-severity accident potential on the I-95 corridor",
-          "Physical damage with winter storm and flood coverage",
-          "Motor design cargo insurance for port design, including automobile and roll-on roll-off cargo",
-          "Umbrella or excess liability for Baltimore City and Prince George's County court exposure",
-          "General liability for firms with terminal operations in the Hagerstown distribution corridor"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for federal, institutional, and commercial design',
+          'General liability for construction administration',
+          'Cyber liability for federal and institutional client data',
+          'Workers compensation for firm employees',
+          'Umbrella coverage given Maryland\'s contributory negligence dynamics'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "How does Maryland's contributory negligence rule affect architecture claims?",
-        "a": "Maryland's contributory negligence standard bars any claimant who is even slightly at fault from recovering damages. This can provide a strong defense for firms when the other party contributed to the accident. However, when the carrier is clearly at fault, verdicts can be significant, particularly in Baltimore City courts. Dashcam evidence is especially valuable in Maryland for establishing comparative fault."
-      },
-      {
-        "q": "What insurance do Port of Baltimore drayage firms need?",
-        "a": "Port of Baltimore drayage firms need primary auto liability, motor design cargo insurance covering containerized and roll-on roll-off design, and physical damage coverage. The port's specialization in automobile imports means cargo coverage should address vehicle-specific risks. Many steamship lines and terminal operators require $1,000,000 minimum liability limits and specific endorsements."
-      },
-      {
-        "q": "How did the Key Bridge collapse affect Maryland design practices?",
-        "a": "The March 2024 collapse of the Francis Scott Key Bridge disrupted port access and design routing in the Baltimore area. The reconstruction process has altered traffic patterns and increased congestion on alternative routes. Carriers should monitor current routing advisories and ensure their policies cover the changing traffic patterns and potential for increased accident exposure during the reconstruction period."
-      }
+    faqs: [
+      { q: 'How does Maryland\'s contributory negligence standard affect architects?', a: 'Maryland is one of a handful of contributory negligence states. Any claimant fault bars recovery, which can protect architects when owners share blame. However, when architect liability is clear, damages can be substantial. Strong documentation is the best risk management tool.' },
+      { q: 'How does D.C. proximity affect Maryland architecture?', a: 'Maryland firms have access to federal government design work through proximity to Washington, D.C. GSA and DoD projects provide significant design demand. Many Maryland firms maintain dual licensure in D.C. and Virginia to serve the full metropolitan market.' },
+      { q: 'What continuing education does Maryland require?', a: 'Maryland requires 24 hours of continuing education biennially, including health, safety, and welfare content. The board accepts AIA and NCARB-approved programs.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "cyber-liability",
-      "umbrella-excess",
-      "general-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "massachusetts",
-    "name": "Massachusetts",
-    "abbreviation": "MA",
-    "metaTitle": "Architecture Insurance in Massachusetts",
-    "metaDescription": "Commercial architecture insurance for Massachusetts firms. Coverage for I-90 and I-93 corridor operations, Boston metro design, and New England distribution.",
-    "heroHeading": "Massachusetts Architecture Insurance",
-    "heroSubheading": "Coverage for firms navigating New England's most complex design market.",
-    "overview": "Massachusetts is the economic engine of New England, with the Boston metropolitan area generating substantial design demand for consumer goods, construction materials, and heating fuel distribution. The state's aging infrastructure, dense urban geography, and harsh winters create a demanding operating environment. I-90, the Massachusetts Turnpike, connects Boston to the western part of the state and the New York border, while I-93 and I-95 handle the heaviest design volumes in the Boston metro area.",
-    "sections": [
+    slug: 'massachusetts',
+    name: 'Massachusetts',
+    abbreviation: 'MA',
+    metaTitle: 'Architecture Insurance in Massachusetts',
+    metaDescription: 'Architecture insurance for Massachusetts firms. Coverage for practice in the Bay State\'s world-class institutional design market.',
+    heroHeading: 'Massachusetts Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Bay State.',
+    overview: 'Massachusetts is one of the most significant architecture markets in the country, anchored by world-class universities, healthcare institutions, and a rich building heritage that spans from colonial structures to cutting-edge contemporary design. Boston\'s density, institutional wealth, and historic preservation requirements create a demanding and rewarding practice environment.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Massachusetts requires interstate firms to meet NCARB financial responsibility requirements. The Massachusetts Department of Transportation and the Department of Public Utilities regulate intrastate motor carrier operations. Massachusetts has some of the most prescriptive commercial vehicle insurance requirements in New England, including mandatory uninsured motorist coverage.\n\nMassachusetts uses a modified comparative fault system with a 51 percent bar. The state's courts, particularly in Suffolk County (Boston), have produced significant architecture verdicts. Massachusetts also has a compulsory insurance system for all motor vehicles that requires coverage to be obtained before vehicle registration, adding administrative complexity for practice operations."
+        heading: 'Licensure Requirements',
+        content: 'The Massachusetts Board of Registration of Architects oversees licensure under the Division of Professional Licensure. Massachusetts requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education is not currently mandated by the state for license renewal. MIT, Harvard GSD, Wentworth, and Boston Architectural College provide exceptional design education that feeds the local talent pool.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-90, the Massachusetts Turnpike, runs from the New York border through Springfield and Worcester to Boston, serving as the primary east-west design route. I-93 runs north-south through Boston, connecting to New Hampshire. I-95, known locally as Route 128 in the Boston suburbs, loops around the metro area and continues north to New Hampshire and south to Rhode Island and Connecticut. I-495 provides an outer beltway serving the distribution centers in the MetroWest and Merrimack Valley regions.\n\nThe Port of Boston handles containers, liquefied natural gas, and automobiles. The Worcester area has emerged as a regional distribution center, with lower real estate costs than Boston attracting logistics operations. Springfield in western Massachusetts serves as a distribution hub for the Connecticut River Valley. The I-91 corridor runs through western Massachusetts connecting Springfield to Vermont. Heating oil and propane distribution generates significant tanker design traffic throughout the state from October through April."
+        heading: 'Building Code Framework',
+        content: 'Massachusetts adopts the State Building Code based on the IBC through the Board of Building Regulations and Standards. The code is mandatory statewide with limited local amendment authority. The Massachusetts Stretch Energy Code allows communities to adopt more stringent energy requirements, and the new Specialized Energy Code pushes even further. The state\'s historic preservation regulations, administered by the Massachusetts Historical Commission, affect renovations to designated properties. Boston\'s BPDA review process adds design approval requirements for larger projects.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Boston's narrow streets, rotaries, and complex highway interchanges create an extremely challenging urban architecture environment. The infamous Big Dig tunnels on I-93 through downtown Boston have height and hazmat restrictions that affect design routing. Storrow Drive and Memorial Drive along the Charles River are notorious for design bridge strikes from oversized vehicles. The I-93/I-95 interchange is one of the worst congestion points in New England.\n\nNor'easters bring heavy snow, ice, and coastal flooding that can shut down operations for days. Winter heating fuel distribution creates surge demand and increased exposure during the most hazardous driving conditions. Massachusetts has a high rate of pedestrian and cyclist accidents in urban areas, adding to liability exposure for firms operating in Boston, Cambridge, and other dense communities."
+        heading: 'Risk Factors',
+        content: 'Massachusetts\'s high construction costs drive up project values and professional liability exposure. Nor\'easter storms create wind and moisture challenges for coastal buildings. The state\'s institutional clients including MIT, Harvard, and major healthcare systems have sophisticated legal resources and high expectations. Boston\'s dense urban environment creates complex site conditions. Massachusetts follows a comparative negligence standard with a six-year statute of repose for construction defect claims. The state\'s strict Stretch Energy Code creates compliance obligations that add professional liability exposure.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher for Boston metro operations",
-          "Uninsured motorist coverage as required by Massachusetts law",
-          "Physical damage with winter storm and flood coverage for nor'easter exposure",
-          "Motor design cargo insurance for heating fuel, LNG, and consumer goods distribution",
-          "Umbrella or excess liability for Suffolk County and Middlesex County court exposure",
-          "Pollution liability for heating fuel and petroleum product distributors"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with limits reflecting high Massachusetts project values',
+          'General liability for dense urban and institutional construction administration',
+          'Cyber liability for protecting university and healthcare client data',
+          'Workers compensation for firm employees',
+          'Professional liability for energy code and historic preservation compliance'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is architecture insurance expensive in Massachusetts?",
-        "a": "Massachusetts premiums reflect dense urban congestion, aging infrastructure that increases accident risk, harsh winters, a compulsory insurance system that adds administrative costs, mandatory uninsured motorist requirements, and a litigation environment in Boston-area courts that produces above-average verdicts. The high cost of vehicle repair and medical treatment in Massachusetts further elevates claims costs."
-      },
-      {
-        "q": "What are the design restrictions in Boston?",
-        "a": "The Big Dig tunnels on I-93 have height limits and hazardous materials restrictions. Storrow Drive and Memorial Drive prohibit commercial vehicles entirely, though bridge strikes from firms entering these roads remain a regular occurrence. Many Boston neighborhoods have posted design routes with weight and time-of-day restrictions. Carriers should ensure drivers have current route guidance to avoid violations and infrastructure damage claims."
-      },
-      {
-        "q": "Does Massachusetts have special requirements for heating oil delivery trucks?",
-        "a": "Heating oil delivery firms must carry liability insurance meeting both NCARB and state requirements, plus pollution liability coverage for fuel spill exposure. Massachusetts environmental regulations are strict, and cleanup costs for residential heating oil spills can be substantial. Carriers should ensure motor design cargo policies cover petroleum products and that pollution liability limits are adequate for residential delivery operations."
-      }
+    faqs: [
+      { q: 'Does Massachusetts require continuing education for architects?', a: 'Massachusetts does not currently mandate continuing education for architect license renewal. However, the sophisticated institutional client base expects architects to maintain current knowledge, and most firms pursue CE through AIA and other providers.' },
+      { q: 'What is the Massachusetts Stretch Energy Code?', a: 'The Stretch Energy Code is an optional, more stringent energy code that communities can adopt beyond the base state energy code. The Specialized Energy Code goes even further. These create a tiered system where energy compliance requirements vary by municipality.' },
+      { q: 'How do institutional clients affect Massachusetts architecture insurance?', a: 'MIT, Harvard, MGH, and other world-class institutions maintain sophisticated legal departments and high design expectations. These clients typically require high professional liability limits and detailed contract provisions. Serving them is prestigious but creates elevated exposure.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "michigan",
-    "name": "Michigan",
-    "abbreviation": "MI",
-    "metaTitle": "Architecture Insurance in Michigan",
-    "metaDescription": "Commercial architecture insurance for Michigan firms. Coverage for automotive industry design, I-94 and I-75 corridors.",
-    "heroHeading": "Michigan Architecture Insurance",
-    "heroSubheading": "Coverage for firms in the heart of America's automotive design network.",
-    "overview": "Michigan's architecture industry is inextricably linked to the automotive manufacturing sector, with just-in-time parts delivery creating a constant flow of design between assembly plants, suppliers, and distribution centers. The state's no-fault auto insurance system creates unique coverage complexities for commercial vehicles. Detroit's proximity to the Canadian border makes it the busiest commercial vehicle border crossing in North America, and the state's harsh winters present persistent operational challenges.",
-    "sections": [
+    slug: 'michigan',
+    name: 'Michigan',
+    abbreviation: 'MI',
+    metaTitle: 'Architecture Insurance in Michigan',
+    metaDescription: 'Architecture insurance for Michigan firms. Coverage for Great Lakes design challenges and the state\'s urban renaissance.',
+    heroHeading: 'Michigan Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Great Lakes State.',
+    overview: 'Michigan\'s architecture market has been transformed by Detroit\'s urban renaissance and Grand Rapids\'s design-forward culture. The state supports a diverse market driven by automotive industry facilities, healthcare systems, university campuses, and adaptive reuse of industrial buildings. Lake-effect weather and cold climate conditions create building science challenges that affect professional liability exposure.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Michigan's no-fault auto insurance system creates unique requirements for commercial vehicles. While NCARB interstate requirements apply, Michigan also requires firms to provide personal injury protection benefits under the state's no-fault law. Recent reforms have modified the PIP system, but commercial vehicles must still provide unlimited medical benefits for injured parties in certain circumstances, significantly increasing coverage costs.\n\nMichigan uses a modified comparative fault system with a 51 percent bar for tort liability claims that exceed the no-fault threshold. The no-fault system means that injuries below a certain severity threshold are covered by each party's own PIP coverage regardless of fault, which can reduce litigation frequency but increases the baseline cost of every policy. Michigan's combination of no-fault PIP and at-fault liability for serious injuries creates one of the most complex commercial auto insurance frameworks in the country."
+        heading: 'Licensure Requirements',
+        content: 'The Michigan Board of Architects oversees licensure under LARA (Department of Licensing and Regulatory Affairs). Michigan requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 40 hours biennially, among the highest in the country. The University of Michigan\'s Taubman College and Lawrence Technological University provide design education.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-94 runs across southern Michigan from Detroit through Ann Arbor, Kalamazoo, and on to Chicago, carrying heavy automotive and general design volumes. I-75 runs north-south through Detroit, Flint, Saginaw, and on to the Mackinac Bridge and the Upper Peninsula. I-96 connects Grand Rapids to Lansing and Detroit, serving the western Michigan manufacturing corridor.\n\nThe Ambassador Bridge and the Gordie Howe International Bridge connect Detroit to Windsor, Ontario, forming the busiest commercial vehicle border crossing between the U.S. and Canada. Over 25 percent of all U.S.-Canada trade crosses at Detroit. Grand Rapids is a major distribution center and furniture manufacturing hub. The Lansing and Flint areas house automotive assembly plants generating just-in-time design demand. I-69 runs across the southern tier connecting Port Huron's Blue Water Bridge border crossing to I-94."
+        heading: 'Building Code Framework',
+        content: 'Michigan adopts the Michigan Building Code based on the IBC through the Bureau of Construction Codes. The code is mandatory statewide with enforcement by local building departments. Michigan\'s lake-effect climate requires enhanced snow load and thermal performance design. The state\'s auto industry heritage has left an inventory of industrial buildings requiring adaptive reuse. Michigan\'s energy code follows the IECC with state amendments.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Michigan winters are severe, with heavy lake-effect snow in western and northern Michigan, ice storms, and extended periods of sub-freezing temperatures. The lake-effect snow bands can produce localized whiteout conditions on I-196, US-131, and I-94 near Lake Michigan. The Upper Peninsula receives some of the heaviest snowfall in the eastern United States, with annual totals exceeding 200 inches in some areas.\n\nDetroit metro traffic congestion and the aging condition of Michigan's road infrastructure contribute to high accident frequency. Michigan's roads are among the most heavily used by firms due to the automotive supply chain, but the state's historically limited road funding has left many highways in poor condition. Pothole and road surface damage claims are unusually common in Michigan. The complexity of the no-fault insurance system means that claims processing is more expensive and time-consuming than in conventional tort states."
+        heading: 'Risk Factors',
+        content: 'Lake-effect weather from the Great Lakes produces heavy snowfall, high winds, and dramatic temperature swings. Michigan\'s older industrial building stock presents renovation challenges including hazardous materials and structural deterioration. Detroit\'s urban renaissance involves adaptive reuse of aging buildings where existing conditions create unknown risks. Michigan follows a comparative negligence standard with a six-year statute of repose for construction defect claims. The state\'s no-fault auto insurance system does not directly affect architecture professional liability but indicates a unique legal environment.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with Michigan no-fault PIP compliance, which significantly affects premium structure",
-          "Physical damage with comprehensive winter weather, ice, and pothole damage coverage",
-          "Motor design cargo insurance for automotive parts and just-in-time manufacturing design",
-          "Cross-border coverage for firms operating between Michigan and Ontario, Canada",
-          "Excess liability for Wayne County and Oakland County court exposure",
-          "Workers compensation covering cold-weather injuries and automotive plant operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for adaptive reuse, healthcare, and institutional design',
+          'General liability for construction administration on aging building renovations',
+          'Cyber liability for automotive and healthcare client data',
+          'Workers compensation for firm employees (Michigan requires private market coverage)',
+          'Professional liability for cold-climate building envelope design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "How does Michigan's no-fault insurance system affect commercial architecture?",
-        "a": "Michigan's no-fault system requires commercial vehicle policies to include personal injury protection that covers medical expenses for injuries resulting from accidents, regardless of fault. Recent reforms have modified PIP requirements, but commercial vehicles still face higher baseline coverage costs than in most states. The no-fault system reduces some litigation but adds complexity and cost to every policy."
-      },
-      {
-        "q": "What insurance do I need for cross-border architecture between Michigan and Canada?",
-        "a": "Cross-border firms need U.S. commercial auto insurance meeting NCARB requirements, Canadian liability coverage meeting Ontario's minimum standards, cargo insurance valid in both countries, and proper customs documentation. Some insurers offer combined policies, while others require separate Canadian endorsements. The Gordie Howe International Bridge and Ambassador Bridge have specific insurance verification procedures."
-      },
-      {
-        "q": "Why are Michigan roads so damaging to trucks?",
-        "a": "Michigan's combination of heavy design traffic, severe freeze-thaw cycles, and historically underfunded road maintenance creates road surface conditions that produce more pothole and pavement damage claims than most states. Physical damage policies should account for this exposure, and firms should budget for higher maintenance costs when operating primarily on Michigan roads."
-      }
+    faqs: [
+      { q: 'Why does Michigan require 40 hours of continuing education?', a: 'Michigan\'s 40-hour biennial CE requirement is among the highest in the country. The board requires specific content areas including health, safety, and welfare; barrier-free design; and energy conservation. This ensures Michigan architects maintain comprehensive knowledge across practice areas.' },
+      { q: 'How does Detroit\'s renaissance affect architecture insurance?', a: 'The volume of adaptive reuse and urban redevelopment in Detroit creates professional liability exposure related to unknown existing conditions, hazardous materials, and structural uncertainties in aging buildings. Firms should ensure their coverage addresses renovation-specific risks.' },
+      { q: 'What lake-effect challenges affect Michigan architecture?', a: 'Lake-effect snow, high winds, and extreme temperature swings challenge building envelope performance. Western Michigan communities receive particularly heavy snowfall. Snow load, ice damming, and moisture management are primary design challenges.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "umbrella-excess"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "minnesota",
-    "name": "Minnesota",
-    "abbreviation": "MN",
-    "metaTitle": "Architecture Insurance in Minnesota",
-    "metaDescription": "Commercial architecture insurance for Minnesota firms. Coverage for I-35 and I-94 corridors, Twin Cities design hub, and severe winter operations.",
-    "heroHeading": "Minnesota Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating in the Upper Midwest's premier design market.",
-    "overview": "Minnesota's architecture industry centers on the Twin Cities metropolitan area, one of the most important distribution hubs in the Upper Midwest. I-35 and I-94 converge in Minneapolis-St. Paul, connecting design flows between the Northern Plains, the Great Lakes, and the national highway network. The state's severe winters are the dominant operational challenge, but Minnesota also offers a strong transportation workforce, a diverse design base including agriculture and manufacturing, and a relatively moderate litigation environment.",
-    "sections": [
+    slug: 'minnesota',
+    name: 'Minnesota',
+    abbreviation: 'MN',
+    metaTitle: 'Architecture Insurance in Minnesota',
+    metaDescription: 'Architecture insurance for Minnesota firms. Coverage for extreme cold-climate design in the Land of 10,000 Lakes.',
+    heroHeading: 'Minnesota Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the North Star State.',
+    overview: 'Minnesota supports a nationally significant architecture market led by major firms headquartered in the Twin Cities. The state\'s extreme cold climate creates critical building science challenges that define professional liability exposure. Fortune 500 corporate headquarters, world-class healthcare systems, and the University of Minnesota provide a deep institutional client base.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Minnesota requires interstate firms to meet NCARB financial responsibility requirements. The Minnesota Department of Transportation oversees intrastate motor carrier operations and requires proof of insurance. Minnesota's minimum commercial vehicle liability requirements follow federal standards.\n\nMinnesota uses a modified comparative fault system with a 51 percent bar. The Hennepin County (Minneapolis) and Ramsey County (St. Paul) courts handle the majority of architecture litigation in the state, with verdict trends that are moderate by national standards. Minnesota's regulatory environment for architecture is generally considered fair and predictable, which contributes to a stable insurance market."
+        heading: 'Licensure Requirements',
+        content: 'The Minnesota Board of Architecture, Engineering, Land Surveying, Landscape Architecture, Geoscience and Interior Design (AELSLAGID) oversees licensure. Minnesota requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially. The University of Minnesota\'s College of Design is the state\'s architecture program.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-35 splits into I-35W through Minneapolis and I-35E through St. Paul, reconnecting south of the metro before continuing to Duluth in the north and to Iowa and Kansas City in the south. I-94 runs east-west through the Twin Cities, connecting Fargo, North Dakota to Milwaukee and Chicago. I-90 crosses southern Minnesota through Rochester, Mankato, and Sioux Falls.\n\nThe Twin Cities metro area is a major distribution hub, with concentrations of warehousing and logistics operations in the southern suburbs, Shakopee, and the I-94 corridor. Target Corporation, UnitedHealth Group, and numerous other Fortune 500 companies headquartered in Minnesota generate steady design demand. Duluth and the Iron Range in northeastern Minnesota serve the mining industry, with iron ore pellets and taconite moving by design to rail and port facilities. Rochester's Mayo Clinic generates medical supply and pharmaceutical design demand."
+        heading: 'Building Code Framework',
+        content: 'Minnesota adopts the Minnesota State Building Code based on the IBC through the Department of Labor and Industry. The code includes significant Minnesota amendments addressing cold-climate construction, including enhanced insulation, vapor barrier, and ice protection requirements. Minneapolis and St. Paul maintain separate plan review and permitting processes. Minnesota\'s SB 2030 energy standard has been pioneering in performance-based energy design for state-funded buildings. The state\'s 2040 comprehensive plans in Minneapolis and St. Paul have changed residential zoning in ways that affect architecture practice.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Severe winter weather dominates Minnesota's risk profile. Blizzards, extreme cold with wind chill values dropping below minus 50 degrees, and icy roads create hazardous conditions from November through March. I-35 between the Twin Cities and Duluth is particularly treacherous in winter, with lake-effect snow from Lake Superior and steep terrain near Duluth. Ground blizzards on the open prairie of western Minnesota can reduce visibility to zero.\n\nSpring flooding along the Minnesota and Mississippi Rivers periodically closes highways and disrupts design movement. Severe thunderstorms and occasional tornadoes affect the state during summer months. The transition between dry pavement and ice or snow patches creates unpredictable traction conditions that contribute to multi-vehicle accidents. Minnesota's shorter daylight hours during winter mean more driving occurs in darkness, increasing fatigue and accident risk."
+        heading: 'Risk Factors',
+        content: 'Extreme cold, with temperatures reaching minus 30 degrees, creates critical building envelope challenges. Ice damming, condensation, thermal bridging, and vapor drive management are leading sources of professional liability claims in the Twin Cities. Minnesota\'s ten-year statute of repose and comparative fault standard define the legal framework. The state\'s robust Fortune 500 corporate presence creates sophisticated clients with high professional liability expectations. Severe weather including tornadoes, hail, and ice storms creates additional design considerations.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits appropriate for Twin Cities metro and multi-state corridor operations",
-          "Physical damage with comprehensive winter storm, ice, and flood coverage",
-          "Motor design cargo insurance for agricultural commodities, manufacturing design, and medical supplies",
-          "Workers compensation covering cold-weather injuries, frostbite, and hypothermia exposure",
-          "Non-architecture liability for owner-operators in the Twin Cities distribution market"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability with expertise in cold-climate building envelope claims',
+          'General liability for construction administration',
+          'Cyber liability for corporate and healthcare client data',
+          'Workers compensation for firm employees',
+          'Professional liability addressing vapor management and thermal performance design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "How do Minnesota winters affect architecture insurance premiums?",
-        "a": "Minnesota's severe winters increase physical damage claim frequency from ice and snow, contribute to higher collision rates during the extended cold season, and create cargo damage exposure from freezing. Carriers with strong winter driving programs, pre-trip inspection protocols, and cold-weather equipment maintenance can demonstrate to insurers that they manage winter risk effectively, potentially moderating premium increases."
-      },
-      {
-        "q": "Is the Twin Cities a competitive architecture insurance market?",
-        "a": "Yes, the Twin Cities benefit from having multiple insurance firms and brokers specializing in transportation. The moderate litigation environment, strong safety culture among Minnesota firms, and diverse design base create a relatively competitive insurance market compared to states with more challenging litigation environments."
-      },
-      {
-        "q": "What mining industry architecture risks exist in northeastern Minnesota?",
-        "a": "Iron Range and taconite mining operations involve hauling extremely heavy loads on roads shared with mining equipment. Dust, narrow routes, and the seasonal shutdown and restart cycles create unique operating risks. Carriers serving the mining industry should ensure physical damage and liability policies cover operations in active mining areas and on private haul roads."
-      }
+    faqs: [
+      { q: 'How does Minnesota\'s extreme cold affect architecture insurance?', a: 'The extreme cold creates elevated building envelope exposure. Ice damming, condensation failures, thermal bridging, and insulation deficiencies are common claim triggers. Insurers evaluate a firm\'s cold-climate building science expertise when pricing Minnesota coverage.' },
+      { q: 'What is SB 2030?', a: 'SB 2030 is Minnesota\'s energy performance standard for state-funded buildings, requiring progressive reductions in energy use with a target of net-zero by 2030. Architects working on state projects must design to these standards, creating both opportunity and professional liability exposure around energy performance compliance.' },
+      { q: 'How does Minneapolis\'s 2040 plan affect architecture?', a: 'Minneapolis 2040 eliminated single-family-only zoning citywide, allowing duplexes and triplexes in all residential areas. This has created new residential design opportunities and changed the types of projects architects handle in Minneapolis neighborhoods.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "general-liability",
-      "cyber-liability",
-      "workers-compensation"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "mississippi",
-    "name": "Mississippi",
-    "abbreviation": "MS",
-    "metaTitle": "Architecture Insurance in Mississippi",
-    "metaDescription": "Commercial architecture insurance for Mississippi firms. Coverage for I-55 and I-20 corridors, Gulf Coast port design, and challenging litigation exposure.",
-    "heroHeading": "Mississippi Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating through the Deep South's key design corridors.",
-    "overview": "Mississippi's architecture industry serves a combination of agricultural hauling, Gulf Coast port design, and through-traffic on major north-south and east-west corridors. I-55 and I-20 intersect in Jackson, creating the state's primary design crossroads. The state's litigation environment has improved somewhat from its historical reputation but remains a significant concern for firms. Hurricane exposure along the Gulf Coast and the state's rural road network add to the insurance challenges.",
-    "sections": [
+    slug: 'mississippi',
+    name: 'Mississippi',
+    abbreviation: 'MS',
+    metaTitle: 'Architecture Insurance in Mississippi',
+    metaDescription: 'Architecture insurance for Mississippi firms. Coverage for the Magnolia State\'s institutional and Gulf Coast design markets.',
+    heroHeading: 'Mississippi Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Magnolia State.',
+    overview: 'Mississippi\'s architecture market is centered on Jackson with institutional anchors including the state government, university medical center, and healthcare systems. The Gulf Coast provides coastal design opportunities shaped by hurricane recovery and resilience, while the state\'s moderate legal environment keeps professional liability costs lower than neighboring Louisiana.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Mississippi requires interstate firms to meet NCARB financial responsibility requirements. The Mississippi Department of Transportation and the Public Service Commission oversee intrastate motor carrier operations and require proof of insurance. Mississippi's minimum liability requirements for commercial vehicles follow federal standards.\n\nMississippi uses a pure comparative fault system, allowing injured parties to recover damages reduced by their percentage of fault even if they are primarily at fault. This is among the most plaintiff-friendly fault standards in the Southeast. Certain Mississippi court venues, historically including the Mississippi Delta counties and some Gulf Coast jurisdictions, have developed reputations for large jury verdicts in architecture cases. Tort reform efforts have moderated some of these trends, but firms should still maintain robust liability limits."
+        heading: 'Licensure Requirements',
+        content: 'The Mississippi State Board of Architecture oversees licensure. Mississippi requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 24 hours biennially. Mississippi State University\'s School of Architecture in Starkville is the state\'s architecture program.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-55 runs north-south through Mississippi from Memphis through Grenada, Jackson, and Brookhaven to the Louisiana border, carrying heavy design volumes between the Mid-South and Gulf Coast. I-20 crosses the state east-west through Vicksburg, Jackson, and Meridian, connecting Dallas-Shreveport to Birmingham. I-10 crosses the southern tip of the state along the Gulf Coast through Biloxi and Gulfport.\n\nThe Port of Gulfport handles containers, forest products, and military cargo. The Port of Pascagoula serves the petrochemical and shipbuilding industries. Jackson is the state's primary distribution center and the convergence point for most major design routes. The Mississippi River ports at Vicksburg, Natchez, and Greenville handle barge-to-design transloading for agricultural commodities. The Golden Triangle region around Columbus and Starkville has attracted manufacturing investment, including a major steel mill and automobile plant."
+        heading: 'Building Code Framework',
+        content: 'Mississippi does not mandate a statewide building code for all jurisdictions. The Mississippi Building Code Council has adopted codes for state-owned buildings, but local adoption varies. Gulf Coast communities adopted the International Building Code with enhanced wind-resistance provisions following Hurricane Katrina. Inland jurisdictions may or may not have adopted building codes. This creates an uneven regulatory landscape across the state.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Hurricane exposure along the Mississippi Gulf Coast is the most significant catastrophic risk. Hurricane Katrina in 2005 devastated the coast and disrupted design operations throughout the state for months. The Gulf Coast region remains vulnerable to major storms during the June through November hurricane season. Tornadoes also affect Mississippi, particularly during the spring severe weather season.\n\nMississippi's rural road network includes many two-lane highways without adequate shoulders, lighting, or rumble strips. These roads carry significant agricultural and timber design traffic, and the higher accident rates per mile on rural routes increase overall risk. Flooding along the Mississippi River and its tributaries is a recurring seasonal hazard. The state's litigation environment, while improved, still presents higher-than-average verdict exposure that firms should account for in their liability limits."
+        heading: 'Risk Factors',
+        content: 'Gulf Coast hurricane exposure is the primary weather-related risk. Katrina\'s devastation led to stronger building code adoption in coastal communities. Tornado risk exists across the state. Mississippi follows a comparative negligence standard, and the legal environment is moderate compared to Louisiana. Lower construction costs mean lower project values and correspondingly lower professional liability exposure than many other states. The state\'s smaller market means firms often handle diverse project types.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given Mississippi's pure comparative fault standard",
-          "Umbrella or excess liability for exposure to historically plaintiff-friendly court venues",
-          "Physical damage with hurricane, flood, and comprehensive storm coverage",
-          "Motor design cargo insurance for agricultural, timber, and port design commodities",
-          "Workers compensation for operations in the Gulf Coast petrochemical and port sectors"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability for institutional, healthcare, and Gulf Coast design',
+          'General liability for construction administration',
+          'Cyber liability for client data protection',
+          'Workers compensation for firm employees',
+          'Professional liability for hurricane-resistant coastal design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Has Mississippi's litigation environment improved for architecture defendants?",
-        "a": "Tort reform efforts have brought some improvements, including limits on non-economic damages in certain cases and changes to venue selection rules that have reduced forum shopping. However, Mississippi's pure comparative fault system and certain court venues continue to produce above-average verdicts in architecture cases. Carriers should maintain robust liability limits and strong safety documentation."
-      },
-      {
-        "q": "What insurance is needed for Mississippi Gulf Coast operations?",
-        "a": "Gulf Coast firms need comprehensive hurricane and flood coverage in their physical damage policies, motor design cargo insurance for port design, pollution liability for petrochemical hauling, and liability limits reflecting the Gulf Coast court venues. Named-storm deductibles and flood exclusions should be carefully reviewed and negotiated to ensure adequate coverage."
-      },
-      {
-        "q": "How does agriculture affect Mississippi architecture insurance?",
-        "a": "Mississippi's cotton, soybean, rice, and catfish farming industries generate seasonal surges in architecture demand. Agricultural haulers need cargo coverage specific to their commodities, physical damage coverage for operations on rural farm roads, and potentially adjustable workers compensation for seasonal workforce fluctuations. Grain haulers should ensure coverage for bin loading and unloading operations."
-      }
+    faqs: [
+      { q: 'Does Mississippi have a statewide building code?', a: 'Mississippi does not mandate building codes for all jurisdictions. Gulf Coast communities have adopted codes following Hurricane Katrina, and state buildings follow adopted codes, but many inland jurisdictions do not have mandatory building code enforcement.' },
+      { q: 'How does Mississippi\'s legal environment compare to Louisiana?', a: 'Mississippi is significantly less litigious than Louisiana, resulting in lower professional liability insurance costs. The state\'s comparative negligence standard and moderate verdict trends make it a more manageable insurance environment.' },
+      { q: 'What continuing education does Mississippi require?', a: 'Mississippi requires 24 hours of continuing education biennially, including health, safety, and welfare content.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "umbrella-excess",
-      "general-liability",
-      "cyber-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   },
   {
-    "slug": "missouri",
-    "name": "Missouri",
-    "abbreviation": "MO",
-    "metaTitle": "Architecture Insurance in Missouri",
-    "metaDescription": "Commercial architecture insurance for Missouri firms. Coverage for Kansas City and St. Louis design hubs, I-70 and I-44 corridors, and central U.S.",
-    "heroHeading": "Missouri Architecture Insurance",
-    "heroSubheading": "Coverage for firms operating from the Gateway to the West.",
-    "overview": "Missouri's position at the geographic center of the country, with two major metropolitan design hubs in Kansas City and St. Louis, makes it one of the most important states in the national architecture network. I-70, I-44, I-35, and I-55 all converge in Missouri, creating a dense web of design corridors. The state's diverse design base includes automotive manufacturing, agriculture, and the enormous distribution and e-commerce fulfillment operations that have concentrated in both metro areas. Missouri's litigation environment, particularly in St. Louis City, is a significant insurance cost consideration.",
-    "sections": [
+    slug: 'missouri',
+    name: 'Missouri',
+    abbreviation: 'MO',
+    metaTitle: 'Architecture Insurance in Missouri',
+    metaDescription: 'Architecture insurance for Missouri firms. Coverage for design practices in the Show-Me State\'s dual-city market.',
+    heroHeading: 'Missouri Architecture Insurance',
+    heroSubheading: 'Coverage for firms designing in the Show-Me State.',
+    overview: 'Missouri\'s architecture market is split between Kansas City and St. Louis, with each metro supporting a robust design community. The state\'s position in the New Madrid Seismic Zone (affecting St. Louis), tornado exposure, and a legal environment trending toward larger professional negligence verdicts create a professional liability landscape that demands attention from Missouri architecture firms.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Missouri requires interstate firms to meet NCARB financial responsibility requirements. The Missouri Department of Transportation's Motor Carrier Services division oversees intrastate motor carrier registration and requires proof of insurance. Missouri's minimum commercial vehicle liability requirements follow federal standards for vehicles operating under USDOT authority.\n\nMissouri uses a pure comparative fault system, allowing injured parties to recover damages regardless of their percentage of fault, with the recovery reduced accordingly. St. Louis City is widely considered one of the most plaintiff-friendly jurisdictions in the country for architecture cases, with a history of nuclear verdicts that has made it a top-tier litigation risk for design firms. The Kansas City metro courts have also produced significant verdicts, though generally more moderate than St. Louis."
+        heading: 'Licensure Requirements',
+        content: 'The Missouri Board for Architects, Professional Engineers, Professional Land Surveyors and Professional Landscape Architects oversees licensure. Missouri requires an NAAB-accredited degree, ARE completion, and AXP experience. The state participates in NCARB reciprocity. Continuing education requirements include 30 hours biennially, including specific hours for professional conduct content. Washington University\'s Sam Fox School of Design and Drury University\'s Hammons School of Architecture provide design education.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-70 crosses Missouri from Kansas City through Columbia to St. Louis, serving as the primary east-west corridor and one of the busiest design routes in the Midwest. I-44 runs from St. Louis through Springfield to Joplin and the Oklahoma border, following the old Route 66 alignment. I-35 passes through Kansas City connecting the Midwest to Texas. I-55 enters St. Louis from Chicago and continues south to Memphis.\n\nKansas City is one of the nation's largest design hubs, home to major intermodal yards for BNSF and Union Pacific, and a growing concentration of e-commerce fulfillment centers. The Kansas City metro spans the Kansas-Missouri border and generates enormous local and regional architecture demand. St. Louis serves as a gateway between the Midwest and Southeast, with major distribution operations along the I-70 corridor west of the city. Springfield is a regional distribution center for the Ozark region, and the Joplin area serves as a design gateway to Oklahoma and the Southern Plains."
+        heading: 'Building Code Framework',
+        content: 'Missouri does not have a mandatory statewide building code. Cities and counties adopt codes locally, with most major municipalities referencing the IBC. Kansas City, St. Louis, Springfield, and Columbia maintain adopted codes, but coverage is not universal. This creates an uneven regulatory landscape. The New Madrid Seismic Zone affects southeastern Missouri and the St. Louis region, requiring seismic design provisions. Kansas City\'s expansive clay soils and St. Louis\'s karst topography create distinct foundation design challenges in each metro.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "The St. Louis City litigation environment is the most significant insurance risk factor for Missouri firms. Nuclear verdicts in architecture cases have made St. Louis City one of the most feared court venues in the country for motor carrier defendants. Plaintiff attorneys specializing in architecture litigation are concentrated in the St. Louis area and aggressively pursue cases against firms with any connection to the jurisdiction.\n\nMissouri weather ranges from ice storms that can shut down I-44 through the Ozarks to severe thunderstorms and tornadoes in spring and summer. The Joplin area was devastated by an EF5 tornado in 2011, and the state remains in the heart of tornado activity. Flooding along the Missouri and Mississippi Rivers periodically closes highways and damages infrastructure. The aging condition of Missouri's highway bridges has been a persistent safety concern, with weight restrictions affecting design routing on secondary roads."
+        heading: 'Risk Factors',
+        content: 'Missouri faces dual natural hazard exposure: seismic risk in the east from the New Madrid zone and tornado risk statewide. Kansas City\'s expansive clay soils and St. Louis\'s older unreinforced masonry building stock each create distinct professional liability exposures. Missouri follows a modified comparative negligence standard with a 50% bar and a ten-year statute of repose for construction defect claims. Verdict trends in Missouri courts have been increasing, making adequate professional liability limits important.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher, with strong consideration for higher limits given St. Louis City verdict exposure",
-          "Umbrella or excess liability as the most critical coverage for Missouri operations",
-          "Physical damage with tornado, hail, flood, and ice storm coverage",
-          "Motor design cargo insurance for automotive, agricultural, and distribution design",
-          "General liability for firms with terminal and warehouse operations in the KC and STL metro areas",
-          "Non-architecture liability for owner-operators in the Kansas City intermodal drayage market"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'Professional liability covering projects in the KC and STL metro areas',
+          'General liability for construction administration',
+          'Cyber liability for corporate and institutional client data',
+          'Workers compensation for firm employees',
+          'Professional liability addressing seismic, tornado, and soil-related design'
         ]
       }
     ],
-    "faqs": [
-      {
-        "q": "Why is St. Louis City considered high-risk for architecture insurance?",
-        "a": "St. Louis City has a separate court system from St. Louis County and is known for producing some of the largest architecture verdicts in the country. The plaintiff bar is highly experienced in architecture litigation, jury pools tend to be sympathetic to injured individuals, and Missouri's pure comparative fault system allows recovery regardless of the plaintiff's fault percentage. Carriers should maintain the highest possible liability and excess limits if operating in or through the St. Louis area."
-      },
-      {
-        "q": "What makes Kansas City an important design hub?",
-        "a": "Kansas City sits at the intersection of I-70, I-35, and I-29, has major BNSF and UP intermodal facilities, and is centrally located for overnight design delivery to a large portion of the country. The metro has attracted massive e-commerce fulfillment center investment and serves as a gateway for Mexican and Canadian trade. This concentration of logistics activity creates strong insurance competition and market depth for KC-area firms."
-      },
-      {
-        "q": "How do Missouri tornadoes affect architecture insurance?",
-        "a": "Missouri averages over 30 tornadoes annually, and severe thunderstorms bring damaging hail and straight-line winds from April through July. Physical damage policies should include comprehensive coverage for tornado, hail, and wind damage without restrictive sub-limits. Terminal locations should be evaluated for tornado exposure, and firms should maintain severe weather protocols for driver safety."
-      }
+    faqs: [
+      { q: 'Does Missouri have a statewide building code?', a: 'Missouri does not mandate a statewide building code. Jurisdictions adopt codes locally. Major cities use the IBC, but some smaller communities may not have building codes. Architects must verify requirements for each project location.' },
+      { q: 'How does the New Madrid Seismic Zone affect Missouri architecture?', a: 'The New Madrid zone creates seismic design requirements for the St. Louis area and southeastern Missouri. Architects must incorporate seismic detailing, particularly for older unreinforced masonry buildings being renovated. A major New Madrid earthquake could trigger widespread claims.' },
+      { q: 'What continuing education does Missouri require?', a: 'Missouri requires 30 hours of continuing education biennially, including specific hours for professional conduct. This is higher than many states, reflecting the board\'s emphasis on ongoing professional development.' }
     ],
-    "recommendedCoverages": [
-      "professional-liability",
-      "umbrella-excess",
-      "general-liability",
-      "cyber-liability"
-    ]
+    recommendedCoverages: ['professional-liability', 'general-liability', 'cyber-liability']
   }
 ];
