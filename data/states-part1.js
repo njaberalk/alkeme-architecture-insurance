@@ -324,7 +324,7 @@ export const statesPart1 = [
     name: 'Florida',
     abbreviation: 'FL',
     metaTitle: 'Architecture Insurance in Florida',
-    metaDescription: 'Architecture insurance for Florida firms. Coverage for hurricane-zone design, High Velocity Hurricane Zone requirements, and the Sunshine State\'s booming market.',
+    metaDescription: 'Architecture insurance for Florida firms. Coverage for hurricane-zone design, High Velocity Hurricane Zone requirements, and the Sunshine State\'s booming.',
     heroHeading: 'Florida Architecture Insurance',
     heroSubheading: 'Coverage for firms in one of the nation\'s most demanding design environments.',
     overview: 'Florida is one of the largest and most complex architecture insurance markets in the country. The combination of the Florida Building Code\'s stringent wind-resistance requirements, High Velocity Hurricane Zone standards in Miami-Dade and Broward counties, the state\'s no-fault legal framework, and one of the most litigious construction environments in the nation creates professional liability exposure that demands robust coverage and careful risk management.',

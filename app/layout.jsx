@@ -14,10 +14,10 @@ const poppins = Poppins({
 export const metadata = {
   metadataBase: new URL('https://alkemeins.com/architecture'),
   title: {
-    template: '%s | ALKEME Insurance Services',
-    default: 'Architecture Insurance | ALKEME Insurance Services',
+    template: '%s | ALKEME',
+    default: 'Architecture Insurance | ALKEME',
   },
-  description: 'ALKEME Insurance Services provides specialized architecture firm insurance including professional liability (E&O), general liability, cyber coverage, and more for design professionals nationwide.',
+  description: 'Specialized architecture firm insurance from ALKEME — professional liability (E&O), general liability, cyber, and more for design professionals nationwide.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -33,7 +33,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Architecture Insurance | ALKEME Insurance Services',
+    title: 'Architecture Insurance | ALKEME',
     description: 'Specialized insurance for architecture firms, design professionals, and engineering practices across all 50 states.',
     images: ['https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1200&h=630&q=80'],
   },

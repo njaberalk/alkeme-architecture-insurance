@@ -204,7 +204,7 @@ export const citiesPart1 = [
     stateSlug: 'kentucky',
     abbreviation: 'KY',
     metaTitle: 'Architecture Insurance in Louisville, KY',
-    metaDescription: 'Architecture insurance in Louisville, Kentucky. Professional liability coverage for firms working on bourbon distillery, healthcare, and urban revitalization projects.',
+    metaDescription: 'Architecture insurance in Louisville, Kentucky. Professional liability coverage for firms working on bourbon distillery, healthcare, and urban revitalization.',
     heroHeading: 'Louisville Architecture Insurance',
     heroSubheading: 'Protecting design firms along the Ohio River corridor.',
     overview: 'Louisville\'s architecture market is shaped by the bourbon industry\'s expansion, healthcare sector growth led by Humana and Norton Healthcare, and ongoing downtown revitalization centered on the Whiskey Row and NuLu districts. The city\'s historic building stock and Ohio River waterfront create distinctive design opportunities that blend preservation expertise with contemporary architecture.',

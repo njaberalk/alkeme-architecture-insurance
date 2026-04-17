@@ -3,7 +3,7 @@ export const coverages = [
     slug: 'professional-liability',
     title: 'Professional Liability (E&O)',
     metaTitle: 'Professional Liability Insurance for Architects',
-    metaDescription: 'Professional liability (errors and omissions) insurance for architecture firms. Protects against claims of design errors, omissions, and professional negligence.',
+    metaDescription: 'Professional liability (errors and omissions) insurance for architecture firms.',
     heroHeading: 'Professional Liability Insurance for Architects',
     heroSubheading:
       'Essential protection against claims arising from design errors, omissions, and professional negligence in architecture practice.',
@@ -63,7 +63,7 @@ export const coverages = [
     slug: 'general-liability',
     title: 'General Liability',
     metaTitle: 'General Liability Insurance for Architecture Firms',
-    metaDescription: 'General liability insurance for architecture firms. Covers third-party bodily injury, property damage, and personal injury claims at your office and project sites.',
+    metaDescription: 'General liability insurance for architecture firms. Covers third-party bodily injury, property damage, and personal injury claims at your office and project.',
     heroHeading: 'General Liability Insurance for Architects',
     heroSubheading:
       'Protection against third-party bodily injury, property damage, and personal injury claims arising from your business operations.',
@@ -297,7 +297,7 @@ export const coverages = [
     slug: 'umbrella-excess',
     title: 'Umbrella / Excess Liability',
     metaTitle: 'Umbrella & Excess Liability Insurance for Architects',
-    metaDescription: 'Umbrella and excess liability insurance for architecture firms. Additional liability limits above your primary policies for catastrophic claims and large project requirements.',
+    metaDescription: 'Umbrella and excess liability insurance for architecture firms.',
     heroHeading: 'Umbrella & Excess Liability for Architects',
     heroSubheading:
       'Additional layers of liability protection above your primary policies for catastrophic claims and contractual requirements.',
@@ -436,7 +436,7 @@ export const coverages = [
     slug: 'valuable-papers',
     title: 'Valuable Papers & Records',
     metaTitle: 'Valuable Papers Insurance for Architecture Firms',
-    metaDescription: 'Valuable papers and records insurance for architecture firms. Covers the cost of recreating lost or damaged architectural drawings, plans, and project documentation.',
+    metaDescription: 'Valuable papers and records insurance for architecture firms.',
     heroHeading: 'Valuable Papers & Records Coverage',
     heroSubheading:
       'Protecting the cost of recreating irreplaceable architectural drawings, project documentation, and design archives.',

@@ -6,7 +6,7 @@ export const citiesPart2 = [
     stateSlug: 'california',
     abbreviation: 'CA',
     metaTitle: 'Architecture Insurance in Fresno, CA',
-    metaDescription: 'Architecture insurance in Fresno, California. Coverage for firms designing agricultural facilities, civic buildings, and residential projects in the Central Valley.',
+    metaDescription: 'Architecture insurance in Fresno, California. Coverage for firms designing agricultural facilities, civic buildings, and residential projects in the Central.',
     heroHeading: 'Fresno Architecture Insurance',
     heroSubheading: 'Protecting design firms in California\'s Central Valley.',
     overview: 'Fresno is the economic hub of California\'s Central Valley, and its architecture market reflects the region\'s agricultural economy, growing population, and expanding institutional sector. Firms here design agricultural processing facilities, civic buildings, university campus projects for Fresno State, and residential developments serving one of the fastest-growing regions in the state.',
